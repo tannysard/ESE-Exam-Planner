@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For My SweetHeart 😙❤️</title>
+  <meta name="description" content="Use this for MCQs and last mintue revisons.">
+
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- KaTeX for crisp mathematical typography -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+  <!-- Top Navigation Bar -->
+  <header class="navbar" role="banner">
+    <div class="navbar-container">
+      <a href="#" class="brand" aria-label="ExamQuest Home">
+        <div class="brand-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"
+            stroke-linecap="round" stroke-linejoin="round">
+            <rect x="4" y="4" width="16" height="16" rx="2"></rect>
+            <rect x="9" y="9" width="6" height="6"></rect>
+            <path d="M9 1v3M15 1v3M9 20v3M15 20v3M20 9h3M20 14h3M1 9h3M1 14h3"></path>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1><span class="brand-title-text">For My SweetHeart</span> <span class="brand-emoji">😙❤️</span></h1>
+          <span>A Website to help my girl ace her End Sems <span class="brand-emoji">❤️</span></span>
+        </div>
+      </a>
+
+      <!-- Subject Switcher -->
+      <nav class="subject-switcher" role="tablist" aria-label="Select Subject">
+        <button id="btn-subject-mp" class="subject-btn active" role="tab" aria-selected="true"
+          onclick="switchSubject('mp')">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="4" y="4" width="16" height="16" rx="2"></rect>
+            <rect x="9" y="9" width="6" height="6"></rect>
+          </svg>
+          <span>Intel 8086 MP</span>
+          <span class="badge badge-primary" id="mp-count-badge">1,116</span>
+        </button>
+        <button id="btn-subject-ppl" class="subject-btn" role="tab" aria-selected="false"
+          onclick="switchSubject('ppl')">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="4 17 10 11 4 5"></polyline>
+            <line x1="12" y1="19" x2="20" y2="19"></line>
+          </svg>
+          <span>PPL Complete</span>
+          <span class="badge badge-primary" id="ppl-count-badge">158</span>
+        </button>
+      </nav>
+
+      <!-- Nav Actions -->
+      <div class="nav-actions">
+        <div class="stat-pill" title="Overall Accuracy across answered questions">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <circle cx="12" cy="12" r="10"></circle>
+            <polyline points="12 6 12 12 16 14"></polyline>
+          </svg>
+          <span id="nav-accuracy">100%</span>
+        </div>
+        <button id="btn-starred-filter" class="icon-btn" title="View Starred / Bookmarked Questions"
+          onclick="filterByStarred()" aria-label="Starred Questions">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon
+              points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+            </polygon>
+          </svg>
+        </button>
+        <button id="btn-sound-toggle" class="icon-btn" title="Toggle Sound Feedback" onclick="toggleSound()"
+          aria-label="Toggle Sound">
+          <svg id="sound-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+          </svg>
+        </button>
+        <button id="btn-theme-toggle" class="icon-btn" title="Toggle Dark / Light Theme" onclick="toggleTheme()"
+          aria-label="Toggle Theme">
+          <svg id="theme-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            stroke-width="2">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+        </button>
+        <button class="icon-btn" title="Keyboard Shortcuts" onclick="openModal('modal-shortcuts')"
+          aria-label="Keyboard Shortcuts">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- App Layout -->
+  <div class="app-container">
+
+    <!-- Sidebar Controls -->
+    <aside class="sidebar" role="complementary">
+
+      <!-- Mode Selection -->
+      <div class="card">
+        <h3 class="card-title">Study Mode</h3>
+        <div class="mode-pills" role="radiogroup" aria-label="Study Mode Selection">
+          <button id="mode-btn-practice" class="mode-pill active" onclick="switchMode('practice')" role="radio"
+            aria-checked="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+              <polyline points="14 2 14 8 20 8"></polyline>
+              <line x1="16" y1="13" x2="8" y2="13"></line>
+              <line x1="16" y1="17" x2="8" y2="17"></line>
+              <polyline points="10 9 9 9 8 9"></polyline>
+            </svg>
+            Practice
+          </button>
+          <button id="mode-btn-exam" class="mode-pill" onclick="switchMode('exam')" role="radio" aria-checked="false">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+            Exam Test
+          </button>
+          <button id="mode-btn-flashcards" class="mode-pill" onclick="switchMode('flashcards')" role="radio"
+            aria-checked="false">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+              <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+            </svg>
+            Flashcards
+          </button>
+          <button id="mode-btn-search" class="mode-pill" onclick="switchMode('search')" role="radio"
+            aria-checked="false">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+            Explorer
+          </button>
+        </div>
+      </div>
+
+      <!-- Chapter / Module Selector -->
+      <div class="card">
+        <div class="card-title">
+          <span id="sidebar-chapters-title">Chapters & Units</span>
+          <span class="badge badge-muted" id="total-questions-tag">1,116 Qs</span>
+        </div>
+        <nav class="chapter-nav" id="chapter-list" role="navigation" aria-label="Chapter Navigation">
+          <!-- Dynamically populated -->
+        </nav>
+      </div>
+
+      <!-- Quick Filters Card -->
+      <div class="card">
+        <h3 class="card-title">Refine Questions</h3>
+
+        <div class="filter-group">
+          <label class="filter-label" for="filter-type">Question Format</label>
+          <select id="filter-type" class="filter-select" onchange="applyFilters()">
+            <option value="all">All Question Types</option>
+            <option value="mcq">Multiple Choice (4 Options)</option>
+            <option value="true_false">True / False Diagnostics</option>
+            <option value="fill_blank">Fill in the Blanks</option>
+            <option value="qa">One-Mark Q&A & Definitions</option>
+            <option value="numerical">Numerical & Long Practice</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label" for="filter-source">Source Document</label>
+          <select id="filter-source" class="filter-select" onchange="applyFilters()">
+            <option value="all">All Reference Documents</option>
+            <!-- Populated dynamically -->
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label class="filter-label" for="filter-status">Attempt Status</label>
+          <select id="filter-status" class="filter-select" onchange="applyFilters()">
+            <option value="all">All Statuses</option>
+            <option value="unattempted">Unattempted Only</option>
+            <option value="incorrect">Needs Review (Incorrect)</option>
+            <option value="correct">Mastered (Correct)</option>
+            <option value="starred">Starred / Bookmarked</option>
+          </select>
+        </div>
+
+        <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+          <button class="btn btn-outline w-full" style="padding: 0.45rem; font-size: 0.8rem;"
+            onclick="resetChapterProgress()">
+            Reset Subject Stats
+          </button>
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- Main Content Area -->
+    <main class="main-content" role="main">
+
+      <!-- ===================================== -->
+      <!-- VIEW 1: PRACTICE QUIZ VIEW -->
+      <!-- ===================================== -->
+      <section id="view-practice" class="quiz-section">
+
+        <!-- Header Bar -->
+        <div class="quiz-header">
+          <div class="quiz-info">
+            <h2 id="quiz-chapter-heading">Chapter Title</h2>
+            <div class="quiz-meta">
+              <span id="quiz-question-counter">Question 1 of 126</span>
+              <span>•</span>
+              <span class="badge badge-primary" id="quiz-category-tag">Master Theory MCQ</span>
+              <span class="badge badge-muted" id="quiz-source-tag">Document Name</span>
+            </div>
+          </div>
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <button id="btn-bookmark-current" class="icon-btn" title="Bookmark Question"
+              onclick="toggleBookmarkCurrent()" aria-label="Bookmark Question">
+              <svg id="bookmark-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                stroke-width="2">
+                <polygon
+                  points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                </polygon>
+              </svg>
+            </button>
+            <button class="btn btn-outline" style="padding: 0.45rem 0.75rem; font-size: 0.82rem;"
+              onclick="openJumpModal()">
+              Jump to #
+            </button>
+          </div>
+          <div class="progress-container" aria-label="Quiz progress">
+            <div class="progress-bar" id="quiz-progress-bar" style="width: 5%;"></div>
+          </div>
+        </div>
+
+        <!-- Question Card -->
+        <article class="question-card" id="practice-card">
+          <div class="question-text" id="question-text">
+            Loading question...
+          </div>
+
+          <div id="question-code-block" class="question-code hidden"></div>
+
+          <!-- Options Container -->
+          <div class="options-grid" id="options-container" role="radiogroup" aria-label="Question Options">
+            <!-- Dynamic Option Buttons -->
+          </div>
+
+          <!-- Explanation Container (Revealed after selection) -->
+          <div class="explanation-box hidden" id="explanation-container" aria-live="polite">
+            <div class="explanation-header">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="12" y1="16" x2="12" y2="12"></line>
+                <line x1="12" y1="8" x2="12.01" y2="8"></line>
+              </svg>
+              <span id="explanation-title">Explanation & Rationale</span>
+            </div>
+            <div class="explanation-content" id="explanation-text"></div>
+          </div>
+
+          <!-- Action Controls -->
+          <div class="question-controls">
+            <button class="btn btn-outline" id="btn-prev" onclick="navigateQuestion(-1)">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="15 18 9 12 15 6"></polyline>
+              </svg>
+              Previous
+            </button>
+
+            <div style="display: flex; gap: 0.5rem; align-items: center;">
+              <span class="badge badge-muted" id="keyboard-hint" style="font-size: 0.75rem;">Press Keys 1-4 or
+                A-D</span>
+            </div>
+
+            <button class="btn btn-primary" id="btn-next" onclick="navigateQuestion(1)">
+              Next
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="9 18 15 12 9 6"></polyline>
+              </svg>
+            </button>
+          </div>
+        </article>
+
+      </section>
+
+      <!-- ===================================== -->
+      <!-- VIEW 2: TIMED EXAM VIEW -->
+      <!-- ===================================== -->
+      <section id="view-exam" class="quiz-section hidden">
+
+        <!-- Exam Setup Screen -->
+        <div id="exam-setup-card" class="card"
+          style="padding: 2.5rem; text-align: center; max-width: 650px; margin: 2rem auto;">
+          <div
+            style="width: 60px; height: 60px; border-radius: var(--radius-full); background: var(--primary-light); color: var(--primary); display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem auto;">
+            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+          </div>
+          <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">Configure Mock Examination</h2>
+          <p style="color: var(--text-secondary); margin-bottom: 1.5rem; font-size: 0.95rem;">
+            Test your knowledge under real exam conditions. Answers will be scored at the end with a comprehensive
+            performance breakdown.
+          </p>
+
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; text-align: left; margin-bottom: 2rem;">
+            <div>
+              <label class="filter-label" for="exam-count-select">Number of Questions</label>
+              <select id="exam-count-select" class="filter-select">
+                <option value="15">15 Questions (Quick Test)</option>
+                <option value="30" selected>30 Questions (Standard Drill)</option>
+                <option value="50">50 Questions (Comprehensive)</option>
+                <option value="100">100 Questions (End-Sem Marathon)</option>
+                <option value="all">All Filtered Questions</option>
+              </select>
+            </div>
+            <div>
+              <label class="filter-label" for="exam-timer-select">Time Duration</label>
+              <select id="exam-timer-select" class="filter-select">
+                <option value="15">15 Minutes</option>
+                <option value="30" selected>30 Minutes</option>
+                <option value="60">60 Minutes</option>
+                <option value="90">90 Minutes</option>
+                <option value="0">Untimed</option>
+              </select>
+            </div>
+          </div>
+
+          <button class="btn btn-primary" style="padding: 0.85rem 2rem; font-size: 1rem; width: 100%;"
+            onclick="startExamSession()">
+            Begin Examination Now
+          </button>
+        </div>
+
+        <!-- Active Exam Screen -->
+        <div id="exam-active-container" class="hidden">
+          <div class="exam-header">
+            <div>
+              <h3 style="font-size: 1.1rem; font-weight: 700;" id="exam-header-title">Timed Examination</h3>
+              <span style="font-size: 0.85rem; color: var(--text-secondary);" id="exam-progress-counter">Question 1 of
+                30</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 1rem;">
+              <div class="timer-box" id="exam-timer" title="Time Remaining">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <polyline points="12 6 12 12 16 14"></polyline>
+                </svg>
+                <span id="exam-timer-display">30:00</span>
+              </div>
+              <button class="btn btn-success" onclick="confirmFinishExam()">
+                Submit Paper
+              </button>
+            </div>
+          </div>
+
+          <div style="display: grid; grid-template-columns: 1fr 280px; gap: 1.5rem; margin-top: 1.25rem;">
+            <article class="question-card" id="exam-card">
+              <div class="question-text" id="exam-question-text">Loading question...</div>
+              <div id="exam-code-block" class="question-code hidden"></div>
+              <div class="options-grid" id="exam-options-container"></div>
+              <div class="question-controls">
+                <button class="btn btn-outline" onclick="navigateExamQuestion(-1)">Previous</button>
+                <button class="btn btn-outline" id="btn-flag-exam" onclick="toggleFlagCurrentExamQuestion()">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polygon
+                      points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                    </polygon>
+                  </svg>
+                  Flag for Review
+                </button>
+                <button class="btn btn-primary" onclick="navigateExamQuestion(1)">Next</button>
+              </div>
+            </article>
+
+            <!-- Exam Palette Sheet -->
+            <div class="card" style="height: fit-content;">
+              <h4 class="card-title" style="font-size: 0.85rem;">Question Palette</h4>
+              <div class="question-grid-nav" id="exam-palette-nav"></div>
+              <div
+                style="margin-top: 1rem; font-size: 0.75rem; color: var(--text-muted); display: flex; flex-direction: column; gap: 0.25rem;">
+                <div style="display: flex; align-items: center; gap: 0.4rem;">
+                  <span style="width: 10px; height: 10px; background: var(--primary); border-radius: 2px;"></span>
+                  Answered
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.4rem;">
+                  <span
+                    style="width: 10px; height: 10px; background: var(--warning-bg); border: 1px solid var(--warning); border-radius: 2px;"></span>
+                  Flagged
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.4rem;">
+                  <span
+                    style="width: 10px; height: 10px; background: var(--bg-subtle); border: 1px solid var(--border-subtle); border-radius: 2px;"></span>
+                  Unattempted
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Exam Results Screen -->
+        <div id="exam-results-container" class="hidden">
+          <div class="score-card">
+            <div class="score-circle">
+              <span class="score-number" id="result-score-percent">88%</span>
+              <span class="score-label" id="result-score-grade">Distinction</span>
+            </div>
+            <h2 style="font-size: 1.5rem; font-weight: 700;">Examination Completed!</h2>
+            <p style="color: var(--text-secondary); max-width: 500px;" id="result-summary-msg">
+              Great job! You have demonstrated strong analytical mastery.
+            </p>
+
+            <div class="score-breakdown-grid">
+              <div class="score-breakdown-item">
+                <div class="num" style="color: var(--success);" id="result-correct-count">24</div>
+                <div class="label">Correct</div>
+              </div>
+              <div class="score-breakdown-item">
+                <div class="num" style="color: var(--danger);" id="result-wrong-count">4</div>
+                <div class="label">Incorrect</div>
+              </div>
+              <div class="score-breakdown-item">
+                <div class="num" style="color: var(--text-muted);" id="result-skipped-count">2</div>
+                <div class="label">Skipped</div>
+              </div>
+            </div>
+
+            <div style="display: flex; gap: 1rem; margin-top: 1rem; flex-wrap: wrap;">
+              <button class="btn btn-primary" onclick="reviewExamAnswers()">
+                Review Full Solutions
+              </button>
+              <button class="btn btn-outline" onclick="switchMode('exam')">
+                Take Another Exam
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+      <!-- ===================================== -->
+      <!-- VIEW 3: FLASHCARDS VIEW -->
+      <!-- ===================================== -->
+      <section id="view-flashcards" class="quiz-section hidden">
+        <div class="quiz-header">
+          <div class="quiz-info">
+            <h2>Interactive Concept Flashcards</h2>
+            <div class="quiz-meta">
+              <span id="fc-counter">Card 1 of 200</span>
+              <span>•</span>
+              <span class="badge badge-primary">Click Card or Press Space to Flip</span>
+            </div>
+          </div>
+          <div style="display: flex; gap: 0.5rem;">
+            <button class="btn btn-outline" style="padding: 0.45rem 0.75rem;" onclick="shuffleFlashcards()">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="16 3 21 3 21 8"></polyline>
+                <line x1="4" y1="20" x2="21" y2="3"></line>
+                <polyline points="21 16 21 21 16 21"></polyline>
+                <line x1="15" y1="15" x2="21" y2="21"></line>
+                <line x1="4" y1="4" x2="9" y2="9"></line>
+              </svg>
+              Shuffle
+            </button>
+          </div>
+        </div>
+
+        <div class="flashcard-scene" onclick="flipFlashcard()">
+          <div class="flashcard-inner" id="flashcard-inner">
+            <!-- Front Face -->
+            <div class="flashcard-face flashcard-front">
+              <div class="tag-list">
+                <span class="badge badge-primary" id="fc-front-cat">One-Mark Core</span>
+                <span class="badge badge-muted" id="fc-front-source">8086 Notes</span>
+              </div>
+              <div style="font-size: 1.35rem; font-weight: 600; text-align: center; margin: auto;"
+                id="fc-question-text">
+                What is the memory word size of an 8086-based system?
+              </div>
+              <div class="flashcard-hint">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"></path>
+                </svg>
+                Click or press Space to reveal answer
+              </div>
+            </div>
+
+            <!-- Back Face -->
+            <div class="flashcard-face flashcard-back">
+              <div class="tag-list">
+                <span class="badge badge-success">Verified Model Answer</span>
+              </div>
+              <div style="font-size: 1.25rem; font-weight: 500; text-align: center; margin: auto; line-height: 1.7;"
+                id="fc-answer-text">
+                The memory word size of an 8086-based system is 16 bits (2 bytes).
+              </div>
+              <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem;"
+                onclick="event.stopPropagation()">
+                <button class="btn btn-outline" style="border-color: var(--danger); color: var(--danger);"
+                  onclick="rateFlashcard(false)">
+                  Needs More Practice
+                </button>
+                <button class="btn btn-success" onclick="rateFlashcard(true)">
+                  Mastered Concept!
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="question-controls" style="margin-top: 1rem;">
+          <button class="btn btn-outline" onclick="navigateFlashcard(-1)">Previous Card</button>
+          <button class="btn btn-primary" onclick="navigateFlashcard(1)">Next Card</button>
+        </div>
+      </section>
+
+      <!-- ===================================== -->
+      <!-- VIEW 4: SEARCH & QUESTION EXPLORER -->
+      <!-- ===================================== -->
+      <section id="view-search" class="quiz-section hidden">
+        <div class="search-bar-container">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+            style="color: var(--text-muted);">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="global-search-input" class="search-input"
+            placeholder="Search across all 1,274 questions, keywords (e.g. ALE, BHE, DAA, JVM, BNF, Pipelining)..."
+            oninput="handleSearch(this.value)">
+          <span class="badge badge-muted" id="search-count-badge">0 results</span>
+        </div>
+
+        <div class="search-results-list" id="search-results-container" style="margin-top: 1.25rem;">
+          <!-- Dynamically populated search cards -->
+        </div>
+      </section>
+
+    </main>
+
+  </div>
+
+  <!-- Modal: Jump to Question -->
+  <div id="modal-jump" class="modal-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="jump-modal-title">
+    <div class="modal-content">
+      <div style="display: flex; align-items: center; justify-content: space-between;">
+        <h3 id="jump-modal-title" style="font-size: 1.15rem; font-weight: 700;">Jump to Question</h3>
+        <button class="icon-btn" onclick="closeModal('modal-jump')">&times;</button>
+      </div>
+      <p style="font-size: 0.85rem; color: var(--text-secondary);">Select any question in the current filtered set:</p>
+      <div class="question-grid-nav" id="jump-grid-container" style="max-height: 320px;"></div>
+    </div>
+  </div>
+
+  <!-- Modal: Keyboard Shortcuts -->
+  <div id="modal-shortcuts" class="modal-overlay hidden" role="dialog" aria-modal="true"
+    aria-labelledby="shortcuts-modal-title">
+    <div class="modal-content">
+      <div style="display: flex; align-items: center; justify-content: space-between;">
+        <h3 id="shortcuts-modal-title" style="font-size: 1.15rem; font-weight: 700;">Keyboard Shortcuts</h3>
+        <button class="icon-btn" onclick="closeModal('modal-shortcuts')">&times;</button>
+      </div>
+      <div style="display: flex; flex-direction: column; gap: 0.75rem; font-size: 0.9rem;">
+        <div style="display: flex; justify-content: space-between;">
+          <span>Select Option A, B, C, D:</span>
+          <kbd style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">1, 2,
+            3, 4</kbd> or <kbd
+            style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">A, B, C,
+            D</kbd>
+        </div>
+        <div style="display: flex; justify-content: space-between;">
+          <span>Next Question:</span>
+          <kbd style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">Right
+            Arrow</kbd> or <kbd
+            style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">N</kbd>
+        </div>
+        <div style="display: flex; justify-content: space-between;">
+          <span>Previous Question:</span>
+          <kbd style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">Left
+            Arrow</kbd> or <kbd
+            style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">P</kbd>
+        </div>
+        <div style="display: flex; justify-content: space-between;">
+          <span>Bookmark / Star:</span>
+          <kbd
+            style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">B</kbd>
+        </div>
+        <div style="display: flex; justify-content: space-between;">
+          <span>Flip Flashcard:</span>
+          <kbd
+            style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">Spacebar</kbd>
+          or <kbd
+            style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">F</kbd>
+        </div>
+        <div style="display: flex; justify-content: space-between;">
+          <span>Quick Search:</span>
+          <kbd
+            style="background: var(--bg-subtle); padding: 2px 8px; border-radius: 4px; font-family: monospace;">/</kbd>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer" role="contentinfo">
+    <p>COEP End-Sem Preparation Portal • Prepared from Verified University Curriculum & 8086 Master Notes</p>
+    <p style="margin-top: 4px; font-size: 0.75rem;">100% of all syllabus PDFs and documents included with zero checking
+      errors.</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="quiz_data.js"></script>
+  <script src="app.js"></script>
+</body>
+
+</html>
