@@ -22,7 +22,7 @@ dataset = {
             "chapters": [
                 {
                     "id": "mp_ch1",
-                    "title": "Chapter 1: Bus Architecture, Demultiplexing & Memory Interfacing",
+                    "title": "Chapter 1: Bus Demultiplexing & Memory Interfacing",
                     "icon": "layers",
                     "description": "Demultiplexing ALE, 74LS373 latches, 74LS245 transceivers, tristate logic, address decoding, 74LS138, clock timing & bus contention."
                 },
@@ -30,49 +30,81 @@ dataset = {
                     "id": "mp_ch2",
                     "title": "Chapter 2: Pins, Signals, Internal Architecture & Bus Cycles",
                     "icon": "activity",
-                    "description": "BIU & EU, 6-byte instruction queue, pipelining, segment registers, Even/Odd memory banks, read/write timing cycles, wait state (Tw) & interrupts."
+                    "description": "BIU & EU, 6-byte instruction queue, pipelining, segment registers, Even/Odd memory banks (BHE/A0), read/write timing cycles, wait state (Tw) & interrupts."
                 },
                 {
                     "id": "mp_ch3",
                     "title": "Chapter 3: Instruction Set & Addressing Modes",
                     "icon": "code",
-                    "description": "Machine instruction encoding (d, w, mod, reg, r/m), 12 addressing modes, arithmetic/logic, shifts/rotates, strings, CALL/RET, and control transfer."
+                    "description": "Machine instruction encoding (d, w, mod, reg, r/m), 12 addressing modes, arithmetic/logic, shifts/rotates, strings, and control transfer."
                 },
                 {
                     "id": "mp_ch4",
                     "title": "Chapter 4: Interrupts, Stack, Subroutines & Strings",
                     "icon": "zap",
                     "description": "Interrupt vector table (IVT), hardware vs software interrupts, stack frame mechanics, CALL/RET nuances, string primitives & shift/rotate flags."
-                },
+                }
+            ],
+            "banks": [
                 {
-                    "id": "mp_obj",
-                    "title": "8086 Comprehensive Objective Question Bank (258 MCQs)",
+                    "id": "mp_bank_obj",
+                    "title": "8086 Objective MCQ Bank (258 MCQs)",
                     "icon": "check-circle",
-                    "description": "Complete exam-oriented objective multiple-choice question bank with verified answers across all syllabus topics."
+                    "description": "Comprehensive university multiple-choice question bank covering all syllabus topics with verified keys."
                 },
                 {
-                    "id": "mp_tf",
-                    "title": "8086 True / False Diagnostic Assessment (296 Questions)",
+                    "id": "mp_bank_tf",
+                    "title": "8086 True / False Diagnostic Assessment (296 Qs)",
                     "icon": "help-circle",
-                    "description": "Exhaustive True/False worksheet testing deep technical understanding, edge-cases, and common pitfalls."
+                    "description": "Exhaustive True/False worksheet testing deep technical understanding, edge-cases, and common traps."
                 },
                 {
-                    "id": "mp_blanks",
-                    "title": "8086 Fill-in-the-Blanks Technical Review (127 Questions)",
+                    "id": "mp_bank_fib",
+                    "title": "8086 Fill-in-the-Blanks Technical Review (128 Qs)",
                     "icon": "edit-3",
-                    "description": "Rapid terminology and parameter completion review covering all architectural parameters."
+                    "description": "Rapid terminology and architectural parameter completion review."
                 },
                 {
-                    "id": "mp_onemark",
-                    "title": "8086 One-Mark Core Q&A Bank (205 Questions)",
+                    "id": "mp_bank_om",
+                    "title": "8086 One-Mark Core Q&A Bank (200 Qs)",
                     "icon": "book-open",
                     "description": "Concise high-yield single mark definitions, formulas, and pin explanations from Unit 1, Unit 2, and Unit 3."
                 },
                 {
-                    "id": "mp_num",
-                    "title": "8086 Master Numerical & Practice Pack",
+                    "id": "mp_bank_interrupts",
+                    "title": "Interrupts, Stack, CALL & RET Pack (36 Qs)",
+                    "icon": "zap",
+                    "description": "Deep-dive questions on IVT, hardware interrupts, stack pointer operations, and subroutines."
+                },
+                {
+                    "id": "mp_bank_shifts",
+                    "title": "Shift & Rotate Instructions Pack (27 Qs)",
+                    "icon": "repeat",
+                    "description": "SHL, SHR, SAR, ROL, ROR, RCL, RCR flag transformations and arithmetic shifts."
+                },
+                {
+                    "id": "mp_bank_strings",
+                    "title": "String Instruction Primitives Pack (17 Qs)",
+                    "icon": "type",
+                    "description": "MOVS, CMPS, SCAS, LODS, STOS, direction flag DF, and REP prefixes."
+                },
+                {
+                    "id": "mp_bank_num_pack",
+                    "title": "8086 Numerical & 8-Mark Practice Pack (34 Qs)",
                     "icon": "hash",
-                    "description": "Calculation problems covering physical memory capacity, ending addresses, bus cycle time, contention current, and program traces."
+                    "description": "Calculation problems covering physical memory capacity, bus cycle time, contention current, and program traces."
+                },
+                {
+                    "id": "mp_bank_master_qb",
+                    "title": "Master Question Bank Theory & T/F (75 Qs)",
+                    "icon": "award",
+                    "description": "COEP End-Sem Master Question Bank MCQs and True/False statements with teacher rationale."
+                },
+                {
+                    "id": "mp_bank_master_num",
+                    "title": "Master Numerical Question Bank (45 Qs)",
+                    "icon": "calculator",
+                    "description": "Algorithmic numerical problems with step-by-step mathematical decodings."
                 }
             ]
         },
@@ -119,12 +151,20 @@ dataset = {
                     "title": "Unit 6: Programming Paradigms",
                     "icon": "grid",
                     "description": "Imperative vs declarative, functional programming (Haskell, Lisp), logic programming (Prolog), object-oriented programming (Java, C++), and scripting."
+                }
+            ],
+            "banks": [
+                {
+                    "id": "ppl_bank_syllabus",
+                    "title": "PPL Complete Syllabus Question Bank (240 Qs)",
+                    "icon": "book-open",
+                    "description": "120 MCQs and 120 high-yield concept Q&As covering all 6 units with complete solutions."
                 },
                 {
-                    "id": "ppl_midsem",
-                    "title": "PPL Mid-Sem High-Yield Question Bank",
-                    "icon": "award",
-                    "description": "Mid-sem targeted MCQs, Right/Wrong diagnostics, Python execution traces, compiler/interpreter distinctions, and evolution timeline."
+                    "id": "ppl_bank_midsem",
+                    "title": "PPL Mid-Sem Exam High-Yield Bank (38 Qs)",
+                    "icon": "target",
+                    "description": "Mid-sem targeted MCQs and Right/Wrong diagnostics with explanations."
                 }
             ]
         }
@@ -135,7 +175,6 @@ dataset = {
 def clean_text(text):
     if not text:
         return ""
-    # Normalize whitespaces
     text = re.sub(r'[ \t]+', ' ', text)
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
@@ -152,7 +191,6 @@ if os.path.exists(path_mp_obj):
     full_text = re.sub(r'Comprehensive Solved Multiple Choice Questions & Answer Key', '', full_text)
     full_text = re.sub(r'Subject: Microprocessor & Assembly Language Reference Document: [^\n]+', '', full_text)
 
-    # Question blocks
     pattern = re.compile(r'Q(\d+)\.\s*(.*?)(?=\nQ\d+\.|\Z)', re.DOTALL)
     matches = pattern.findall(full_text)
     
@@ -166,13 +204,11 @@ if os.path.exists(path_mp_obj):
             ans_text = (ans_m.group(2) or "").strip()
             q_part = body[:ans_m.start()]
         else:
-            # Special case for Q42, Q141 and Q240 whose answer line was truncated at page break
             if qnum in [42, 141, 240]:
                 correct_opt = "D"
                 ans_text = "Because the speed of IO devices does not match with the speed of the microprocessor"
             q_part = body
 
-        # Parse options
         first_opt = re.search(r'(?:^|\n|\s)A\.\s*', q_part)
         opts = {}
         if first_opt:
@@ -184,15 +220,12 @@ if os.path.exists(path_mp_obj):
         else:
             prompt = clean_text(q_part)
 
-        # Cross-verify if ans_text matches an option text
         if ans_text and opts:
             for l, val in opts.items():
                 if val.lower() == ans_text.lower():
                     correct_opt = l
                     break
 
-        # Chapter assignment based on question number & topic
-        chapter_id = "mp_obj"
         if qnum <= 50:
             chapter_id = "mp_ch1"
         elif qnum <= 100:
@@ -200,12 +233,13 @@ if os.path.exists(path_mp_obj):
         elif qnum <= 200:
             chapter_id = "mp_ch3"
         else:
-            chapter_id = "mp_obj"
+            chapter_id = "mp_ch4"
 
         dataset["questions"].append({
             "id": f"mp_obj_{qnum}",
             "subjectId": "mp",
             "chapterId": chapter_id,
+            "bankId": "mp_bank_obj",
             "category": "Objective Multiple Choice",
             "type": "mcq",
             "qnum": qnum,
@@ -245,8 +279,6 @@ if os.path.exists(path_mp_tf):
             stmt = clean_text(qm.group(2) if qm else qtext)
             tf_count += 1
             
-            # Map chapter by topic
-            ch_id = "mp_tf"
             if qnum <= 60:
                 ch_id = "mp_ch1"
             elif qnum <= 130:
@@ -254,12 +286,13 @@ if os.path.exists(path_mp_tf):
             elif qnum <= 230:
                 ch_id = "mp_ch3"
             else:
-                ch_id = "mp_tf"
+                ch_id = "mp_ch4"
 
             dataset["questions"].append({
                 "id": f"mp_tf_{qnum}",
                 "subjectId": "mp",
                 "chapterId": ch_id,
+                "bankId": "mp_bank_tf",
                 "category": "True or False Diagnostic",
                 "type": "true_false",
                 "qnum": qnum,
@@ -273,7 +306,7 @@ if os.path.exists(path_mp_tf):
     print(f"   -> Extracted {tf_count} True/False questions.")
 
 # ==========================================
-# 3. PARSE 8086 FILL-IN-THE-BLANKS (127 Qs)
+# 3. PARSE 8086 FILL-IN-THE-BLANKS (128 Qs)
 # ==========================================
 print("3. Parsing 8086_Microprocessor_Fill_in_the_Blanks.pdf...")
 path_mp_fib = os.path.join(WEBSITE_DIR, "8086_Microprocessor_Fill_in_the_Blanks.pdf")
@@ -297,10 +330,20 @@ if os.path.exists(path_mp_fib):
         q_list.append((curr_num, clean_text(curr_q)))
         
     for qnum, stmt in q_list:
+        if qnum <= 35:
+            ch_id = "mp_ch1"
+        elif qnum <= 70:
+            ch_id = "mp_ch2"
+        elif qnum <= 105:
+            ch_id = "mp_ch3"
+        else:
+            ch_id = "mp_ch4"
+
         dataset["questions"].append({
             "id": f"mp_fib_{qnum}",
             "subjectId": "mp",
-            "chapterId": "mp_blanks",
+            "chapterId": ch_id,
+            "bankId": "mp_bank_fib",
             "category": "Fill in the Blanks Review",
             "type": "fill_blank",
             "qnum": qnum,
@@ -314,7 +357,7 @@ if os.path.exists(path_mp_fib):
     print(f"   -> Extracted {len(q_list)} Fill in the Blank items.")
 
 # ==========================================
-# 4. PARSE 8086 ONE-MARK Q&A (205 Qs)
+# 4. PARSE 8086 ONE-MARK Q&A (200 Qs)
 # ==========================================
 print("4. Parsing 8086 Microprocessor – One-Mark Q&A.pdf...")
 path_mp_om = os.path.join(WEBSITE_DIR, "8086 Microprocessor – One-Mark Q&A.pdf")
@@ -322,7 +365,6 @@ if os.path.exists(path_mp_om):
     r = pypdf.PdfReader(path_mp_om)
     full_text = "\n".join([p.extract_text() or "" for p in r.pages])
     
-    # Split by \nAns:\s*
     parts = re.split(r'\nAns:\s*', full_text)
     om_count = 0
     if len(parts) > 1:
@@ -330,11 +372,9 @@ if os.path.exists(path_mp_om):
             q_part = parts[i]
             a_part = parts[i+1]
             
-            # Question is the last non-empty lines of q_part
             q_lines = [l.strip() for l in q_part.split("\n") if l.strip() and not l.isdigit() and not l.startswith("🖥") and not l.startswith("📘") and not l.startswith("🧩") and not l.startswith("Unit ")]
             q_prompt = q_lines[-1] if q_lines else ""
             
-            # Answer is the first lines of a_part until next question or digit
             a_lines = []
             for l in a_part.split("\n"):
                 l_s = l.strip()
@@ -346,10 +386,18 @@ if os.path.exists(path_mp_om):
             
             if q_prompt and a_text:
                 om_count += 1
+                if om_count <= 70:
+                    ch_id = "mp_ch1"
+                elif om_count <= 140:
+                    ch_id = "mp_ch2"
+                else:
+                    ch_id = "mp_ch3"
+
                 dataset["questions"].append({
                     "id": f"mp_om_{om_count}",
                     "subjectId": "mp",
-                    "chapterId": "mp_onemark",
+                    "chapterId": ch_id,
+                    "bankId": "mp_bank_om",
                     "category": "One-Mark Q&A Flashcard",
                     "type": "qa",
                     "qnum": om_count,
@@ -367,17 +415,16 @@ if os.path.exists(path_mp_om):
 # ==========================================
 print("5. Parsing Topic Q&A packs...")
 topic_files = [
-    ("8086_Interrupts_Stack_Call_RET_Answers.pdf", "mp_ch4", "Interrupts, Stack, CALL & RET"),
-    ("8086_Shift_Rotate_Answers.pdf", "mp_ch3", "Shift and Rotate Instructions"),
-    ("8086_String_Instructions_Answers.pdf", "mp_ch4", "String Instructions")
+    ("8086_Interrupts_Stack_Call_RET_Answers.pdf", "mp_ch4", "mp_bank_interrupts", "Interrupts, Stack, CALL & RET"),
+    ("8086_Shift_Rotate_Answers.pdf", "mp_ch3", "mp_bank_shifts", "Shift and Rotate Instructions"),
+    ("8086_String_Instructions_Answers.pdf", "mp_ch4", "mp_bank_strings", "String Instructions")
 ]
 
-for filename, ch_id, category_name in topic_files:
+for filename, ch_id, bank_id, category_name in topic_files:
     fpath = os.path.join(WEBSITE_DIR, filename)
     if os.path.exists(fpath):
         r = pypdf.PdfReader(fpath)
         full_text = "\n".join([p.extract_text() or "" for p in r.pages])
-        # Find questions: \n\d+\.\s*...
         q_blocks = re.split(r'\n(?=\d+\.\s+)', full_text)
         t_count = 0
         for block in q_blocks:
@@ -392,6 +439,7 @@ for filename, ch_id, category_name in topic_files:
                         "id": f"mp_topic_{filename[:10]}_{qnum}",
                         "subjectId": "mp",
                         "chapterId": ch_id,
+                        "bankId": bank_id,
                         "category": category_name,
                         "type": "qa",
                         "qnum": qnum,
@@ -414,10 +462,12 @@ if os.path.exists(path_num_pack):
     full_text = "\n".join([p.extract_text() or "" for p in r.pages])
     num_blocks = re.findall(r'([A-C]\d+)\s*\[(\d+)\s*marks?\]\s*(.*?)(?=\n[A-C]\d+\s*\[|\nSECTION|\Z)', full_text, re.DOTALL)
     for q_code, marks, q_body in num_blocks:
+        ch_id = "mp_ch1" if q_code.startswith("A") else ("mp_ch2" if q_code.startswith("B") else "mp_ch3")
         dataset["questions"].append({
             "id": f"mp_numpack_{q_code}",
             "subjectId": "mp",
-            "chapterId": "mp_num",
+            "chapterId": ch_id,
+            "bankId": "mp_bank_num_pack",
             "category": f"Numerical & Tracing ({marks} Marks)",
             "type": "numerical",
             "qnum": q_code,
@@ -471,6 +521,7 @@ for ch in [1, 2, 3]:
                     "id": f"mp_master_ch{ch}_{q_id}",
                     "subjectId": "mp",
                     "chapterId": f"mp_ch{ch}",
+                    "bankId": "mp_bank_master_qb",
                     "category": "Master Theory MCQ",
                     "type": "mcq",
                     "qnum": q_id,
@@ -493,6 +544,7 @@ for ch in [1, 2, 3]:
                     "id": f"mp_master_tf_ch{ch}_{q_id}",
                     "subjectId": "mp",
                     "chapterId": f"mp_ch{ch}",
+                    "bankId": "mp_bank_master_qb",
                     "category": "True / False Concept",
                     "type": "true_false",
                     "qnum": q_id,
@@ -541,6 +593,7 @@ for ch in [1, 2, 3]:
                     "id": f"mp_num_ch{ch}_{q_id}",
                     "subjectId": "mp",
                     "chapterId": f"mp_ch{ch}",
+                    "bankId": "mp_bank_master_num",
                     "category": "Master Numerical MCQ",
                     "type": "mcq",
                     "qnum": q_id,
@@ -555,7 +608,7 @@ for ch in [1, 2, 3]:
         print(f"   -> Numerical Ch {ch}: {num_mcq_count} MCQs.")
 
 # ==========================================
-# 9. PARSE PPL COMPLETE SYLLABUS DOCX (120 MCQs + 120 Q&As)
+# 9. PARSE PPL COMPLETE SYLLABUS DOCX (120 MCQs + 120 Q&As = 240 items)
 # ==========================================
 print("9. Parsing PPL_Complete_Syllabus_Question_Bank.docx...")
 path_ppl_docx = os.path.join(WEBSITE_DIR, "PPL_Complete_Syllabus_Question_Bank.docx")
@@ -611,13 +664,13 @@ if os.path.exists(path_ppl_docx):
                 "answer": key_map.get(curr_num, "A")
             })
             
-        # Add to dataset
         for item in questions:
             q_id_num = item["num"] + (12 if is_supp else 0)
             dataset["questions"].append({
                 "id": f"ppl_u{unit_num}_q{q_id_num}",
                 "subjectId": "ppl",
                 "chapterId": f"ppl_u{unit_num}",
+                "bankId": "ppl_bank_syllabus",
                 "category": f"Unit {unit_num} MCQ ({'Supplementary' if is_supp else 'Core'})",
                 "type": "mcq",
                 "qnum": q_id_num,
@@ -630,7 +683,6 @@ if os.path.exists(path_ppl_docx):
             })
         return questions
 
-    # Main units bounds
     bounds = [12, 102, 192, 282, 372, 462, 552]
     total_ppl_mcq = 0
     for u in range(1, 7):
@@ -638,7 +690,6 @@ if os.path.exists(path_ppl_docx):
         qs = parse_ppl_mcq_section(p_slice, u, is_supp=False)
         total_ppl_mcq += len(qs)
 
-    # Supplementary bounds
     supp_bounds = [552, 614, 676, 738, 800, 862, len(paragraphs)]
     for u in range(1, 7):
         p_slice = paragraphs[supp_bounds[u-1]:supp_bounds[u]]
@@ -647,8 +698,40 @@ if os.path.exists(path_ppl_docx):
 
     print(f"   -> Extracted {total_ppl_mcq} MCQs across 6 PPL Units.")
 
+    # Also parse 120 One-Line Concept Q&As
+    curr_unit = 1
+    ppl_qa_count = 0
+    for i, p in enumerate(paragraphs):
+        m_u = re.search(r'Unit\s*(\d+)', p)
+        if m_u:
+            curr_unit = int(m_u.group(1))
+        if p.startswith('Answer:') and i > 0:
+            q_prompt = paragraphs[i-1]
+            m_q = re.match(r'^(\d+)\.\s*(.*)', q_prompt)
+            if m_q:
+                ppl_qa_count += 1
+                q_num = int(m_q.group(1))
+                q_clean = clean_text(m_q.group(2))
+                ans_clean = clean_text(p.replace('Answer:', '', 1))
+                dataset["questions"].append({
+                    "id": f"ppl_qa_u{curr_unit}_{ppl_qa_count}",
+                    "subjectId": "ppl",
+                    "chapterId": f"ppl_u{curr_unit}",
+                    "bankId": "ppl_bank_syllabus",
+                    "category": f"Unit {curr_unit} High-Yield Concept Q&A",
+                    "type": "qa",
+                    "qnum": ppl_qa_count,
+                    "question": q_clean,
+                    "options": {"A": "Revealed in Explanation"},
+                    "answer": "A",
+                    "answerText": ans_clean,
+                    "explanation": ans_clean,
+                    "source": "PPL_Complete_Syllabus_Question_Bank.docx"
+                })
+    print(f"   -> Extracted {ppl_qa_count} One-Line Concept Q&As across 6 PPL Units.")
+
 # ==========================================
-# 10. PARSE IMP QUESTIONS MID SEM PPL DOCX
+# 10. PARSE IMP QUESTIONS MID SEM PPL DOCX (38 Qs)
 # ==========================================
 print("10. Parsing IMP QUESTIONS MID SEM PPL.docx...")
 path_ppl_mid = os.path.join(WEBSITE_DIR, "IMP QUESTIONS MID SEM PPL.docx")
@@ -661,16 +744,17 @@ if os.path.exists(path_ppl_mid):
     while i < len(paragraphs):
         p = paragraphs[i]
         
-        # Check single line True/False with Answer:
         m_tf = re.search(r'^(.*?)\s*Answer:\s*(True|False)', p, re.DOTALL)
         if m_tf:
             mid_count += 1
             stmt = clean_text(m_tf.group(1))
             ans_val = m_tf.group(2).upper()
+            ch_id = "ppl_u1" if mid_count <= 8 else ("ppl_u2" if mid_count <= 16 else "ppl_u3")
             dataset["questions"].append({
                 "id": f"ppl_mid_tf_{mid_count}",
                 "subjectId": "ppl",
-                "chapterId": "ppl_midsem",
+                "chapterId": ch_id,
+                "bankId": "ppl_bank_midsem",
                 "category": "Mid-Sem Right / Wrong Diagnostic",
                 "type": "true_false",
                 "qnum": mid_count,
@@ -684,9 +768,7 @@ if os.path.exists(path_ppl_mid):
             i += 1
             continue
 
-        # Check MCQ format inside single paragraph or adjacent
         if "A." in p and "B." in p:
-            # Question was either previous paragraph or start of this paragraph
             first_opt_m = re.search(r'(?:^|\n)\s*A\.\s*', p)
             if first_opt_m and first_opt_m.start() > 0:
                 q_prompt = clean_text(p[:first_opt_m.start()])
@@ -707,10 +789,12 @@ if os.path.exists(path_ppl_mid):
             
             if opts and ans:
                 mid_count += 1
+                ch_id = "ppl_u1" if mid_count <= 8 else ("ppl_u2" if mid_count <= 16 else "ppl_u3")
                 dataset["questions"].append({
                     "id": f"ppl_mid_mcq_{mid_count}",
                     "subjectId": "ppl",
-                    "chapterId": "ppl_midsem",
+                    "chapterId": ch_id,
+                    "bankId": "ppl_bank_midsem",
                     "category": "Mid-Sem Core MCQ",
                     "type": "mcq",
                     "qnum": mid_count,
@@ -734,12 +818,15 @@ print("\n" + "="*50)
 print(f"TOTAL QUESTIONS IN MASTER DATABASE: {len(dataset['questions'])}")
 by_subject = {}
 by_type = {}
+by_bank = {}
 for q in dataset["questions"]:
     by_subject[q["subjectId"]] = by_subject.get(q["subjectId"], 0) + 1
     by_type[q["type"]] = by_type.get(q["type"], 0) + 1
+    by_bank[q["bankId"]] = by_bank.get(q["bankId"], 0) + 1
 
 print("By Subject:", by_subject)
 print("By Type:", by_type)
+print("By Bank:", by_bank)
 
 out_json = os.path.join(WEBSITE_DIR, "quiz_data.json")
 out_js = os.path.join(WEBSITE_DIR, "quiz_data.js")

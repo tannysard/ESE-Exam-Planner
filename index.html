@@ -52,7 +52,7 @@
             <line x1="12" y1="19" x2="20" y2="19"></line>
           </svg>
           <span>PPL Complete</span>
-          <span class="badge badge-primary" id="ppl-count-badge">158</span>
+          <span class="badge badge-primary" id="ppl-count-badge">278</span>
         </button>
       </nav>
 
@@ -65,13 +65,14 @@
           </svg>
           <span id="nav-accuracy">100%</span>
         </div>
-        <button id="btn-starred-filter" class="icon-btn" title="View Starred / Bookmarked Questions"
-          onclick="filterByStarred()" aria-label="Starred Questions">
+        <button id="btn-starred-filter" class="icon-btn starred-nav-btn" title="View Starred / Bookmarked Questions"
+          onclick="toggleStarredFilter()" aria-label="Starred Questions">
           <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <polygon
               points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
             </polygon>
           </svg>
+          <span class="nav-starred-badge hidden" id="nav-starred-count">0</span>
         </button>
         <button id="btn-sound-toggle" class="icon-btn" title="Toggle Sound Feedback" onclick="toggleSound()"
           aria-label="Toggle Sound">
@@ -158,9 +159,20 @@
       <!-- Chapter / Module Selector -->
       <div class="card">
         <div class="card-title">
-          <span id="sidebar-chapters-title">Chapters & Units</span>
+          <span id="sidebar-chapters-title">Syllabus & Documents</span>
           <span class="badge badge-muted" id="total-questions-tag">1,116 Qs</span>
         </div>
+
+        <!-- Toggle Tabs: Chapters vs Document Banks -->
+        <div class="sidebar-view-tabs" role="tablist" aria-label="Sidebar Navigation View">
+          <button id="tab-nav-chapters" class="sidebar-tab active" onclick="switchSidebarNav('chapters')" role="tab" aria-selected="true">
+            By Chapter
+          </button>
+          <button id="tab-nav-banks" class="sidebar-tab" onclick="switchSidebarNav('banks')" role="tab" aria-selected="false">
+            By Document Bank
+          </button>
+        </div>
+
         <nav class="chapter-nav" id="chapter-list" role="navigation" aria-label="Chapter Navigation">
           <!-- Dynamically populated -->
         </nav>
@@ -168,7 +180,10 @@
 
       <!-- Quick Filters Card -->
       <div class="card">
-        <h3 class="card-title">Refine Questions</h3>
+        <div class="card-title">
+          <span>Refine Questions</span>
+          <button class="clear-all-filters-btn" onclick="resetAllFilters()" title="Reset all dropdown filters to default">Reset Filters</button>
+        </div>
 
         <div class="filter-group">
           <label class="filter-label" for="filter-type">Question Format</label>
@@ -219,6 +234,9 @@
       <!-- ===================================== -->
       <section id="view-practice" class="quiz-section">
 
+        <!-- Active Filter Pills Bar -->
+        <div id="active-filter-bar" class="active-filter-bar hidden"></div>
+
         <!-- Header Bar -->
         <div class="quiz-header">
           <div class="quiz-info">
@@ -250,6 +268,16 @@
           </div>
         </div>
 
+        <!-- Empty State Container -->
+        <div id="empty-state-container" class="empty-state-card hidden">
+          <div class="empty-state-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line></svg>
+          </div>
+          <div class="empty-state-title" id="empty-state-title">No Questions Found</div>
+          <div class="empty-state-desc" id="empty-state-desc">No questions match your current combination of filters. Try clearing some filters or switching chapters.</div>
+          <button class="btn btn-primary empty-state-btn" onclick="resetAllFilters()">Reset All Filters</button>
+        </div>
+
         <!-- Question Card -->
         <article class="question-card" id="practice-card">
           <div class="question-text" id="question-text">
@@ -262,6 +290,9 @@
           <div class="options-grid" id="options-container" role="radiogroup" aria-label="Question Options">
             <!-- Dynamic Option Buttons -->
           </div>
+
+          <!-- Self-Assessment Buttons (for Q&A, Blanks, Numerical) -->
+          <div id="self-assess-container" class="self-assess-container hidden"></div>
 
           <!-- Explanation Container (Revealed after selection) -->
           <div class="explanation-box hidden" id="explanation-container" aria-live="polite">
@@ -286,8 +317,11 @@
             </button>
 
             <div style="display: flex; gap: 0.5rem; align-items: center;">
-              <span class="badge badge-muted" id="keyboard-hint" style="font-size: 0.75rem;">Press Keys 1-4 or
-                A-D</span>
+              <button class="btn-retry hidden" id="btn-retry" onclick="retryCurrentQuestion()">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="1 4 1 10 7 10"></polyline><path d="M3.51 15a9 9 0 1 0 2.13-9.36L1 10"></path></svg>
+                Try Again
+              </button>
+              <span class="badge badge-muted" id="keyboard-hint" style="font-size: 0.75rem;">Press Keys 1-4, A-D or T/F</span>
             </div>
 
             <button class="btn btn-primary" id="btn-next" onclick="navigateQuestion(1)">
@@ -470,7 +504,12 @@
               <span class="badge badge-primary">Click Card or Press Space to Flip</span>
             </div>
           </div>
-          <div style="display: flex; gap: 0.5rem;">
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <button id="btn-bookmark-fc" class="icon-btn" title="Bookmark This Card" onclick="toggleBookmarkFlashcard()" aria-label="Bookmark Flashcard">
+              <svg id="bookmark-fc-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+              </svg>
+            </button>
             <button class="btn btn-outline" style="padding: 0.45rem 0.75rem;" onclick="shuffleFlashcards()">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <polyline points="16 3 21 3 21 8"></polyline>
@@ -544,7 +583,7 @@
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
           </svg>
           <input type="text" id="global-search-input" class="search-input"
-            placeholder="Search across all 1,274 questions, keywords (e.g. ALE, BHE, DAA, JVM, BNF, Pipelining)..."
+            placeholder="Search across all 1,394 questions, keywords (e.g. ALE, BHE, DAA, JVM, BNF, Pipelining)..."
             oninput="handleSearch(this.value)">
           <span class="badge badge-muted" id="search-count-badge">0 results</span>
         </div>
@@ -564,6 +603,24 @@
       <div style="display: flex; align-items: center; justify-content: space-between;">
         <h3 id="jump-modal-title" style="font-size: 1.15rem; font-weight: 700;">Jump to Question</h3>
         <button class="icon-btn" onclick="closeModal('modal-jump')">&times;</button>
+      </div>
+      <div class="palette-legend">
+        <div class="palette-legend-item">
+          <span class="legend-color-box" style="background: var(--success);"></span>
+          <span>Correct</span>
+        </div>
+        <div class="palette-legend-item">
+          <span class="legend-color-box" style="background: var(--danger);"></span>
+          <span>Incorrect</span>
+        </div>
+        <div class="palette-legend-item">
+          <span class="legend-color-box" style="background: var(--warning-bg); border: 1px solid var(--warning);"></span>
+          <span>Starred</span>
+        </div>
+        <div class="palette-legend-item">
+          <span class="legend-color-box" style="background: var(--bg-subtle); border: 1px solid var(--border-subtle);"></span>
+          <span>Unattempted</span>
+        </div>
       </div>
       <p style="font-size: 0.85rem; color: var(--text-secondary);">Select any question in the current filtered set:</p>
       <div class="question-grid-nav" id="jump-grid-container" style="max-height: 320px;"></div>
