@@ -10657,10 +10657,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 1,
       "question": "Complete the statement:\n\n\"The 4-bit binary number or code is called a nibble .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 4-bit binary number or code is called a nibble .",
       "explanation": "Complete reference statement: The 4-bit binary number or code is called a nibble .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10674,10 +10672,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 2,
       "question": "Complete the statement:\n\n\"The 16-bit binary number or code is called a word .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 16-bit binary number or code is called a word .",
       "explanation": "Complete reference statement: The 16-bit binary number or code is called a word .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10691,10 +10687,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 3,
       "question": "Complete the statement:\n\n\"The 32-bit binary number or code is called a double word .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 32-bit binary number or code is called a double word .",
       "explanation": "Complete reference statement: The 32-bit binary number or code is called a double word .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10708,10 +10702,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 4,
       "question": "Complete the statement:\n\n\"The 8086 processor uses a 20-bit address for memory.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 processor uses a 20-bit address for memory.",
       "explanation": "Complete reference statement: The 8086 processor uses a 20-bit address for memory.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10725,10 +10717,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 5,
       "question": "Complete the statement:\n\n\"The memory word size or addressability is the size of binary information that can be stored in a memory location.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The memory word size or addressability is the size of binary information that can be stored in a memory location.",
       "explanation": "Complete reference statement: The memory word size or addressability is the size of binary information that can be stored in a memory location.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10742,10 +10732,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 6,
       "question": "Complete the statement:\n\n\"The 8086 processor has a 16-bit ALU; hence, it is called a 16-bit processor.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 processor has a 16-bit ALU; hence, it is called a 16-bit processor.",
       "explanation": "Complete reference statement: The 8086 processor has a 16-bit ALU; hence, it is called a 16-bit processor.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10759,10 +10747,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 7,
       "question": "Complete the statement:\n\n\"The group of conducting lines that carries data is called a data bus .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The group of conducting lines that carries data is called a data bus .",
       "explanation": "Complete reference statement: The group of conducting lines that carries data is called a data bus .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10776,10 +10762,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 8,
       "question": "Complete the statement:\n\n\"The group of conducting lines that carries address is called an address bus .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The group of conducting lines that carries address is called an address bus .",
       "explanation": "Complete reference statement: The group of conducting lines that carries address is called an address bus .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10793,10 +10777,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 9,
       "question": "Complete the statement:\n\n\"The group of conducting lines that carries control signals is called a control bus .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The group of conducting lines that carries control signals is called a control bus .",
       "explanation": "Complete reference statement: The group of conducting lines that carries control signals is called a control bus .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10810,10 +10792,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 10,
       "question": "Complete the statement:\n\n\"The group of conducting lines that are directly connected to the microprocessor is called a CPU bus .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The group of conducting lines that are directly connected to the microprocessor is called a CPU bus .",
       "explanation": "Complete reference statement: The group of conducting lines that are directly connected to the microprocessor is called a CPU bus .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10827,10 +10807,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 11,
       "question": "Complete the statement:\n\n\"In a CPU bus, the signals are multiplexed , i.e., more than one signal is passed through the same line but at different timings.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In a CPU bus, the signals are multiplexed , i.e., more than one signal is passed through the same line but at different timings.",
       "explanation": "Complete reference statement: In a CPU bus, the signals are multiplexed , i.e., more than one signal is passed through the same line but at different timings.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10844,10 +10822,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 12,
       "question": "Complete the statement:\n\n\"The group of conducting lines that carries data, address and control signals in a microcomputer system is called System bus .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The group of conducting lines that carries data, address and control signals in a microcomputer system is called System bus .",
       "explanation": "Complete reference statement: The group of conducting lines that carries data, address and control signals in a microcomputer system is called System bus .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10861,10 +10837,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 13,
       "question": "Complete the statement:\n\n\"A clock is a square wave used to synchronize various devices in the microprocessor and in the system.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A clock is a square wave used to synchronize various devices in the microprocessor and in the system.",
       "explanation": "Complete reference statement: A clock is a square wave used to synchronize various devices in the microprocessor and in the system.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10878,10 +10852,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 14,
       "question": "Complete the statement:\n\n\"Every microprocessor system requires a clock for its functioning.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Every microprocessor system requires a clock for its functioning.",
       "explanation": "Complete reference statement: Every microprocessor system requires a clock for its functioning.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10895,10 +10867,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 15,
       "question": "Complete the statement:\n\n\"A clock has three edges: rising edge , level edge and falling edge .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A clock has three edges: rising edge , level edge and falling edge .",
       "explanation": "Complete reference statement: A clock has three edges: rising edge , level edge and falling edge .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10912,10 +10882,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 16,
       "question": "Complete the statement:\n\n\"Almost all the devices used in a microprocessor-based system use tristate logic .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Almost all the devices used in a microprocessor-based system use tristate logic .",
       "explanation": "Complete reference statement: Almost all the devices used in a microprocessor-based system use tristate logic .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10929,10 +10897,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 17,
       "question": "Complete the statement:\n\n\"In devices with tristate logic, three logic levels will be available: High state , Low state and High impedance state .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In devices with tristate logic, three logic levels will be available: High state , Low state and High impedance state .",
       "explanation": "Complete reference statement: In devices with tristate logic, three logic levels will be available: High state , Low state and High impedance state .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10946,10 +10912,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 18,
       "question": "Complete the statement:\n\n\"The high impedance state is an electrical open-circuit condition.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The high impedance state is an electrical open-circuit condition.",
       "explanation": "Complete reference statement: The high impedance state is an electrical open-circuit condition.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10963,10 +10927,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 19,
       "question": "Complete the statement:\n\n\"The tristate devices will normally remain in the high impedance state and their pins are physically connected in the system bus but electrically isolated.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The tristate devices will normally remain in the high impedance state and their pins are physically connected in the system bus but electrically isolated.",
       "explanation": "Complete reference statement: The tristate devices will normally remain in the high impedance state and their pins are physically connected in the system bus but electrically isolated.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10980,10 +10942,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 20,
       "question": "Complete the statement:\n\n\"ALU is the computational unit of the microprocessor which performs arithmetic and logical operations on binary data.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "ALU is the computational unit of the microprocessor which performs arithmetic and logical operations on binary data.",
       "explanation": "Complete reference statement: ALU is the computational unit of the microprocessor which performs arithmetic and logical operations on binary data.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -10997,10 +10957,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 21,
       "question": "Complete the statement:\n\n\"The various conditions of the result are stored as status bits called flags in the flag register.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The various conditions of the result are stored as status bits called flags in the flag register.",
       "explanation": "Complete reference statement: The various conditions of the result are stored as status bits called flags in the flag register.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11014,10 +10972,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 22,
       "question": "Complete the statement:\n\n\"The instruction pointer generates the address of the instructions to be fetched from the memory and sends it through the address bus to the memory.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The instruction pointer generates the address of the instructions to be fetched from the memory and sends it through the address bus to the memory.",
       "explanation": "Complete reference statement: The instruction pointer generates the address of the instructions to be fetched from the memory and sends it through the address bus to the memory.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11031,10 +10987,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 23,
       "question": "Complete the statement:\n\n\"The memory will send the instruction codes and data through the data bus .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The memory will send the instruction codes and data through the data bus .",
       "explanation": "Complete reference statement: The memory will send the instruction codes and data through the data bus .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11048,10 +11002,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 24,
       "question": "Complete the statement:\n\n\"The instruction codes are decoded by the decoding unit and it sends information to the timing and control unit.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The instruction codes are decoded by the decoding unit and it sends information to the timing and control unit.",
       "explanation": "Complete reference statement: The instruction codes are decoded by the decoding unit and it sends information to the timing and control unit.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11065,10 +11017,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 25,
       "question": "Complete the statement:\n\n\"The control unit will generate the necessary control signals for internal and external operations of the microprocessor.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The control unit will generate the necessary control signals for internal and external operations of the microprocessor.",
       "explanation": "Complete reference statement: The control unit will generate the necessary control signals for internal and external operations of the microprocessor.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11082,10 +11032,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 26,
       "question": "Complete the statement:\n\n\"The memories, input device, output device and interfacing devices are called peripherals .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The memories, input device, output device and interfacing devices are called peripherals .",
       "explanation": "Complete reference statement: The memories, input device, output device and interfacing devices are called peripherals .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11099,10 +11047,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 27,
       "question": "Complete the statement:\n\n\"The EPROM memory is used to store permanent programs and data.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The EPROM memory is used to store permanent programs and data.",
       "explanation": "Complete reference statement: The EPROM memory is used to store permanent programs and data.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11116,10 +11062,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 28,
       "question": "Complete the statement:\n\n\"The RAM memory is used to store temporary programs and data.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The RAM memory is used to store temporary programs and data.",
       "explanation": "Complete reference statement: The RAM memory is used to store temporary programs and data.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11133,10 +11077,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 29,
       "question": "Complete the statement:\n\n\"The program consists of a set of instructions stored in consecutive memory locations.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The program consists of a set of instructions stored in consecutive memory locations.",
       "explanation": "Complete reference statement: The program consists of a set of instructions stored in consecutive memory locations.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11150,10 +11092,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 30,
       "question": "Complete the statement:\n\n\"Multiplexing is transferring different information at different well-defined times through the same lines.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Multiplexing is transferring different information at different well-defined times through the same lines.",
       "explanation": "Complete reference statement: Multiplexing is transferring different information at different well-defined times through the same lines.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11167,10 +11107,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 31,
       "question": "Complete the statement:\n\n\"The result of multiplexing is that fewer pins are required for microprocessors to communicate with the outside world.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The result of multiplexing is that fewer pins are required for microprocessors to communicate with the outside world.",
       "explanation": "Complete reference statement: The result of multiplexing is that fewer pins are required for microprocessors to communicate with the outside world.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11184,10 +11122,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 32,
       "question": "Complete the statement:\n\n\"In order to demultiplex the address/data lines, the processor provides a signal called Address Latch Enable (ALE) .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In order to demultiplex the address/data lines, the processor provides a signal called Address Latch Enable (ALE) .",
       "explanation": "Complete reference statement: In order to demultiplex the address/data lines, the processor provides a signal called Address Latch Enable (ALE) .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11201,10 +11137,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 33,
       "question": "Complete the statement:\n\n\"The ALE is asserted high and then low by the processor at the beginning of every bus cycle.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The ALE is asserted high and then low by the processor at the beginning of every bus cycle.",
       "explanation": "Complete reference statement: The ALE is asserted high and then low by the processor at the beginning of every bus cycle.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11218,10 +11152,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 34,
       "question": "Complete the statement:\n\n\"The first T-state of every bus cycle is used for address latching in 8086 and the remaining T-states are used for reading or writing operation.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The first T-state of every bus cycle is used for address latching in 8086 and the remaining T-states are used for reading or writing operation.",
       "explanation": "Complete reference statement: The first T-state of every bus cycle is used for address latching in 8086 and the remaining T-states are used for reading or writing operation.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11235,10 +11167,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 35,
       "question": "Complete the statement:\n\n\"The 8086 provides two control signals, DT/R# and DEN , for controlling the data buffers.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 provides two control signals, DT/R# and DEN , for controlling the data buffers.",
       "explanation": "Complete reference statement: The 8086 provides two control signals, DT/R# and DEN , for controlling the data buffers.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11252,10 +11182,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 36,
       "question": "Complete the statement:\n\n\"DT/R# is used to decide the direction of data flow and DEN is used to enable the data buffer.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "DT/R# is used to decide the direction of data flow and DEN is used to enable the data buffer.",
       "explanation": "Complete reference statement: DT/R# is used to decide the direction of data flow and DEN is used to enable the data buffer.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11269,10 +11197,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 37,
       "question": "Complete the statement:\n\n\"The size of the binary number used to address the memory decides the physical memory space .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The size of the binary number used to address the memory decides the physical memory space .",
       "explanation": "Complete reference statement: The size of the binary number used to address the memory decides the physical memory space .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11286,10 +11212,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 38,
       "question": "Complete the statement:\n\n\"If a microprocessor has n-address pins then it can directly address 2^n memory locations.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "If a microprocessor has n-address pins then it can directly address 2^n memory locations.",
       "explanation": "Complete reference statement: If a microprocessor has n-address pins then it can directly address 2^n memory locations.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11303,10 +11227,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 39,
       "question": "Complete the statement:\n\n\"ALU is the unit that performs arithmetic or logical operations.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "ALU is the unit that performs arithmetic or logical operations.",
       "explanation": "Complete reference statement: ALU is the unit that performs arithmetic or logical operations.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11320,10 +11242,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 40,
       "question": "Complete the statement:\n\n\"CPU is the unit that includes ALU and control unit .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CPU is the unit that includes ALU and control unit .",
       "explanation": "Complete reference statement: CPU is the unit that includes ALU and control unit .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11337,10 +11257,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 41,
       "question": "Complete the statement:\n\n\"In tristate logic, three logic levels are used: high , low and high impedance state .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In tristate logic, three logic levels are used: high , low and high impedance state .",
       "explanation": "Complete reference statement: In tristate logic, three logic levels are used: high , low and high impedance state .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11354,10 +11272,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 42,
       "question": "Complete the statement:\n\n\"In a microprocessor system, all the peripheral devices are connected to a common bus .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In a microprocessor system, all the peripheral devices are connected to a common bus .",
       "explanation": "Complete reference statement: In a microprocessor system, all the peripheral devices are connected to a common bus .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11371,10 +11287,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 43,
       "question": "Complete the statement:\n\n\"The 8086 requires an external asymmetric clock source with 33% duty cycle.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 requires an external asymmetric clock source with 33% duty cycle.",
       "explanation": "Complete reference statement: The 8086 requires an external asymmetric clock source with 33% duty cycle.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11388,10 +11302,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 44,
       "question": "Complete the statement:\n\n\"The 8284 clock generator is used to generate the required clock for 8086.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8284 clock generator is used to generate the required clock for 8086.",
       "explanation": "Complete reference statement: The 8284 clock generator is used to generate the required clock for 8086.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11405,10 +11317,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 45,
       "question": "Complete the statement:\n\n\"The 8086 uses a 20-bit address to access memory and hence it can directly address up to one megabyte of memory space.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 uses a 20-bit address to access memory and hence it can directly address up to one megabyte of memory space.",
       "explanation": "Complete reference statement: The 8086 uses a 20-bit address to access memory and hence it can directly address up to one megabyte of memory space.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11422,10 +11332,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 46,
       "question": "Complete the statement:\n\n\"One megabyte of addressable memory space of 8086 are organized as two memory banks of 512 kilobytes each.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "One megabyte of addressable memory space of 8086 are organized as two memory banks of 512 kilobytes each.",
       "explanation": "Complete reference statement: One megabyte of addressable memory space of 8086 are organized as two memory banks of 512 kilobytes each.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11439,10 +11347,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 47,
       "question": "Complete the statement:\n\n\"The address line A0 is used to select the even bank and the control signal BHE is used to select the odd bank.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The address line A0 is used to select the even bank and the control signal BHE is used to select the odd bank.",
       "explanation": "Complete reference statement: The address line A0 is used to select the even bank and the control signal BHE is used to select the odd bank.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11456,10 +11362,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 48,
       "question": "Complete the statement:\n\n\"The signal M/IO# is used to differentiate the memory and IO addresses.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The signal M/IO# is used to differentiate the memory and IO addresses.",
       "explanation": "Complete reference statement: The signal M/IO# is used to differentiate the memory and IO addresses.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11473,10 +11377,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 49,
       "question": "Complete the statement:\n\n\"The 8086 can operate in two modes: minimum mode and maximum mode .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 can operate in two modes: minimum mode and maximum mode .",
       "explanation": "Complete reference statement: The 8086 can operate in two modes: minimum mode and maximum mode .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11490,10 +11392,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 50,
       "question": "Complete the statement:\n\n\"When the MN/MX# is tied high, it works in minimum mode and the system is called a uniprocessor system.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "When the MN/MX# is tied high, it works in minimum mode and the system is called a uniprocessor system.",
       "explanation": "Complete reference statement: When the MN/MX# is tied high, it works in minimum mode and the system is called a uniprocessor system.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11507,10 +11407,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 51,
       "question": "Complete the statement:\n\n\"When MN/MX# is tied low, it works in maximum mode and the system is called a multiprocessor system.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "When MN/MX# is tied low, it works in maximum mode and the system is called a multiprocessor system.",
       "explanation": "Complete reference statement: When MN/MX# is tied low, it works in maximum mode and the system is called a multiprocessor system.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11524,10 +11422,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 52,
       "question": "Complete the statement:\n\n\"The 8088 uses an 8-bit data bus externally but the 8086 uses a 16-bit data bus externally.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8088 uses an 8-bit data bus externally but the 8086 uses a 16-bit data bus externally.",
       "explanation": "Complete reference statement: The 8088 uses an 8-bit data bus externally but the 8086 uses a 16-bit data bus externally.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11541,10 +11437,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 53,
       "question": "Complete the statement:\n\n\"The 8086 accesses memory in words but the 8088 accesses memory in bytes .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 accesses memory in words but the 8088 accesses memory in bytes .",
       "explanation": "Complete reference statement: The 8086 accesses memory in words but the 8088 accesses memory in bytes .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11558,10 +11452,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 54,
       "question": "Complete the statement:\n\n\"The lower 16 lines of the address are multiplexed with data and the upper four lines of the address are multiplexed with status signals.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The lower 16 lines of the address are multiplexed with data and the upper four lines of the address are multiplexed with status signals.",
       "explanation": "Complete reference statement: The lower 16 lines of the address are multiplexed with data and the upper four lines of the address are multiplexed with status signals.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11575,10 +11467,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 55,
       "question": "Complete the statement:\n\n\"The status lines S3 and S4 are used to indicate which segment is accessed during the current bus cycle.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The status lines S3 and S4 are used to indicate which segment is accessed during the current bus cycle.",
       "explanation": "Complete reference statement: The status lines S3 and S4 are used to indicate which segment is accessed during the current bus cycle.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11592,10 +11482,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 56,
       "question": "Complete the statement:\n\n\"The status line S5 indicates the status of the 8086 interrupt enable flag.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The status line S5 indicates the status of the 8086 interrupt enable flag.",
       "explanation": "Complete reference statement: The status line S5 indicates the status of the 8086 interrupt enable flag.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11609,10 +11497,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 57,
       "question": "Complete the statement:\n\n\"When the processor reads from the memory or an IO location, it asserts RD# as low.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "When the processor reads from the memory or an IO location, it asserts RD# as low.",
       "explanation": "Complete reference statement: When the processor reads from the memory or an IO location, it asserts RD# as low.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11626,10 +11512,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 58,
       "question": "Complete the statement:\n\n\"The TEST input is tested by the WAIT instruction.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The TEST input is tested by the WAIT instruction.",
       "explanation": "Complete reference statement: The TEST input is tested by the WAIT instruction.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11643,10 +11527,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 59,
       "question": "Complete the statement:\n\n\"INTR is the maskable interrupt and INTR must be held high until it is recognized to generate an interrupt signal.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "INTR is the maskable interrupt and INTR must be held high until it is recognized to generate an interrupt signal.",
       "explanation": "Complete reference statement: INTR is the maskable interrupt and INTR must be held high until it is recognized to generate an interrupt signal.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11660,10 +11542,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 60,
       "question": "Complete the statement:\n\n\"NMI is the non-maskable interrupt input activated by a leading edge signal.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "NMI is the non-maskable interrupt input activated by a leading edge signal.",
       "explanation": "Complete reference statement: NMI is the non-maskable interrupt input activated by a leading edge signal.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11677,10 +11557,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 61,
       "question": "Complete the statement:\n\n\"RESET is the system reset input signal.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "RESET is the system reset input signal.",
       "explanation": "Complete reference statement: RESET is the system reset input signal.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11694,10 +11572,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 62,
       "question": "Complete the statement:\n\n\"READY is an input signal to the processor, used by the memory or IO devices to get extra time for data transfer.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "READY is an input signal to the processor, used by the memory or IO devices to get extra time for data transfer.",
       "explanation": "Complete reference statement: READY is an input signal to the processor, used by the memory or IO devices to get extra time for data transfer.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11711,10 +11587,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 63,
       "question": "Complete the statement:\n\n\"If the READY is tied low, the 8086 introduces wait states after the second T-state of a bus cycle.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "If the READY is tied low, the 8086 introduces wait states after the second T-state of a bus cycle.",
       "explanation": "Complete reference statement: If the READY is tied low, the 8086 introduces wait states after the second T-state of a bus cycle.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11728,10 +11602,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 64,
       "question": "Complete the statement:\n\n\"CLK input is the clock signal that provides the basic timing for the 8086 and bus controller.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CLK input is the clock signal that provides the basic timing for the 8086 and bus controller.",
       "explanation": "Complete reference statement: CLK input is the clock signal that provides the basic timing for the 8086 and bus controller.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11745,10 +11617,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 65,
       "question": "Complete the statement:\n\n\"The 8086 has a pipelined architecture.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 has a pipelined architecture.",
       "explanation": "Complete reference statement: The 8086 has a pipelined architecture.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11762,10 +11632,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 66,
       "question": "Complete the statement:\n\n\"The architecture of the 8086 can be internally divided into two separate functional units: Bus Interface Unit (BIU) and Execution Unit (EU) .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The architecture of the 8086 can be internally divided into two separate functional units: Bus Interface Unit (BIU) and Execution Unit (EU) .",
       "explanation": "Complete reference statement: The architecture of the 8086 can be internally divided into two separate functional units: Bus Interface Unit (BIU) and Execution Unit (EU) .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11779,10 +11647,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 67,
       "question": "Complete the statement:\n\n\"The BIU fetches instructions, reads data from memory and IO ports, and writes data to memory and IO ports.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The BIU fetches instructions, reads data from memory and IO ports, and writes data to memory and IO ports.",
       "explanation": "Complete reference statement: The BIU fetches instructions, reads data from memory and IO ports, and writes data to memory and IO ports.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11796,10 +11662,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 68,
       "question": "Complete the statement:\n\n\"The EU executes instructions that have already been fetched by the BIU.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The EU executes instructions that have already been fetched by the BIU.",
       "explanation": "Complete reference statement: The EU executes instructions that have already been fetched by the BIU.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11813,10 +11677,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 69,
       "question": "Complete the statement:\n\n\"The instruction queue is a FIFO group of registers.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The instruction queue is a FIFO group of registers.",
       "explanation": "Complete reference statement: The instruction queue is a FIFO group of registers.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11830,10 +11692,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 70,
       "question": "Complete the statement:\n\n\"The BIU has four numbers of 16-bit segment registers.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The BIU has four numbers of 16-bit segment registers.",
       "explanation": "Complete reference statement: The BIU has four numbers of 16-bit segment registers.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11847,10 +11707,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 71,
       "question": "Complete the statement:\n\n\"The 8086 memory space can be divided into segments of 64 kilobytes .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 memory space can be divided into segments of 64 kilobytes .",
       "explanation": "Complete reference statement: The 8086 memory space can be divided into segments of 64 kilobytes .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11864,10 +11722,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 72,
       "question": "Complete the statement:\n\n\"The contents of segment registers are programmable .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The contents of segment registers are programmable .",
       "explanation": "Complete reference statement: The contents of segment registers are programmable .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11881,10 +11737,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 73,
       "question": "Complete the statement:\n\n\"The dedicated address generation unit generates the 20-bit physical address from the segment base and an offset or effective address.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The dedicated address generation unit generates the 20-bit physical address from the segment base and an offset or effective address.",
       "explanation": "Complete reference statement: The dedicated address generation unit generates the 20-bit physical address from the segment base and an offset or effective address.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11898,10 +11752,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 74,
       "question": "Complete the statement:\n\n\"The IP holds the offset address of the program codes.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The IP holds the offset address of the program codes.",
       "explanation": "Complete reference statement: The IP holds the offset address of the program codes.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11915,10 +11767,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 75,
       "question": "Complete the statement:\n\n\"The bus control logic of the BIU generates all the bus control signals such as read and write signals for memory and IO.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The bus control logic of the BIU generates all the bus control signals such as read and write signals for memory and IO.",
       "explanation": "Complete reference statement: The bus control logic of the BIU generates all the bus control signals such as read and write signals for memory and IO.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11932,10 +11782,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 76,
       "question": "Complete the statement:\n\n\"The EU has a 16-bit ALU to perform arithmetic and logical operations.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The EU has a 16-bit ALU to perform arithmetic and logical operations.",
       "explanation": "Complete reference statement: The EU has a 16-bit ALU to perform arithmetic and logical operations.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11949,10 +11797,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 77,
       "question": "Complete the statement:\n\n\"The EU has eight numbers of 16-bit general purpose registers.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The EU has eight numbers of 16-bit general purpose registers.",
       "explanation": "Complete reference statement: The EU has eight numbers of 16-bit general purpose registers.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11966,10 +11812,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 78,
       "question": "Complete the statement:\n\n\"The size of an 8086 flag register is 16-bit and in this, nine bits are defined as flags.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The size of an 8086 flag register is 16-bit and in this, nine bits are defined as flags.",
       "explanation": "Complete reference statement: The size of an 8086 flag register is 16-bit and in this, nine bits are defined as flags.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -11983,10 +11827,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 79,
       "question": "Complete the statement:\n\n\"The Carry Flag is set if there is a carry from addition or borrow from subtraction.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Carry Flag is set if there is a carry from addition or borrow from subtraction.",
       "explanation": "Complete reference statement: The Carry Flag is set if there is a carry from addition or borrow from subtraction.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12000,10 +11842,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 80,
       "question": "Complete the statement:\n\n\"The Auxiliary carry Flag is set if there is a carry from low nibble to high nibble of the low order 8-bit of a 16-bit number.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Auxiliary carry Flag is set if there is a carry from low nibble to high nibble of the low order 8-bit of a 16-bit number.",
       "explanation": "Complete reference statement: The Auxiliary carry Flag is set if there is a carry from low nibble to high nibble of the low order 8-bit of a 16-bit number.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12017,10 +11857,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 81,
       "question": "Complete the statement:\n\n\"The Overflow Flag is set to one if there is an arithmetic overflow.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Overflow Flag is set to one if there is an arithmetic overflow.",
       "explanation": "Complete reference statement: The Overflow Flag is set to one if there is an arithmetic overflow.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12034,10 +11872,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 82,
       "question": "Complete the statement:\n\n\"The Sign Flag is set to one if the most significant bit of the result is one.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Sign Flag is set to one if the most significant bit of the result is one.",
       "explanation": "Complete reference statement: The Sign Flag is set to one if the most significant bit of the result is one.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12051,10 +11887,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 83,
       "question": "Complete the statement:\n\n\"The Parity Flag is set to one if the result has even parity.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Parity Flag is set to one if the result has even parity.",
       "explanation": "Complete reference statement: The Parity Flag is set to one if the result has even parity.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12068,10 +11902,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 84,
       "question": "Complete the statement:\n\n\"The Zero Flag is set to one if the result is zero.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Zero Flag is set to one if the result is zero.",
       "explanation": "Complete reference statement: The Zero Flag is set to one if the result is zero.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12085,10 +11917,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 85,
       "question": "Complete the statement:\n\n\"The Direction Flag is set to one for autodecrement and DF is reset to zero for autoincrement of SI and DI registers.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Direction Flag is set to one for autodecrement and DF is reset to zero for autoincrement of SI and DI registers.",
       "explanation": "Complete reference statement: The Direction Flag is set to one for autodecrement and DF is reset to zero for autoincrement of SI and DI registers.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12102,10 +11932,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 86,
       "question": "Complete the statement:\n\n\"Setting the Interrupt Flag to one causes the 8086 to recognize external maskable interrupts.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Setting the Interrupt Flag to one causes the 8086 to recognize external maskable interrupts.",
       "explanation": "Complete reference statement: Setting the Interrupt Flag to one causes the 8086 to recognize external maskable interrupts.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12119,10 +11947,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 87,
       "question": "Complete the statement:\n\n\"Setting the Trace Flag to one places the 8086 in the single-step mode.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Setting the Trace Flag to one places the 8086 in the single-step mode.",
       "explanation": "Complete reference statement: Setting the Trace Flag to one places the 8086 in the single-step mode.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12136,10 +11962,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 88,
       "question": "Complete the statement:\n\n\"The 8086 computes the 20-bit physical address of the program instruction by multiplying the content of the CS- register by 16 and adding it to the content of IP .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 computes the 20-bit physical address of the program instruction by multiplying the content of the CS- register by 16 and adding it to the content of IP .",
       "explanation": "Complete reference statement: The 8086 computes the 20-bit physical address of the program instruction by multiplying the content of the CS- register by 16 and adding it to the content of IP .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12153,10 +11977,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 89,
       "question": "Complete the statement:\n\n\"The BIU keeps on fetching the program codes, word by word from consecutive memory locations whenever two locations of the queue are empty.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The BIU keeps on fetching the program codes, word by word from consecutive memory locations whenever two locations of the queue are empty.",
       "explanation": "Complete reference statement: The BIU keeps on fetching the program codes, word by word from consecutive memory locations whenever two locations of the queue are empty.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12170,10 +11992,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 90,
       "question": "Complete the statement:\n\n\"The basic memory word size of the memories used in the 8086 system is 8-bit or 1-byte .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The basic memory word size of the memories used in the 8086 system is 8-bit or 1-byte .",
       "explanation": "Complete reference statement: The basic memory word size of the memories used in the 8086 system is 8-bit or 1-byte .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12187,10 +12007,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 91,
       "question": "Complete the statement:\n\n\"The 8086-based system will have two sets of memory ICs, one set for the even bank and another set for the odd bank .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086-based system will have two sets of memory ICs, one set for the even bank and another set for the odd bank .",
       "explanation": "Complete reference statement: The 8086-based system will have two sets of memory ICs, one set for the even bank and another set for the odd bank .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12204,10 +12022,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 92,
       "question": "Complete the statement:\n\n\"The data lines D0-D7 are connected to the even bank and the data lines D8-D15 are connected to the odd bank.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The data lines D0-D7 are connected to the even bank and the data lines D8-D15 are connected to the odd bank.",
       "explanation": "Complete reference statement: The data lines D0-D7 are connected to the even bank and the data lines D8-D15 are connected to the odd bank.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12221,10 +12037,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 93,
       "question": "Complete the statement:\n\n\"The BIU initiates all external operations which are also called bus activity .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The BIU initiates all external operations which are also called bus activity .",
       "explanation": "Complete reference statement: The BIU initiates all external operations which are also called bus activity .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12238,10 +12052,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 94,
       "question": "Complete the statement:\n\n\"The basic operations performed by the CPU bus are called bus cycles .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The basic operations performed by the CPU bus are called bus cycles .",
       "explanation": "Complete reference statement: The basic operations performed by the CPU bus are called bus cycles .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12255,10 +12067,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 95,
       "question": "Complete the statement:\n\n\"The normal time taken by 8086 to perform read/write cycle is four T-states .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The normal time taken by 8086 to perform read/write cycle is four T-states .",
       "explanation": "Complete reference statement: The normal time taken by 8086 to perform read/write cycle is four T-states .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12272,10 +12082,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 96,
       "question": "Complete the statement:\n\n\"The memory read cycle is initiated by BIU of 8086 to read a program code or data from memory.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The memory read cycle is initiated by BIU of 8086 to read a program code or data from memory.",
       "explanation": "Complete reference statement: The memory read cycle is initiated by BIU of 8086 to read a program code or data from memory.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12289,10 +12097,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 97,
       "question": "Complete the statement:\n\n\"The memory write cycle is initiated by BIU of 8086 to write a data in memory.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The memory write cycle is initiated by BIU of 8086 to write a data in memory.",
       "explanation": "Complete reference statement: The memory write cycle is initiated by BIU of 8086 to write a data in memory.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12306,10 +12112,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 98,
       "question": "Complete the statement:\n\n\"The interrupt acknowledge cycle is executed in response to an interrupt request through the INTR pin of\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The interrupt acknowledge cycle is executed in response to an interrupt request through the INTR pin of",
       "explanation": "Complete reference statement: The interrupt acknowledge cycle is executed in response to an interrupt request through the INTR pin of",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12323,10 +12127,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 8086,
       "question": "Complete the statement:\n\n\"\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "",
       "explanation": "Complete reference statement: ",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12340,10 +12142,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 99,
       "question": "Complete the statement:\n\n\"The 8086 instructions can be classified into six groups.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 instructions can be classified into six groups.",
       "explanation": "Complete reference statement: The 8086 instructions can be classified into six groups.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12357,10 +12157,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 100,
       "question": "Complete the statement:\n\n\"The data-transfer group includes instructions for moving data between registers, register and memory, register and stack memory, and accumulator and IO devices.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The data-transfer group includes instructions for moving data between registers, register and memory, register and stack memory, and accumulator and IO devices.",
       "explanation": "Complete reference statement: The data-transfer group includes instructions for moving data between registers, register and memory, register and stack memory, and accumulator and IO devices.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12374,10 +12172,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 101,
       "question": "Complete the statement:\n\n\"The arithmetic group includes instructions for addition and subtraction of binary, BCD and ASCII data.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The arithmetic group includes instructions for addition and subtraction of binary, BCD and ASCII data.",
       "explanation": "Complete reference statement: The arithmetic group includes instructions for addition and subtraction of binary, BCD and ASCII data.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12391,10 +12187,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 102,
       "question": "Complete the statement:\n\n\"The logical group includes instructions for performing logical operations like AND, OR, Exclusive-OR, Complement, Shift, Rotate, etc.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The logical group includes instructions for performing logical operations like AND, OR, Exclusive-OR, Complement, Shift, Rotate, etc.",
       "explanation": "Complete reference statement: The logical group includes instructions for performing logical operations like AND, OR, Exclusive-OR, Complement, Shift, Rotate, etc.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12408,10 +12202,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 103,
       "question": "Complete the statement:\n\n\"The string-manipulation group includes instructions for moving string data between two memory locations.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The string-manipulation group includes instructions for moving string data between two memory locations.",
       "explanation": "Complete reference statement: The string-manipulation group includes instructions for moving string data between two memory locations.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12425,10 +12217,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 104,
       "question": "Complete the statement:\n\n\"The control-transfer group includes instructions to call a procedure or subroutine in the main program.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The control-transfer group includes instructions to call a procedure or subroutine in the main program.",
       "explanation": "Complete reference statement: The control-transfer group includes instructions to call a procedure or subroutine in the main program.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12442,10 +12232,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 105,
       "question": "Complete the statement:\n\n\"The processor control group includes instructions to set or clear the flags, to delay and halt the processor execution.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The processor control group includes instructions to set or clear the flags, to delay and halt the processor execution.",
       "explanation": "Complete reference statement: The processor control group includes instructions to set or clear the flags, to delay and halt the processor execution.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12459,10 +12247,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 106,
       "question": "Complete the statement:\n\n\"The size of an 8086 instruction is one to six bytes.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The size of an 8086 instruction is one to six bytes.",
       "explanation": "Complete reference statement: The size of an 8086 instruction is one to six bytes.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12476,10 +12262,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 107,
       "question": "Complete the statement:\n\n\"The first byte of the instruction will have a 6-bit opcode and two special bit indicators.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The first byte of the instruction will have a 6-bit opcode and two special bit indicators.",
       "explanation": "Complete reference statement: The first byte of the instruction will have a 6-bit opcode and two special bit indicators.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12493,10 +12277,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 108,
       "question": "Complete the statement:\n\n\"In multi-byte instructions, the second byte will specify the addressing mode of the operands.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In multi-byte instructions, the second byte will specify the addressing mode of the operands.",
       "explanation": "Complete reference statement: In multi-byte instructions, the second byte will specify the addressing mode of the operands.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12510,10 +12292,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 109,
       "question": "Complete the statement:\n\n\"Every instruction of a program has to operate on a data .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Every instruction of a program has to operate on a data .",
       "explanation": "Complete reference statement: Every instruction of a program has to operate on a data .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12527,10 +12307,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 110,
       "question": "Complete the statement:\n\n\"The method of specifying the data to be operated by the instruction is called addressing .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The method of specifying the data to be operated by the instruction is called addressing .",
       "explanation": "Complete reference statement: The method of specifying the data to be operated by the instruction is called addressing .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12544,10 +12322,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 111,
       "question": "Complete the statement:\n\n\"In register addressing , the instruction will specify the name of the register which holds the data to be operated by the instruction.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In register addressing , the instruction will specify the name of the register which holds the data to be operated by the instruction.",
       "explanation": "Complete reference statement: In register addressing , the instruction will specify the name of the register which holds the data to be operated by the instruction.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12561,10 +12337,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 112,
       "question": "Complete the statement:\n\n\"In immediate addressing mode , an 8-bit or 16-bit data is specified as part of the instruction.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In immediate addressing mode , an 8-bit or 16-bit data is specified as part of the instruction.",
       "explanation": "Complete reference statement: In immediate addressing mode , an 8-bit or 16-bit data is specified as part of the instruction.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12578,10 +12352,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 113,
       "question": "Complete the statement:\n\n\"In direct addressing , an unsigned 16-bit displacement or signed 8-bit displacement will be specified in the instruction.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In direct addressing , an unsigned 16-bit displacement or signed 8-bit displacement will be specified in the instruction.",
       "explanation": "Complete reference statement: In direct addressing , an unsigned 16-bit displacement or signed 8-bit displacement will be specified in the instruction.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12595,10 +12367,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 114,
       "question": "Complete the statement:\n\n\"In register indirect addressing , the name of the register which holds the effective address will be specified in the instruction.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In register indirect addressing , the name of the register which holds the effective address will be specified in the instruction.",
       "explanation": "Complete reference statement: In register indirect addressing , the name of the register which holds the effective address will be specified in the instruction.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12612,10 +12382,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 115,
       "question": "Complete the statement:\n\n\"In based addressing , the BX or BP-register is used to hold a base value for effective address.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In based addressing , the BX or BP-register is used to hold a base value for effective address.",
       "explanation": "Complete reference statement: In based addressing , the BX or BP-register is used to hold a base value for effective address.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12629,10 +12397,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 116,
       "question": "Complete the statement:\n\n\"In indexed addressing , the SI or DI-register is used to hold an index value for memory data.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In indexed addressing , the SI or DI-register is used to hold an index value for memory data.",
       "explanation": "Complete reference statement: In indexed addressing , the SI or DI-register is used to hold an index value for memory data.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12646,10 +12412,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 117,
       "question": "Complete the statement:\n\n\"In string addressing mode , the effective address of source data is stored in SI-register and the effective address of destination data is stored in DI-register.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In string addressing mode , the effective address of source data is stored in SI-register and the effective address of destination data is stored in DI-register.",
       "explanation": "Complete reference statement: In string addressing mode , the effective address of source data is stored in SI-register and the effective address of destination data is stored in DI-register.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12663,10 +12427,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 118,
       "question": "Complete the statement:\n\n\"In the direct port addressing mode , an 8-bit port address is directly specified in the instruction.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In the direct port addressing mode , an 8-bit port address is directly specified in the instruction.",
       "explanation": "Complete reference statement: In the direct port addressing mode , an 8-bit port address is directly specified in the instruction.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12680,10 +12442,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 119,
       "question": "Complete the statement:\n\n\"In the indirect port addressing mode , the instruction will specify the name of the register which holds the port address.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In the indirect port addressing mode , the instruction will specify the name of the register which holds the port address.",
       "explanation": "Complete reference statement: In the indirect port addressing mode , the instruction will specify the name of the register which holds the port address.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12697,10 +12457,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 120,
       "question": "Complete the statement:\n\n\"In relative addressing , the effective address of a program instruction is specified relative to the Instruction Pointer by an 8-bit signed displacement.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In relative addressing , the effective address of a program instruction is specified relative to the Instruction Pointer by an 8-bit signed displacement.",
       "explanation": "Complete reference statement: In relative addressing , the effective address of a program instruction is specified relative to the Instruction Pointer by an 8-bit signed displacement.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12714,10 +12472,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 121,
       "question": "Complete the statement:\n\n\"In implied addressing mode , the instruction itself will specify the data to be operated by the instruction.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "In implied addressing mode , the instruction itself will specify the data to be operated by the instruction.",
       "explanation": "Complete reference statement: In implied addressing mode , the instruction itself will specify the data to be operated by the instruction.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12731,10 +12487,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 122,
       "question": "Complete the statement:\n\n\"The execution time of each instruction of 8086 is specified by INTEL in terms of clock cycles or periods of the processor.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The execution time of each instruction of 8086 is specified by INTEL in terms of clock cycles or periods of the processor.",
       "explanation": "Complete reference statement: The execution time of each instruction of 8086 is specified by INTEL in terms of clock cycles or periods of the processor.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12748,10 +12502,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 123,
       "question": "Complete the statement:\n\n\"The data-transfer instructions generally involve two operands: source operand and destination operand .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The data-transfer instructions generally involve two operands: source operand and destination operand .",
       "explanation": "Complete reference statement: The data-transfer instructions generally involve two operands: source operand and destination operand .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12765,10 +12517,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 124,
       "question": "Complete the statement:\n\n\"The data-transfer instructions except POPF and SAHF instructions do not affect the flags of 8086.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The data-transfer instructions except POPF and SAHF instructions do not affect the flags of 8086.",
       "explanation": "Complete reference statement: The data-transfer instructions except POPF and SAHF instructions do not affect the flags of 8086.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12782,10 +12532,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 125,
       "question": "Complete the statement:\n\n\"The arithmetic instructions alter the flags of 8086.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The arithmetic instructions alter the flags of 8086.",
       "explanation": "Complete reference statement: The arithmetic instructions alter the flags of 8086.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12799,10 +12547,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 126,
       "question": "Complete the statement:\n\n\"The logical instructions except shift and rotate involve two operands: source operand and destination operand .\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The logical instructions except shift and rotate involve two operands: source operand and destination operand .",
       "explanation": "Complete reference statement: The logical instructions except shift and rotate involve two operands: source operand and destination operand .",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12816,10 +12562,8 @@ const QUIZ_DATA = {
       "type": "fill_blank",
       "qnum": 127,
       "question": "Complete the statement:\n\n\"When the MN/MX# is tied high, it works in minimum mode and the system is called a uniprocessor system.\"",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "When the MN/MX# is tied high, it works in minimum mode and the system is called a uniprocessor system.",
       "explanation": "Complete reference statement: When the MN/MX# is tied high, it works in minimum mode and the system is called a uniprocessor system.",
       "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -12833,10 +12577,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 1,
       "question": "What is a bit?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A bit (binary digit) is the most basic, fundamental unit of digital data, representing either a 0 or a 1.",
       "explanation": "A bit (binary digit) is the most basic, fundamental unit of digital data, representing either a 0 or a 1.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12850,10 +12592,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 2,
       "question": "What is a nibble?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A nibble is a group of 4 contiguous binary bits (half a byte).",
       "explanation": "A nibble is a group of 4 contiguous binary bits (half a byte).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12867,10 +12607,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 3,
       "question": "What is a byte?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A byte is a group of 8 contiguous binary bits.",
       "explanation": "A byte is a group of 8 contiguous binary bits.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12884,10 +12622,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 4,
       "question": "What is a word?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A word is a group of bits processed as a single unit; for 8086, a word consists of 16 bits (2 bytes).",
       "explanation": "A word is a group of bits processed as a single unit; for 8086, a word consists of 16 bits (2 bytes).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12901,10 +12637,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 5,
       "question": "What is a double word?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A double word (dword) is a group of 32 binary bits (4 bytes or 2 words).",
       "explanation": "A double word (dword) is a group of 32 binary bits (4 bytes or 2 words).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12918,10 +12652,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 6,
       "question": "What is meant by multiple word?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Multiple word refers to data lengths comprising more than one word, such as double words (32 bits) or quad words (64 bits). Define data in microprocessor terminology.",
       "explanation": "Multiple word refers to data lengths comprising more than one word, such as double words (32 bits) or quad words (64 bits). Define data in microprocessor terminology.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12935,10 +12667,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 7,
       "question": "Define data in microprocessor terminology.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Data refers to raw information, numerical values, characters, or operands processed or manipulated by the microprocessor.",
       "explanation": "Data refers to raw information, numerical values, characters, or operands processed or manipulated by the microprocessor.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12952,10 +12682,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 8,
       "question": "What is an address?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "An address is a unique binary number assigned to a specific memory location or I/O port to identify where data is stored or transferred.",
       "explanation": "An address is a unique binary number assigned to a specific memory location or I/O port to identify where data is stored or transferred.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12969,10 +12697,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 9,
       "question": "How many address bits are used by 8086 for memory addressing?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 microprocessor uses 20 address bits (A₀–A₁₉) for memory addressing.",
       "explanation": "The 8086 microprocessor uses 20 address bits (A₀–A₁₉) for memory addressing.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -12986,10 +12712,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 10,
       "question": "What is memory word size?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Memory word size is the maximum number of bits that can be stored or accessed in a single memory location or transferred in one bus cycle.",
       "explanation": "Memory word size is the maximum number of bits that can be stored or accessed in a single memory location or transferred in one bus cycle.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13003,10 +12727,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 11,
       "question": "What is the memory word size of an 8086-based system?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The memory word size of an 8086-based system is 16 bits (2 bytes).",
       "explanation": "The memory word size of an 8086-based system is 16 bits (2 bytes).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13020,10 +12742,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 12,
       "question": "What is a microprocessor?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A microprocessor is a programmable, clock-driven, semiconductor integrated circuit (IC) that functions as the Central Processing Unit (CPU) to fetch, decode, and execute instructions.",
       "explanation": "A microprocessor is a programmable, clock-driven, semiconductor integrated circuit (IC) that functions as the Central Processing Unit (CPU) to fetch, decode, and execute instructions.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13037,10 +12757,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 13,
       "question": "Why is 8086 called a 16-bit processor?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 is called a 16-bit processor because its Arithmetic Logic Unit (ALU), internal registers, and external data bus are all 16 bits wide.",
       "explanation": "The 8086 is called a 16-bit processor because its Arithmetic Logic Unit (ALU), internal registers, and external data bus are all 16 bits wide.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13054,10 +12772,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 14,
       "question": "What is a bus?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A bus is a group of conducting wires or lines used to transmit data, memory addresses, or control signals between system components. Name the three types of buses.",
       "explanation": "A bus is a group of conducting wires or lines used to transmit data, memory addresses, or control signals between system components. Name the three types of buses.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13071,10 +12787,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 15,
       "question": "Name the three types of buses.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The three types of buses are the Data Bus, Address Bus, and Control Bus.",
       "explanation": "The three types of buses are the Data Bus, Address Bus, and Control Bus.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13088,10 +12802,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 16,
       "question": "What is a data bus?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A data bus is a bidirectional set of signal lines used to transfer data between the CPU, memory, and peripheral devices.",
       "explanation": "A data bus is a bidirectional set of signal lines used to transfer data between the CPU, memory, and peripheral devices.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13105,10 +12817,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 17,
       "question": "What is an address bus?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "An address bus is a unidirectional set of signal lines used by the CPU to carry memory address or I/O port address location signals.",
       "explanation": "An address bus is a unidirectional set of signal lines used by the CPU to carry memory address or I/O port address location signals.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13122,10 +12832,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 18,
       "question": "What is a control bus?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A control bus consists of timing and control signal lines used to synchronize operations and indicate memory/IO read-write actions.",
       "explanation": "A control bus consists of timing and control signal lines used to synchronize operations and indicate memory/IO read-write actions.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13139,10 +12847,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 19,
       "question": "What is a CPU bus?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A CPU bus refers to the internal lines directly connected to the microprocessor pins that carry address, data, and status signals.",
       "explanation": "A CPU bus refers to the internal lines directly connected to the microprocessor pins that carry address, data, and status signals.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13156,10 +12862,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 20,
       "question": "What is a system bus?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A system bus is the combined bus structure (address, data, control) that connects the processor to memory, peripherals, and expansion slots across the system board.",
       "explanation": "A system bus is the combined bus structure (address, data, control) that connects the processor to memory, peripherals, and expansion slots across the system board.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13173,10 +12877,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 21,
       "question": "What is multiplexing?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Multiplexing is the technique of sharing a single physical set of pin lines to transmit different types of signals (e.g., address and data) at different times.",
       "explanation": "Multiplexing is the technique of sharing a single physical set of pin lines to transmit different types of signals (e.g., address and data) at different times.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13190,10 +12892,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 22,
       "question": "What is a multiplexed bus?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A multiplexed bus is a bus line system that carries address signals during one part of a cycle and data or status signals during another part.",
       "explanation": "A multiplexed bus is a bus line system that carries address signals during one part of a cycle and data or status signals during another part.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13207,10 +12907,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 23,
       "question": "What is demultiplexing?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Demultiplexing is the process of separating multiplexed signals (such as separating address and data from AD lines using external latches driven by ALE).",
       "explanation": "Demultiplexing is the process of separating multiplexed signals (such as separating address and data from AD lines using external latches driven by ALE).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13224,10 +12922,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 24,
       "question": "Why is multiplexing used in microprocessors?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Multiplexing is used to reduce the total IC pin count, overall package size, and manufacturing cost of the processor chip.",
       "explanation": "Multiplexing is used to reduce the total IC pin count, overall package size, and manufacturing cost of the processor chip.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13241,10 +12937,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 25,
       "question": "What is a clock?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A clock is a periodic timing signal that synchronizes all internal and external operations of the microprocessor system.",
       "explanation": "A clock is a periodic timing signal that synchronizes all internal and external operations of the microprocessor system.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13258,10 +12952,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 26,
       "question": "What type of waveform is generally used as a clock?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A square wave waveform is generally used as a clock signal. Name the three edges of a clock signal.",
       "explanation": "A square wave waveform is generally used as a clock signal. Name the three edges of a clock signal.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13275,10 +12967,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 27,
       "question": "Name the three edges of a clock signal.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The three edges/states are the Rising Edge (Leading edge), Falling Edge (Trailing edge), and Steady Level (High/Low logic levels).",
       "explanation": "The three edges/states are the Rising Edge (Leading edge), Falling Edge (Trailing edge), and Steady Level (High/Low logic levels).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13292,10 +12982,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 28,
       "question": "What is tristate logic?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Tristate logic is a digital logic circuit capability that provides three distinct output states: Logic 0, Logic 1, and High-Impedance (Hi-Z). Name the three states of tristate logic.",
       "explanation": "Tristate logic is a digital logic circuit capability that provides three distinct output states: Logic 0, Logic 1, and High-Impedance (Hi-Z). Name the three states of tristate logic.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13309,10 +12997,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 29,
       "question": "Name the three states of tristate logic.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The three states are High level (Logic 1), Low level (Logic 0), and High- Impedance state (Hi-Z / floating).",
       "explanation": "The three states are High level (Logic 1), Low level (Logic 0), and High- Impedance state (Hi-Z / floating).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13326,10 +13012,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 30,
       "question": "What is the high-impedance state?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The high-impedance state (Hi-Z) is an open-circuit state where an output pin is electrically disconnected from the bus to avoid bus contention.",
       "explanation": "The high-impedance state (Hi-Z) is an open-circuit state where an output pin is electrically disconnected from the bus to avoid bus contention.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13343,10 +13027,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 31,
       "question": "Why is high-impedance state required in a microprocessor system?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "High-impedance state is required to allow multiple devices to share the same physical bus without signal conflicts or electrical shorting.",
       "explanation": "High-impedance state is required to allow multiple devices to share the same physical bus without signal conflicts or electrical shorting.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13360,10 +13042,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 32,
       "question": "What is a chip-select signal?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A chip-select (CS) signal is a control input used to enable or activate a specific memory chip or peripheral device.",
       "explanation": "A chip-select (CS) signal is a control input used to enable or activate a specific memory chip or peripheral device.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13377,10 +13057,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 33,
       "question": "What is an ALU?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "An Arithmetic Logic Unit (ALU) is the digital functional unit within the CPU that executes arithmetic (ADD, SUB) and logical (AND, OR, XOR) operations.",
       "explanation": "An Arithmetic Logic Unit (ALU) is the digital functional unit within the CPU that executes arithmetic (ADD, SUB) and logical (AND, OR, XOR) operations.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13394,10 +13072,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 34,
       "question": "What is a register array?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A register array is a collection of internal high-speed storage registers used within the CPU to hold temporary data, addresses, and status info.",
       "explanation": "A register array is a collection of internal high-speed storage registers used within the CPU to hold temporary data, addresses, and status info.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13411,10 +13087,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 35,
       "question": "What is a control unit?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A control unit is the component of the CPU that decodes instructions and generates internal/external timing and control signals to direct operations.",
       "explanation": "A control unit is the component of the CPU that decodes instructions and generates internal/external timing and control signals to direct operations.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13428,10 +13102,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 36,
       "question": "What is a flag register?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A flag register is a dedicated internal register containing individual status and control bit flags that reflect ALU operation results or control CPU modes.",
       "explanation": "A flag register is a dedicated internal register containing individual status and control bit flags that reflect ALU operation results or control CPU modes.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13445,10 +13117,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 37,
       "question": "What is an instruction pointer?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "An instruction pointer (IP) is a 16-bit register that holds the offset address of the next instruction byte to be fetched from memory.",
       "explanation": "An instruction pointer (IP) is a 16-bit register that holds the offset address of the next instruction byte to be fetched from memory.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13462,10 +13132,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 38,
       "question": "What is the function of an instruction decoding unit?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The instruction decoding unit interprets fetched instruction opcodes and translates them into control signals for execution by the ALU.",
       "explanation": "The instruction decoding unit interprets fetched instruction opcodes and translates them into control signals for execution by the ALU.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13479,10 +13147,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 39,
       "question": "What is the function of a timing and control unit?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The timing and control unit generates synchronized clock signals, bus control signals, and system timing sequences needed to perform machine cycles.",
       "explanation": "The timing and control unit generates synchronized clock signals, bus control signals, and system timing sequences needed to perform machine cycles.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13496,10 +13162,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 40,
       "question": "Does 8086 have an internal clock-generation circuit?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "No, the 8086 does not have an internal clock generator; it requires an external clock generator IC (such as 8284A).",
       "explanation": "No, the 8086 does not have an internal clock generator; it requires an external clock generator IC (such as 8284A).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13513,10 +13177,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 41,
       "question": "What type of clock source does 8086 require?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "8086 requires an external clock generator IC (8284A) driven by an external crystal oscillator.",
       "explanation": "8086 requires an external clock generator IC (8284A) driven by an external crystal oscillator.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13530,10 +13192,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 42,
       "question": "What is the duty cycle of the external clock source required by 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The external clock signal required by 8086 must have a 33% duty cycle (1/3 high, 2/3 low).",
       "explanation": "The external clock signal required by 8086 must have a 33% duty cycle (1/3 high, 2/3 low).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13547,10 +13207,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 43,
       "question": "Which IC is used to generate the clock for 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8284A Clock Generator IC is used to generate the clock signal for 8086.",
       "explanation": "The 8284A Clock Generator IC is used to generate the clock signal for 8086.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13564,10 +13222,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 44,
       "question": "What is the maximum internal clock frequency of the basic 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The basic 8086 operates at a maximum clock frequency of 5 MHz.",
       "explanation": "The basic 8086 operates at a maximum clock frequency of 5 MHz.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13581,10 +13237,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 45,
       "question": "What is the maximum clock frequency of 8086-1?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086-1 operates at a maximum clock frequency of 10 MHz.",
       "explanation": "The 8086-1 operates at a maximum clock frequency of 10 MHz.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13598,10 +13252,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 46,
       "question": "What is the maximum clock frequency of 8086-2?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086-2 operates at a maximum clock frequency of 8 MHz.",
       "explanation": "The 8086-2 operates at a maximum clock frequency of 8 MHz.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13615,10 +13267,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 47,
       "question": "What is the maximum clock frequency of 8086-4?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086-4 operates at a maximum clock frequency of 4 MHz.",
       "explanation": "The 8086-4 operates at a maximum clock frequency of 4 MHz.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13632,10 +13282,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 48,
       "question": "How many address bits does 8086 use for memory?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "8086 uses 20 address lines (A₀–A₁₉) for memory addressing.",
       "explanation": "8086 uses 20 address lines (A₀–A₁₉) for memory addressing.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13649,10 +13297,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 49,
       "question": "What is the maximum memory space directly addressable by 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The maximum directly addressable memory space is 1 MB (2²⁰ bytes = 1,048,576 bytes).",
       "explanation": "The maximum directly addressable memory space is 1 MB (2²⁰ bytes = 1,048,576 bytes).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13666,10 +13312,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 50,
       "question": "How is the 1 MB memory space divided physically?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 1 MB memory space is divided physically into two 512 KB memory banks: Even (Low) Bank and Odd (High) Bank.",
       "explanation": "The 1 MB memory space is divided physically into two 512 KB memory banks: Even (Low) Bank and Odd (High) Bank.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13683,10 +13327,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 51,
       "question": "What is the size of each memory bank in 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The size of each memory bank is 512 KB.",
       "explanation": "The size of each memory bank is 512 KB.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13700,10 +13342,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 52,
       "question": "What are the two memory banks called?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The two banks are called the Even Bank (Low Bank) and the Odd Bank (High Bank).",
       "explanation": "The two banks are called the Even Bank (Low Bank) and the Odd Bank (High Bank).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13717,10 +13357,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 53,
       "question": "Which signal selects the even memory bank?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Address line A₀ = 0 selects the even memory bank.",
       "explanation": "Address line A₀ = 0 selects the even memory bank.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13734,10 +13372,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 54,
       "question": "Which signal selects the odd memory bank?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Bus High Enable signal (BHE = 0) selects the odd memory bank.",
       "explanation": "The Bus High Enable signal (BHE = 0) selects the odd memory bank.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13751,10 +13387,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 55,
       "question": "How many address bits are used for I/O addressing?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "8086 uses 16 address bits (A₀–A₁₅) for I/O port addressing.",
       "explanation": "8086 uses 16 address bits (A₀–A₁₅) for I/O port addressing.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13768,10 +13402,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 56,
       "question": "How many I/O addresses can 8086 generate?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "8086 can generate 65,536 (64 KB) 8-bit I/O addresses or 32,768 16-bit I/O addresses.",
       "explanation": "8086 can generate 65,536 (64 KB) 8-bit I/O addresses or 32,768 16-bit I/O addresses.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13785,10 +13417,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 57,
       "question": "Which signal differentiates memory and I/O addresses?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The M/IO signal differentiates memory access from I/O access (in minimum mode).",
       "explanation": "The M/IO signal differentiates memory access from I/O access (in minimum mode).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13802,10 +13432,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 58,
       "question": "What is the status of M/IO during memory access?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "During memory access, M/IO is High (Logic 1).",
       "explanation": "During memory access, M/IO is High (Logic 1).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13819,10 +13447,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 59,
       "question": "What is the status of M/IO during I/O access?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "During I/O access, M/IO is Low (Logic 0).",
       "explanation": "During I/O access, M/IO is Low (Logic 0).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13836,10 +13462,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 60,
       "question": "What are the two operating modes of 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The two operating modes are Minimum Mode (single processor) and Maximum Mode (multiprocessor).",
       "explanation": "The two operating modes are Minimum Mode (single processor) and Maximum Mode (multiprocessor).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13853,10 +13477,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 61,
       "question": "Which pin selects the operating mode of 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The MN/MX pin (Pin 33) selects the operating mode.",
       "explanation": "The MN/MX pin (Pin 33) selects the operating mode.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13870,10 +13492,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 62,
       "question": "What mode is selected when MN/MX is high?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Minimum Mode is selected when MN/MX is tied high (VCC).",
       "explanation": "Minimum Mode is selected when MN/MX is tied high (VCC).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13887,10 +13507,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 63,
       "question": "What mode is selected when MN/MX is low?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Maximum Mode is selected when MN/MX is tied low (GND).",
       "explanation": "Maximum Mode is selected when MN/MX is tied low (GND).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13904,10 +13522,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 64,
       "question": "Which mode is generally used for a uniprocessor system?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Minimum Mode is used for a uniprocessor (single processor) system.",
       "explanation": "Minimum Mode is used for a uniprocessor (single processor) system.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13921,10 +13537,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 65,
       "question": "Which mode is generally used for a multiprocessor system?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Maximum Mode is used for a multiprocessor system.",
       "explanation": "Maximum Mode is used for a multiprocessor system.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13938,10 +13552,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 66,
       "question": "Which coprocessor can work with 8086 in maximum mode?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8087 Math Coprocessor (Numeric Data Processor) can work with 8086 in maximum mode.",
       "explanation": "The 8087 Math Coprocessor (Numeric Data Processor) can work with 8086 in maximum mode.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13955,10 +13567,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 67,
       "question": "Which external bus controller is required in maximum mode?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8288 Bus Controller IC is required in maximum mode.",
       "explanation": "The 8288 Bus Controller IC is required in maximum mode.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13972,10 +13582,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 68,
       "question": "What is the external data bus size of 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The external data bus size of 8086 is 16 bits.",
       "explanation": "The external data bus size of 8086 is 16 bits.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -13989,10 +13597,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 69,
       "question": "What is the external data bus size of 8088?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The external data bus size of 8088 is 8 bits.",
       "explanation": "The external data bus size of 8088 is 8 bits.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14006,10 +13612,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 70,
       "question": "How does 8086 access memory compared with 8088?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "8086 fetches 16 bits (2 bytes) in a single bus cycle, whereas 8088 fetches only 8 bits (1 byte) per bus cycle.",
       "explanation": "8086 fetches 16 bits (2 bytes) in a single bus cycle, whereas 8088 fetches only 8 bits (1 byte) per bus cycle.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14023,10 +13627,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 71,
       "question": "Which processor was used by IBM in its first PC according to the notes?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Intel 8088 processor was used by IBM in its first Personal Computer (IBM PC/XT).",
       "explanation": "The Intel 8088 processor was used by IBM in its first Personal Computer (IBM PC/XT).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14040,10 +13642,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 72,
       "question": "Are the 8086 and 8088 instruction sets common?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Yes, 8086 and 8088 share 100% software instruction set compatibility.",
       "explanation": "Yes, 8086 and 8088 share 100% software instruction set compatibility.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14057,10 +13657,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 73,
       "question": "What is the function of AD0–AD15 lines?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "AD₀–AD₁₅ are time-multiplexed address/data lines carrying memory/IO addresses during T₁ and data during T₂, T₃, T₄.",
       "explanation": "AD₀–AD₁₅ are time-multiplexed address/data lines carrying memory/IO addresses during T₁ and data during T₂, T₃, T₄.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14074,10 +13672,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 74,
       "question": "Are AD0–AD15 unidirectional or bidirectional?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "They are bidirectional lines (address signals are output, data signals are bidirectional input/output).",
       "explanation": "They are bidirectional lines (address signals are output, data signals are bidirectional input/output).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14091,10 +13687,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 75,
       "question": "What does A16/S3 represent?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It is a time-multiplexed line carrying address bit A₁₆ during T₁ and segment register status S₃ during T₂–T₄.",
       "explanation": "It is a time-multiplexed line carrying address bit A₁₆ during T₁ and segment register status S₃ during T₂–T₄.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14108,10 +13702,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 76,
       "question": "What does A17/S4 represent?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It is a time-multiplexed line carrying address bit A₁₇ during T₁ and segment register status S₄ during T₂–T₄.",
       "explanation": "It is a time-multiplexed line carrying address bit A₁₇ during T₁ and segment register status S₄ during T₂–T₄.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14125,10 +13717,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 77,
       "question": "What does A18/S5 represent?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It is a time-multiplexed line carrying address bit A₁₈ during T₁ and Interrupt Enable Flag status S₅ during T₂–T₄.",
       "explanation": "It is a time-multiplexed line carrying address bit A₁₈ during T₁ and Interrupt Enable Flag status S₅ during T₂–T₄.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14142,10 +13732,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 78,
       "question": "What does A19/S6 represent?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It is a time-multiplexed line carrying address bit A₁₉ during T₁ and bus master status S₆ (always 0 for 8086) during T₂–T₄.",
       "explanation": "It is a time-multiplexed line carrying address bit A₁₉ during T₁ and bus master status S₆ (always 0 for 8086) during T₂–T₄.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14159,10 +13747,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 79,
       "question": "What does BHE stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "BHE stands for Bus High Enable.",
       "explanation": "BHE stands for Bus High Enable.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14176,10 +13762,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 80,
       "question": "What does S7 indicate?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "S₇ is a spare status bit combined with BHE during T₂–T₄ (currently unused/reserved).",
       "explanation": "S₇ is a spare status bit combined with BHE during T₂–T₄ (currently unused/reserved).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14193,10 +13777,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 81,
       "question": "What is the function of the RD signal?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "RD (Read) indicates that the CPU is performing a memory or I/O read operation.",
       "explanation": "RD (Read) indicates that the CPU is performing a memory or I/O read operation.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14210,10 +13792,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 82,
       "question": "Is RD active high or active low?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "RD is an active-low signal.",
       "explanation": "RD is an active-low signal.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14227,10 +13807,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 83,
       "question": "What is the function of the RESET pin?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "RESET causes the processor to immediately terminate present activity and restart execution from CS:IP = FFFF:0000H.",
       "explanation": "RESET causes the processor to immediately terminate present activity and restart execution from CS:IP = FFFF:0000H.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14244,10 +13822,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 84,
       "question": "What type of interrupt is NMI?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "NMI (Non-Maskable Interrupt) is a hardware interrupt that cannot be masked or disabled by software.",
       "explanation": "NMI (Non-Maskable Interrupt) is a hardware interrupt that cannot be masked or disabled by software.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14261,10 +13837,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 85,
       "question": "What type of interrupt is INTR?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "INTR (Interrupt Request) is a maskable hardware interrupt controlled by the Interrupt Flag (IF).",
       "explanation": "INTR (Interrupt Request) is a maskable hardware interrupt controlled by the Interrupt Flag (IF).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14278,10 +13852,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 86,
       "question": "What is the function of CLK?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CLK provides the basic timing signal for processor operations.",
       "explanation": "CLK provides the basic timing signal for processor operations.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14295,10 +13867,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 87,
       "question": "What is the function of VCC?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "VCC supplies power (+5V DC) to the microprocessor chip.",
       "explanation": "VCC supplies power (+5V DC) to the microprocessor chip.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14312,10 +13882,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 88,
       "question": "What is the function of GND?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "GND provides the ground reference voltage (0V) for the processor.",
       "explanation": "GND provides the ground reference voltage (0V) for the processor.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14329,10 +13897,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 89,
       "question": "What is the function of READY?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "READY is an input signal from slow memory or I/O devices indicating data is ready, inserting Wait states if low.",
       "explanation": "READY is an input signal from slow memory or I/O devices indicating data is ready, inserting Wait states if low.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14346,10 +13912,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 90,
       "question": "What is the function of TEST?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "TEST is examined by the WAIT instruction; if TEST is high, CPU waits until TEST becomes low.",
       "explanation": "TEST is examined by the WAIT instruction; if TEST is high, CPU waits until TEST becomes low.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14363,10 +13927,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 91,
       "question": "What is the function of MN/MX?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "MN/MX selects Minimum Mode when connected to VCC and Maximum Mode when connected to GND.",
       "explanation": "MN/MX selects Minimum Mode when connected to VCC and Maximum Mode when connected to GND.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14380,10 +13942,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 92,
       "question": "Which signals indicate the segment accessed during a bus cycle?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Status signals S₄ and S₃ indicate the segment register accessed during a bus cycle.",
       "explanation": "Status signals S₄ and S₃ indicate the segment register accessed during a bus cycle.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14397,10 +13957,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 93,
       "question": "What segment is indicated by S4S3 = 00?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "S₄S₃ = 00 indicates Extra Segment (ES) access (or Alternate Data).",
       "explanation": "S₄S₃ = 00 indicates Extra Segment (ES) access (or Alternate Data).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14414,10 +13972,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 94,
       "question": "What segment is indicated by S4S3 = 01?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "S₄S₃ = 01 indicates Stack Segment (SS) access.",
       "explanation": "S₄S₃ = 01 indicates Stack Segment (SS) access.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14431,10 +13987,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 95,
       "question": "What segment is indicated by S4S3 = 10?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "S₄S₃ = 10 indicates Code Segment (CS) access (or no segment access).",
       "explanation": "S₄S₃ = 10 indicates Code Segment (CS) access (or no segment access).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14448,10 +14002,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 96,
       "question": "What segment is indicated by S4S3 = 11?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "S₄S₃ = 11 indicates Data Segment (DS) access.",
       "explanation": "S₄S₃ = 11 indicates Data Segment (DS) access.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14465,10 +14017,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 97,
       "question": "What does S5 indicate?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "S₅ reflects the current state of the Interrupt Enable Flag (IF).",
       "explanation": "S₅ reflects the current state of the Interrupt Enable Flag (IF).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14482,10 +14032,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 98,
       "question": "What does a low level on S6 indicate?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A low level on S₆ indicates that 8086 is controlling the bus (S₆ is always held low by 8086).",
       "explanation": "A low level on S₆ indicates that 8086 is controlling the bus (S₆ is always held low by 8086).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14499,10 +14047,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 99,
       "question": "What does BHE become after T1?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "After T₁, the BHE pin multiplexes to output status bit S₇ during T₂, T₃, T₄.",
       "explanation": "After T₁, the BHE pin multiplexes to output status bit S₇ during T₂, T₃, T₄.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14516,10 +14062,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 100,
       "question": "What does S7 indicate during subsequent T-states?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "S₇ is a spare status signal (currently undefined / logic 1).",
       "explanation": "S₇ is a spare status signal (currently undefined / logic 1).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14533,10 +14077,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 101,
       "question": "How are BHE and A0 used together?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "BHE and A₀ are decoded together to determine byte or word transfers across even/odd memory banks (BHE=0, A₀=0: Whole Word transfer; BHE=0, A₀=1: Upper Byte from odd bank; BHE=1, A₀=0: Lower Byte from even bank).",
       "explanation": "BHE and A₀ are decoded together to determine byte or word transfers across even/odd memory banks (BHE=0, A₀=0: Whole Word transfer; BHE=0, A₀=1: Upper Byte from odd bank; BHE=1, A₀=0: Lower Byte from even bank).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14550,10 +14092,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 102,
       "question": "For how long is RESET held high for power-on reset according to the notes?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "For power-on reset, RESET must be held high for at least 50 microseconds.",
       "explanation": "For power-on reset, RESET must be held high for at least 50 microseconds.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14567,10 +14107,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 103,
       "question": "For how many clock cycles is RESET held high during a working reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "During normal running operations, RESET must be held high for at least 4 clock cycles.",
       "explanation": "During normal running operations, RESET must be held high for at least 4 clock cycles.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14584,10 +14122,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 104,
       "question": "What happens to the instruction queue during reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The instruction queue is cleared / flushed during reset.",
       "explanation": "The instruction queue is cleared / flushed during reset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14601,10 +14137,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 105,
       "question": "What is the value loaded into CS after reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Code Segment register CS is loaded with FFFFH after reset.",
       "explanation": "Code Segment register CS is loaded with FFFFH after reset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14618,10 +14152,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 106,
       "question": "What is the initial physical address fetched after reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The initial physical address fetched is FFFFFH (calculated from CS:IP = FFFF0H + 0000H).",
       "explanation": "The initial physical address fetched is FFFFFH (calculated from CS:IP = FFFF0H + 0000H).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14635,10 +14167,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 107,
       "question": "What happens to DS during reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Data Segment register DS is cleared to 0000H during reset.",
       "explanation": "Data Segment register DS is cleared to 0000H during reset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14652,10 +14182,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 108,
       "question": "What happens to SS during reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Stack Segment register SS is cleared to 0000H during reset.",
       "explanation": "Stack Segment register SS is cleared to 0000H during reset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14669,10 +14197,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 109,
       "question": "What happens to ES during reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Extra Segment register ES is cleared to 0000H during reset.",
       "explanation": "Extra Segment register ES is cleared to 0000H during reset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14686,10 +14212,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 110,
       "question": "What happens to IP during reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Instruction Pointer IP is cleared to 0000H during reset.",
       "explanation": "Instruction Pointer IP is cleared to 0000H during reset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14703,10 +14227,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 111,
       "question": "What happens to the flag register during reset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Flag Register is cleared to 0000H (disabling interrupts, single-step, etc.).",
       "explanation": "The Flag Register is cleared to 0000H (disabling interrupts, single-step, etc.).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14720,10 +14242,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 112,
       "question": "What is the purpose of READY?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "READY synchronizes slow memory or I/O devices with the fast CPU by signaling whether data transfer is complete.",
       "explanation": "READY synchronizes slow memory or I/O devices with the fast CPU by signaling whether data transfer is complete.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14737,10 +14257,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 113,
       "question": "When is READY sampled by 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "READY is sampled during clock cycle T₃ (or previous wait state T_w).",
       "explanation": "READY is sampled during clock cycle T₃ (or previous wait state T_w).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14754,10 +14272,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 114,
       "question": "What happens if READY is low?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "If READY is low, the CPU inserts Wait states (T_w) into the bus cycle and pauses execution.",
       "explanation": "If READY is low, the CPU inserts Wait states (T_w) into the bus cycle and pauses execution.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14771,10 +14287,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 115,
       "question": "When does the processor resume from wait states?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The processor resumes normal bus operations when READY goes high.",
       "explanation": "The processor resumes normal bus operations when READY goes high.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14788,10 +14302,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 116,
       "question": "What logic level is applied to MN/MX for minimum mode?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "High logic level (+5V / VCC) is applied to MN/MX for minimum mode.",
       "explanation": "High logic level (+5V / VCC) is applied to MN/MX for minimum mode.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14805,10 +14317,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 117,
       "question": "Who generates bus-control signals in minimum mode?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 8086 microprocessor itself generates all bus-control signals directly in minimum mode.",
       "explanation": "The 8086 microprocessor itself generates all bus-control signals directly in minimum mode.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14822,10 +14332,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 118,
       "question": "What does DT/R stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "DT/R stands for Data Transmit / Receive.",
       "explanation": "DT/R stands for Data Transmit / Receive.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14839,10 +14347,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 119,
       "question": "What is the function of DT/R?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "DT/R controls direction of data flow through external transceivers (High = Transmit/Write, Low = Receive/Read).",
       "explanation": "DT/R controls direction of data flow through external transceivers (High = Transmit/Write, Low = Receive/Read).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14856,10 +14362,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 120,
       "question": "What does DEN stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "DEN stands for Data Enable.",
       "explanation": "DEN stands for Data Enable.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14873,10 +14377,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 121,
       "question": "What is the function of DEN?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "DEN is an active-low output signal that enables external data bus transceivers (buffers).",
       "explanation": "DEN is an active-low output signal that enables external data bus transceivers (buffers).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14890,10 +14392,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 122,
       "question": "What does ALE stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "ALE stands for Address Latch Enable.",
       "explanation": "ALE stands for Address Latch Enable.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14907,10 +14407,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 123,
       "question": "What is the function of ALE?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "ALE is a high pulse generated during T₁ to strobe memory addresses into external latches (e.g., 8282).",
       "explanation": "ALE is a high pulse generated during T₁ to strobe memory addresses into external latches (e.g., 8282).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14924,10 +14422,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 124,
       "question": "What is the function of M/IO?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "M/IO distinguishes memory accesses (High) from I/O accesses (Low).",
       "explanation": "M/IO distinguishes memory accesses (High) from I/O accesses (Low).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14941,10 +14437,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 125,
       "question": "What is the function of WR?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "WR (Write) indicates that the CPU is writing data to memory or an I/O device.",
       "explanation": "WR (Write) indicates that the CPU is writing data to memory or an I/O device.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14958,10 +14452,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 126,
       "question": "When is WR asserted low?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "WR is asserted low during T₂ and T₃ of a write bus cycle when valid data is present on the data bus.",
       "explanation": "WR is asserted low during T₂ and T₃ of a write bus cycle when valid data is present on the data bus.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14975,10 +14467,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 127,
       "question": "What does HOLD indicate?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "HOLD is an input signal requesting the microprocessor to relinquish control of system buses.",
       "explanation": "HOLD is an input signal requesting the microprocessor to relinquish control of system buses.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -14992,10 +14482,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 128,
       "question": "What does HLDA stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "HLDA stands for Hold Acknowledge.",
       "explanation": "HLDA stands for Hold Acknowledge.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15009,10 +14497,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 129,
       "question": "What is the function of HLDA?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "HLDA is an output signal acknowledging that the CPU has accepted HOLD and placed bus lines in High-Z.",
       "explanation": "HLDA is an output signal acknowledging that the CPU has accepted HOLD and placed bus lines in High-Z.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15026,10 +14512,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 130,
       "question": "What happens to tristate pins when HOLD is accepted?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Address, data, and control pins are driven into the High-Impedance (Hi-Z) state.",
       "explanation": "Address, data, and control pins are driven into the High-Impedance (Hi-Z) state.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15043,10 +14527,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 131,
       "question": "What is the relationship between HOLD and HLDA?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "HOLD is the bus request input from an external bus master, and HLDA is the CPU's output confirmation signal.",
       "explanation": "HOLD is the bus request input from an external bus master, and HLDA is the CPU's output confirmation signal.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15060,10 +14542,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 132,
       "question": "What is the purpose of a bidirectional data buffer?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A bidirectional data buffer (transceiver e.g., 8286) isolates and amplifies signal drive capability on the data bus.",
       "explanation": "A bidirectional data buffer (transceiver e.g., 8286) isolates and amplifies signal drive capability on the data bus.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15077,10 +14557,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 133,
       "question": "What type of architecture does 8086 use?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "8086 uses a pipelined architecture split into two independent functional units (BIU and EU).",
       "explanation": "8086 uses a pipelined architecture split into two independent functional units (BIU and EU).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15094,10 +14572,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 134,
       "question": "What is pipelining?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Pipelining is overlapping instruction fetch and execution stages simultaneously to speed up instruction throughput. Name the two functional units of 8086.",
       "explanation": "Pipelining is overlapping instruction fetch and execution stages simultaneously to speed up instruction throughput. Name the two functional units of 8086.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15111,10 +14587,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 135,
       "question": "What does BIU stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "BIU stands for Bus Interface Unit.",
       "explanation": "BIU stands for Bus Interface Unit.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15128,10 +14602,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 136,
       "question": "What does EU stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "EU stands for Execution Unit.",
       "explanation": "EU stands for Execution Unit.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15145,10 +14617,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 137,
       "question": "What is the main function of BIU?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "BIU handles all external bus operations, including fetching instruction bytes, reading/writing memory and I/O operands, and physical address calculation.",
       "explanation": "BIU handles all external bus operations, including fetching instruction bytes, reading/writing memory and I/O operands, and physical address calculation.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15162,10 +14632,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 138,
       "question": "What is the main function of EU?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "EU decodes fetched instructions, executes arithmetic and logical operations, and manages general registers and flags.",
       "explanation": "EU decodes fetched instructions, executes arithmetic and logical operations, and manages general registers and flags.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15179,10 +14647,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 139,
       "question": "Do BIU and EU operate independently?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Yes, BIU and EU operate independently and concurrently in a pipelined fashion.",
       "explanation": "Yes, BIU and EU operate independently and concurrently in a pipelined fashion.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15196,10 +14662,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 140,
       "question": "What is the size of the 8086 instruction queue?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The instruction queue size is 6 bytes.",
       "explanation": "The instruction queue size is 6 bytes.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15213,10 +14677,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 141,
       "question": "What type of queue is used in 8086?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A First-In-First-Out (FIFO) queue structure is used.",
       "explanation": "A First-In-First-Out (FIFO) queue structure is used.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15230,10 +14692,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 142,
       "question": "What does FIFO stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "FIFO stands for First-In, First-Out.",
       "explanation": "FIFO stands for First-In, First-Out.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15247,10 +14707,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 143,
       "question": "Who fetches instructions from memory?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Bus Interface Unit (BIU) fetches instructions from memory.",
       "explanation": "The Bus Interface Unit (BIU) fetches instructions from memory.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15264,10 +14722,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 144,
       "question": "Who fetches instructions from the instruction queue?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Execution Unit (EU) fetches instruction bytes from the queue.",
       "explanation": "The Execution Unit (EU) fetches instruction bytes from the queue.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15281,10 +14737,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 145,
       "question": "How many segment registers are present in BIU?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "There are 4 segment registers in the BIU.",
       "explanation": "There are 4 segment registers in the BIU.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15298,10 +14752,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 146,
       "question": "What is the size of each segment register?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Each segment register is 16 bits wide. Name the four segment registers.",
       "explanation": "Each segment register is 16 bits wide. Name the four segment registers.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15315,10 +14767,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 147,
       "question": "Name the four segment registers.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Code Segment (CS), Data Segment (DS), Stack Segment (SS), and Extra Segment (ES).",
       "explanation": "Code Segment (CS), Data Segment (DS), Stack Segment (SS), and Extra Segment (ES).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15332,10 +14782,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 148,
       "question": "What does CS stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CS stands for Code Segment register.",
       "explanation": "CS stands for Code Segment register.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15349,10 +14797,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 149,
       "question": "What does DS stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "DS stands for Data Segment register.",
       "explanation": "DS stands for Data Segment register.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15366,10 +14812,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 150,
       "question": "What does SS stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SS stands for Stack Segment register.",
       "explanation": "SS stands for Stack Segment register.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15383,10 +14827,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 151,
       "question": "What does ES stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "ES stands for Extra Segment register.",
       "explanation": "ES stands for Extra Segment register.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15400,10 +14842,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 152,
       "question": "What is the size of an 8086 memory segment?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The maximum size of an 8086 memory segment is 64 KB.",
       "explanation": "The maximum size of an 8086 memory segment is 64 KB.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15417,10 +14857,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 153,
       "question": "How many segments can be directly addressed at a time?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "4 active segments (CS, DS, SS, ES) totaling up to 256 KB can be addressed at any given time.",
       "explanation": "4 active segments (CS, DS, SS, ES) totaling up to 256 KB can be addressed at any given time.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15434,10 +14872,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 154,
       "question": "What is the purpose of memory segmentation?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Memory segmentation allows addressing 1 MB physical memory using 16-bit registers and provides memory protection and code relocatability.",
       "explanation": "Memory segmentation allows addressing 1 MB physical memory using 16-bit registers and provides memory protection and code relocatability.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15451,10 +14887,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 155,
       "question": "Can 8086 memory segments overlap?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Yes, memory segments in 8086 can overlap or be non-overlapping (disjoint).",
       "explanation": "Yes, memory segments in 8086 can overlap or be non-overlapping (disjoint).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15468,10 +14902,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 156,
       "question": "Name one possible type of segment arrangement.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Overlapping segments or Disjoint (Non-overlapping) segments.",
       "explanation": "Overlapping segments or Disjoint (Non-overlapping) segments.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15485,10 +14917,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 157,
       "question": "What is the function of the address generation unit?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It calculates 20-bit physical addresses using the formula: Physical Address = (Segment Base × 16) + Offset.",
       "explanation": "It calculates 20-bit physical addresses using the formula: Physical Address = (Segment Base × 16) + Offset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15502,10 +14932,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 158,
       "question": "How is a physical address generated from a segment address?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Physical Address is generated by shifting the 16-bit segment base left by 4 bit positions (multiplying by 10H) and adding the 16-bit offset.",
       "explanation": "Physical Address is generated by shifting the 16-bit segment base left by 4 bit positions (multiplying by 10H) and adding the 16-bit offset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15519,10 +14947,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 159,
       "question": "By what factor is the segment base address shifted?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The segment base address is shifted left by 4 bits (multiplied by 16 or 10H).",
       "explanation": "The segment base address is shifted left by 4 bits (multiplied by 16 or 10H).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15536,10 +14962,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 160,
       "question": "Which register is used with CS to generate the program address?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Instruction Pointer (IP) is used with CS.",
       "explanation": "Instruction Pointer (IP) is used with CS.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15553,10 +14977,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 161,
       "question": "What is the function of IP?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "IP holds the 16-bit offset address of the next instruction byte in the Code Segment.",
       "explanation": "IP holds the 16-bit offset address of the next instruction byte in the Code Segment.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15570,10 +14992,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 162,
       "question": "By how much is IP incremented after a bus cycle?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "IP is incremented by 1 byte or 2 bytes depending on the number of instruction bytes fetched. How many bytes are fetched in one instruction-fetch bus cycle according to the",
       "explanation": "IP is incremented by 1 byte or 2 bytes depending on the number of instruction bytes fetched. How many bytes are fetched in one instruction-fetch bus cycle according to the",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15587,10 +15007,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 163,
       "question": "notes?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Up to 2 bytes (1 word) are fetched in a single instruction-fetch bus cycle.",
       "explanation": "Up to 2 bytes (1 word) are fetched in a single instruction-fetch bus cycle.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15604,10 +15022,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 164,
       "question": "Which registers can provide the data-segment base address?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Data Segment (DS) register (or ES for destination strings).",
       "explanation": "Data Segment (DS) register (or ES for destination strings).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15621,10 +15037,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 165,
       "question": "Which register provides the stack-segment base address?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Stack Segment (SS) register.",
       "explanation": "Stack Segment (SS) register.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15638,10 +15052,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 166,
       "question": "Which register provides the stack offset?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Stack Pointer (SP) or Base Pointer (BP) provides the stack offset.",
       "explanation": "Stack Pointer (SP) or Base Pointer (BP) provides the stack offset.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15655,10 +15067,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 167,
       "question": "What does the bus-control logic of BIU generate?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "BIU bus-control logic generates external memory/IO control signals like RD, WR, ALE, DEN, DT/R.",
       "explanation": "BIU bus-control logic generates external memory/IO control signals like RD, WR, ALE, DEN, DT/R.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15672,10 +15082,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 168,
       "question": "What components form the EU?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "EU consists of Arithmetic Logic Unit (ALU), Control Unit, Flag Register, General Purpose Registers, and Pointer/Index Registers.",
       "explanation": "EU consists of Arithmetic Logic Unit (ALU), Control Unit, Flag Register, General Purpose Registers, and Pointer/Index Registers.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15689,10 +15097,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 169,
       "question": "What is the size of the EU ALU?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The EU ALU size is 16 bits.",
       "explanation": "The EU ALU size is 16 bits.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15706,10 +15112,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 170,
       "question": "How many 16-bit general-purpose registers are present in EU?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "There are 8 16-bit general/pointer/index registers in EU (AX, BX, CX, DX, SP, BP, SI, DI). Name all eight 16-bit general-purpose registers.",
       "explanation": "There are 8 16-bit general/pointer/index registers in EU (AX, BX, CX, DX, SP, BP, SI, DI). Name all eight 16-bit general-purpose registers.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15723,10 +15127,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 171,
       "question": "Name all eight 16-bit general-purpose registers.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "AX, BX, CX, DX, SP, BP, SI, and DI.",
       "explanation": "AX, BX, CX, DX, SP, BP, SI, and DI.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15740,10 +15142,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 172,
       "question": "What is the special function of AX?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "AX is the Accumulator, used in I/O operations, multiplication, division, and arithmetic/logic tasks.",
       "explanation": "AX is the Accumulator, used in I/O operations, multiplication, division, and arithmetic/logic tasks.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15757,10 +15157,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 173,
       "question": "What is the special function of AL?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "AL acts as an 8-bit accumulator for 8-bit operations and string translation.",
       "explanation": "AL acts as an 8-bit accumulator for 8-bit operations and string translation.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15774,10 +15172,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 174,
       "question": "What is the special function of BX?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "BX is the Base Register, used as a base pointer to hold offset addresses for data memory indexing.",
       "explanation": "BX is the Base Register, used as a base pointer to hold offset addresses for data memory indexing.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15791,10 +15187,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 175,
       "question": "Which register is used as the counter register?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CX register.",
       "explanation": "CX register.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15808,10 +15202,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 176,
       "question": "What is the special function of DX?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "DX is the Data Register, used to hold port addresses for indirect I/O and upper 16 bits in 32-bit multiply/divide.",
       "explanation": "DX is the Data Register, used to hold port addresses for indirect I/O and upper 16 bits in 32-bit multiply/divide.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15825,10 +15217,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 177,
       "question": "Which register is used for multiplication and division data?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "AX (and DX for 32-bit results/operands).",
       "explanation": "AX (and DX for 32-bit results/operands).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15842,10 +15232,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 178,
       "question": "What is the function of SP?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Stack Pointer (SP) holds the offset address of the current top of stack in Stack Segment.",
       "explanation": "Stack Pointer (SP) holds the offset address of the current top of stack in Stack Segment.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15859,10 +15247,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 179,
       "question": "What does SP point to?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SP points to the current top byte/word location in the stack memory.",
       "explanation": "SP points to the current top byte/word location in the stack memory.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15876,10 +15262,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 180,
       "question": "What is the function of BP?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Base Pointer (BP) is used to access parameters and local variables stored on the stack frame.",
       "explanation": "Base Pointer (BP) is used to access parameters and local variables stored on the stack frame.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15893,10 +15277,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 181,
       "question": "Which segment is generally used with BP for stack data access?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Stack Segment (SS).",
       "explanation": "Stack Segment (SS).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15910,10 +15292,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 182,
       "question": "What is the function of SI?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Source Index (SI) holds offset address for source data in string instructions and indexed addressing.",
       "explanation": "Source Index (SI) holds offset address for source data in string instructions and indexed addressing.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15927,10 +15307,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 183,
       "question": "What is the function of DI?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Destination Index (DI) holds offset address for destination data in string instructions and indexed addressing.",
       "explanation": "Destination Index (DI) holds offset address for destination data in string instructions and indexed addressing.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15944,10 +15322,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 184,
       "question": "Which register is used as source index in string instructions?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Source Index (SI) register.",
       "explanation": "Source Index (SI) register.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15961,10 +15337,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 185,
       "question": "Which register is used as destination index in string instructions?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Destination Index (DI) register.",
       "explanation": "Destination Index (DI) register.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15978,10 +15352,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 186,
       "question": "Which 16-bit register can be divided into AH and AL?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Accumulator register AX.",
       "explanation": "Accumulator register AX.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -15995,10 +15367,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 187,
       "question": "Which register can be divided into BH and BL?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Base register BX.",
       "explanation": "Base register BX.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16012,10 +15382,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 188,
       "question": "Which register can be divided into CH and CL?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Count register CX.",
       "explanation": "Count register CX.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16029,10 +15397,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 189,
       "question": "Which register can be divided into DH and DL?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Data register DX.",
       "explanation": "Data register DX.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16046,10 +15412,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 190,
       "question": "What is the size of the 8086 flag register?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "16 bits (containing 9 active flags and 7 undefined bits).",
       "explanation": "16 bits (containing 9 active flags and 7 undefined bits).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16063,10 +15427,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 191,
       "question": "How many flags are defined in the 8086 flag register?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "9 active flags are defined.",
       "explanation": "9 active flags are defined.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16080,10 +15442,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 192,
       "question": "How many flags indicate arithmetic/logical results?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "6 status flags indicate arithmetic/logical results.",
       "explanation": "6 status flags indicate arithmetic/logical results.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16097,10 +15457,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 193,
       "question": "How many flags are control flags?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "3 control flags (DF, IF, TF). Name the six status flags.",
       "explanation": "3 control flags (DF, IF, TF). Name the six status flags.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16114,10 +15472,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 194,
       "question": "Name the six status flags.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Carry Flag (CF), Parity Flag (PF), Auxiliary Carry Flag (AF), Zero Flag (ZF), Sign Flag (SF), and Overflow Flag (OF). Name the three control flags.",
       "explanation": "Carry Flag (CF), Parity Flag (PF), Auxiliary Carry Flag (AF), Zero Flag (ZF), Sign Flag (SF), and Overflow Flag (OF). Name the three control flags.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16131,10 +15487,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 195,
       "question": "Name the three control flags.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Direction Flag (DF), Interrupt Flag (IF), and Trap Flag (TF).",
       "explanation": "Direction Flag (DF), Interrupt Flag (IF), and Trap Flag (TF).",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16148,10 +15502,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 196,
       "question": "What does CF stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CF stands for Carry Flag.",
       "explanation": "CF stands for Carry Flag.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16165,10 +15517,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 197,
       "question": "When is Carry Flag set?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Carry Flag is set (CF = 1) when there is a carry out of the MSB in addition or a borrow into the MSB in subtraction.",
       "explanation": "Carry Flag is set (CF = 1) when there is a carry out of the MSB in addition or a borrow into the MSB in subtraction.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16182,10 +15532,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 198,
       "question": "What does PF stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "PF stands for Parity Flag.",
       "explanation": "PF stands for Parity Flag.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16199,10 +15547,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 199,
       "question": "When is Parity Flag set?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Parity Flag is set (PF = 1) if the lower byte of the result contains an EVEN number of 1s.",
       "explanation": "Parity Flag is set (PF = 1) if the lower byte of the result contains an EVEN number of 1s.",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16216,10 +15562,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 200,
       "question": "What does AF stand for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "AF stands for Auxiliary Carry Flag. • 150+ essential one-mark questions • 8086 architecture, buses, flags, segmentation, registers, and more",
       "explanation": "AF stands for Auxiliary Carry Flag. • 150+ essential one-mark questions • 8086 architecture, buses, flags, segmentation, registers, and more",
       "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -16233,10 +15577,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 1,
       "question": "What is the stack?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The stack is the memory area accessed through the Stack Segment register SS and the Stack Pointer SP. It is\nused by PUSH and POP and also stores return information for CALL, interrupt entry, and interrupt return.",
       "explanation": "The stack is the memory area accessed through the Stack Segment register SS and the Stack Pointer SP. It is\nused by PUSH and POP and also stores return information for CALL, interrupt entry, and interrupt return.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16250,10 +15592,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 2,
       "question": "What registers are associated with the stack SS:SP?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SS provides the segment base address of the stack, and SP provides the offset or effective address of the top of\nthe stack.",
       "explanation": "SS provides the segment base address of the stack, and SP provides the offset or effective address of the top of\nthe stack.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16267,10 +15607,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 3,
       "question": "How is the Stack Segment SS initialized?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 128-page notes state that SS is a programmable segment register used as the stack segment base address,\nbut they do not provide a specific initialization instruction or startup value for SS. That exact initialization\nprocedure is therefore not stated in the source notes.",
       "explanation": "The 128-page notes state that SS is a programmable segment register used as the stack segment base address,\nbut they do not provide a specific initialization instruction or startup value for SS. That exact initialization\nprocedure is therefore not stated in the source notes.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16284,10 +15622,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 4,
       "question": "How is the Stack Pointer SP initialized?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The notes explain that SP is the offset of the top of the stack, but they do not state a specific initialization\ninstruction or startup value for SP. That exact initialization procedure is not provided in the source notes.",
       "explanation": "The notes explain that SP is the offset of the top of the stack, but they do not state a specific initialization\ninstruction or startup value for SP. That exact initialization procedure is not provided in the source notes.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16301,10 +15637,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 5,
       "question": "How many bytes are pushed onto the stack during a PUSH instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A PUSH operation stores a 16-bit quantity, so 2 bytes are pushed. The notes show SP being decremented by 2\nbefore the word is stored.",
       "explanation": "A PUSH operation stores a 16-bit quantity, so 2 bytes are pushed. The notes show SP being decremented by 2\nbefore the word is stored.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16318,10 +15652,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 6,
       "question": "What is the value of SP after a PUSH instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SP becomes two less than its previous value. In symbolic form: SP <- SP - 2.",
       "explanation": "SP becomes two less than its previous value. In symbolic form: SP <- SP - 2.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16335,10 +15667,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 7,
       "question": "What is the POP instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "POP removes the 16-bit value at the top of the stack and transfers it to the specified 16-bit register, segment\nregister, or memory destination. Afterward SP is increased by 2.",
       "explanation": "POP removes the 16-bit value at the top of the stack and transfers it to the specified 16-bit register, segment\nregister, or memory destination. Afterward SP is increased by 2.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16352,10 +15682,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 8,
       "question": "What is the value of SP after a POP instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SP becomes two greater than its previous value. In symbolic form: SP <- SP + 2.\nSubroutines: CALL and RET",
       "explanation": "SP becomes two greater than its previous value. In symbolic form: SP <- SP + 2.\nSubroutines: CALL and RET",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16369,10 +15697,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 9,
       "question": "What is the CALL instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CALL transfers program control to a procedure or subroutine after saving the return address in the stack memory.",
       "explanation": "CALL transfers program control to a procedure or subroutine after saving the return address in the stack memory.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16386,10 +15712,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 10,
       "question": "In a NEAR CALL instruction, what is pushed onto the stack?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Only the content of IP, the return offset of the next instruction, is pushed onto the stack.",
       "explanation": "Only the content of IP, the return offset of the next instruction, is pushed onto the stack.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16403,10 +15727,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 11,
       "question": "In a FAR CALL instruction, what is pushed onto the stack?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Both CS and IP are pushed onto the stack because the called procedure is in a different code segment.",
       "explanation": "Both CS and IP are pushed onto the stack because the called procedure is in a different code segment.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16420,10 +15742,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 12,
       "question": "How many bytes are pushed onto the stack for a NEAR CALL versus a FAR CALL?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A near call pushes one 16-bit IP value, so 2 bytes. A far call pushes two 16-bit values, CS and IP, so 4 bytes in\ntotal.",
       "explanation": "A near call pushes one 16-bit IP value, so 2 bytes. A far call pushes two 16-bit values, CS and IP, so 4 bytes in\ntotal.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16437,10 +15757,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 13,
       "question": "How is the address of the next instruction stored in IP pushed onto the stack?\n\n8086 Mid-Sem Answer Pack - grounded in the supplied 128-page notes",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "For a near call, SP is first decremented by 2 and the current IP is stored at the new stack top. For a far call, CS is\nsaved and then IP is saved, each using a 16-bit stack operation.",
       "explanation": "For a near call, SP is first decremented by 2 and the current IP is stored at the new stack top. For a far call, CS is\nsaved and then IP is saved, each using a 16-bit stack operation.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16454,10 +15772,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 14,
       "question": "Why is the address of the next instruction pushed onto the stack?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It is saved so that RET can later restore the execution point and return control to the calling program after the\nsubroutine finishes.",
       "explanation": "It is saved so that RET can later restore the execution point and return control to the calling program after the\nsubroutine finishes.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16471,10 +15787,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 15,
       "question": "What is the RET instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "RET returns control from a called procedure to the calling program by taking the saved return information from the\nstack.",
       "explanation": "RET returns control from a called procedure to the calling program by taking the saved return information from the\nstack.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16488,10 +15802,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 16,
       "question": "Where are the popped bytes stored, and how are they used?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "For a near return, the top stack word is popped into IP. For a far return, the top word is loaded into IP and the next\nword is loaded into CS. This restores the return address of the calling program.",
       "explanation": "For a near return, the top stack word is popped into IP. For a far return, the top word is loaded into IP and the next\nword is loaded into CS. This restores the return address of the calling program.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16505,10 +15817,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 17,
       "question": "How is IP reloaded to return to the main program in a NEAR return?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The word at the current top of the stack is moved into IP and SP is incremented by 2.",
       "explanation": "The word at the current top of the stack is moved into IP and SP is incremented by 2.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16522,10 +15832,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 18,
       "question": "How are both CS and IP reloaded to return to the main program in a FAR return?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "First the top stack word is moved into IP and SP is increased by 2. Then the next stack word is moved into CS\nand SP is increased by another 2.",
       "explanation": "First the top stack word is moved into IP and SP is increased by 2. Then the next stack word is moved into CS\nand SP is increased by another 2.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16539,10 +15847,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 19,
       "question": "What is the value of SP after a RET instruction execution?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "For a near RET, SP is increased by 2. For a far RET, SP is increased by 4 because both IP and CS are restored.\nIf an immediate-data form of RET is used, the notes also describe an additional increment by the specified value.\nInterrupts and IRET",
       "explanation": "For a near RET, SP is increased by 2. For a far RET, SP is increased by 4 because both IP and CS are restored.\nIf an immediate-data form of RET is used, the notes also describe an additional increment by the specified value.\nInterrupts and IRET",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16556,10 +15862,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 20,
       "question": "What is a software interrupt instruction such as INT n?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "INT is a software interrupt instruction. It calls an interrupt service procedure on an interrupt basis. The type\nnumber n can range from 0 to 255.",
       "explanation": "INT is a software interrupt instruction. It calls an interrupt service procedure on an interrupt basis. The type\nnumber n can range from 0 to 255.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16573,10 +15877,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 21,
       "question": "What happens when an INT n instruction is executed by the 8086 CPU in a main program?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The processor saves the current flag register, CS, and IP on the stack, clears IF and TF, calculates the interrupt\nvector address as type x 4, and loads IP and CS from the interrupt vector table so execution can continue from\nthe interrupt service routine.",
       "explanation": "The processor saves the current flag register, CS, and IP on the stack, clears IF and TF, calculates the interrupt\nvector address as type x 4, and loads IP and CS from the interrupt vector table so execution can continue from\nthe interrupt service routine.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16590,10 +15892,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 22,
       "question": "In an INT n instruction, what values are pushed onto the stack?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The flag register, CS, and IP are pushed onto the stack, in that sequence of interrupt-entry operations, with SP\ndecremented by 2 before each push.",
       "explanation": "The flag register, CS, and IP are pushed onto the stack, in that sequence of interrupt-entry operations, with SP\ndecremented by 2 before each push.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16607,10 +15907,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 23,
       "question": "How many bytes are pushed onto the stack during an INT n instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Three 16-bit values are saved: FLAGS, CS, and IP. Therefore 6 bytes are pushed in total.",
       "explanation": "Three 16-bit values are saved: FLAGS, CS, and IP. Therefore 6 bytes are pushed in total.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16624,10 +15922,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 24,
       "question": "How is the address of the next instruction pushed onto the stack?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The current IP, which points to the next instruction to return to, is stored as a 16-bit stack value after SP is\ndecremented by 2.",
       "explanation": "The current IP, which points to the next instruction to return to, is stored as a 16-bit stack value after SP is\ndecremented by 2.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16641,10 +15937,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 25,
       "question": "Why are the Flags Register, CS, and IP all pushed onto the stack?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "They preserve the processor state and the exact execution context of the main program so the interrupt service\nroutine can later return to it. IRET restores IP, CS, and the flags.",
       "explanation": "They preserve the processor state and the exact execution context of the main program so the interrupt service\nroutine can later return to it. IRET restores IP, CS, and the flags.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16658,10 +15952,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 26,
       "question": "What is the IRET instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "IRET terminates the interrupt service routine and returns program control to the interrupted main program by\nrestoring IP, CS, and the flag register from the stack.",
       "explanation": "IRET terminates the interrupt service routine and returns program control to the interrupted main program by\nrestoring IP, CS, and the flag register from the stack.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16675,10 +15967,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 27,
       "question": "Where are the popped bytes stored, and how are they used?\n\n8086 Mid-Sem Answer Pack - grounded in the supplied 128-page notes",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "IRET loads the top stack word into IP, the next into CS, and the next into the flag register. These values restore\nthe saved execution context of the interrupted program.",
       "explanation": "IRET loads the top stack word into IP, the next into CS, and the next into the flag register. These values restore\nthe saved execution context of the interrupted program.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16692,10 +15982,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 28,
       "question": "How are CS and IP reloaded to return to the main program after an interrupt?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "IRET first pops the saved IP, then the saved CS, and finally the saved flags. SP is increased by 2 after each pop.",
       "explanation": "IRET first pops the saved IP, then the saved CS, and finally the saved flags. SP is increased by 2 after each pop.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16709,10 +15997,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 29,
       "question": "What is the value of SP after an IRET instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Because IRET restores three 16-bit values, SP increases by 6 overall.",
       "explanation": "Because IRET restores three 16-bit values, SP increases by 6 overall.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16726,10 +16012,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 30,
       "question": "What does the 8086 CPU do immediately after receiving an INT instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It saves FLAGS, CS, and IP on the stack, clears IF and TF, computes the vector address, and obtains the new IP\nand CS values from the interrupt vector table.",
       "explanation": "It saves FLAGS, CS, and IP on the stack, clears IF and TF, computes the vector address, and obtains the new IP\nand CS values from the interrupt vector table.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16743,10 +16027,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 31,
       "question": "How does the 8086 access the Interrupt Vector Table IVT, and why is the IVT necessary?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "For interrupt type n, the vector address is n x 4. Four memory locations are reserved for each interrupt type in the\nfirst 1 KB of memory. The IVT is necessary because it stores the address of the interrupt service routine for each\ninterrupt type.",
       "explanation": "For interrupt type n, the vector address is n x 4. Four memory locations are reserved for each interrupt type in the\nfirst 1 KB of memory. The IVT is necessary because it stores the address of the interrupt service routine for each\ninterrupt type.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16760,10 +16042,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 32,
       "question": "What information is stored in the Interrupt Vector Table IVT?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "For each interrupt type, four bytes are reserved. The first two bytes store the effective address to be loaded into\nIP, and the next two bytes store the segment base address to be loaded into CS.",
       "explanation": "For each interrupt type, four bytes are reserved. The first two bytes store the effective address to be loaded into\nIP, and the next two bytes store the segment base address to be loaded into CS.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16777,10 +16057,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 33,
       "question": "What specific operations are performed using the IVT when an INT instruction is executed?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The CPU multiplies the interrupt type number by 4 to get the vector address, reads the first word into IP, and\nreads the next word into CS. Execution then continues from that CS:IP location.",
       "explanation": "The CPU multiplies the interrupt type number by 4 to get the vector address, reads the first word into IP, and\nreads the next word into CS. Execution then continues from that CS:IP location.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16794,10 +16072,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 34,
       "question": "How does the 8086 switch execution to the Interrupt Service Routine ISR?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "After saving FLAGS, CS, and IP, the processor loads IP and CS from the vector entry corresponding to the\ninterrupt type. That new CS:IP identifies the ISR entry point.",
       "explanation": "After saving FLAGS, CS, and IP, the processor loads IP and CS from the vector entry corresponding to the\ninterrupt type. That new CS:IP identifies the ISR entry point.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16811,10 +16087,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 35,
       "question": "What is the IRET instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "IRET is the interrupt-return instruction used at the end of an ISR. It restores IP, CS, and flags from the stack.",
       "explanation": "IRET is the interrupt-return instruction used at the end of an ISR. It restores IP, CS, and flags from the stack.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16828,10 +16102,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 36,
       "question": "After the execution of the ISR, how does the CPU return to the main program?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The ISR ends with IRET. IRET pops the saved IP, CS, and flag register values from the stack, increasing SP by 2\nafter each pop. The original program context is therefore restored.",
       "explanation": "The ISR ends with IRET. IRET pops the saved IP, CS, and flag register values from the stack, increasing SP by 2\nafter each pop. The original program context is therefore restored.",
       "source": "8086_Interrupts_Stack_Call_RET_Answers.pdf"
@@ -16845,10 +16117,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 1,
       "question": "What is a shift instruction in the 8086 microprocessor?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A shift instruction moves every bit of a register or memory operand one or more positions to the left or right.\nDuring the shift, a bit is moved into the Carry Flag and a new bit position is filled according to the type of shift.",
       "explanation": "A shift instruction moves every bit of a register or memory operand one or more positions to the left or right.\nDuring the shift, a bit is moved into the Carry Flag and a new bit position is filled according to the type of shift.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16862,10 +16132,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 2,
       "question": "What is the difference between a Logical Shift (SHL/SHR) and an Arithmetic Shift (SAL/SAR)?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "For left shift, SHL and SAL are functionally identical: bits move left, the old most significant bit goes to CF, and\nzero enters the least significant bit. SHR is logical right shift: zero enters the most significant bit. SAR is arithmetic\nright shift: the sign bit is copied into the most significant bit so the sign is preserved.",
       "explanation": "For left shift, SHL and SAL are functionally identical: bits move left, the old most significant bit goes to CF, and\nzero enters the least significant bit. SHR is logical right shift: zero enters the most significant bit. SAR is arithmetic\nright shift: the sign bit is copied into the most significant bit so the sign is preserved.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16879,10 +16147,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 3,
       "question": "Which register is used to specify a multi-bit count shift operation?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The CL register is used to specify the count for a multi-bit shift or rotate operation.",
       "explanation": "The CL register is used to specify the count for a multi-bit shift or rotate operation.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16896,10 +16162,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 4,
       "question": "What is the maximum count value allowed in the CL register for shift operations?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The notes specify a count range of 1 to 255 when CL is used. Therefore the maximum count stated in the notes is\n255 decimal.",
       "explanation": "The notes specify a count range of 1 to 255 when CL is used. Therefore the maximum count stated in the notes is\n255 decimal.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16913,10 +16177,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 5,
       "question": "Can a shift instruction use an immediate value like 3 directly, for example SHL AX, 3? If not, what\nare the only two valid ways to specify the count?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "According to the instruction forms shown in the notes, the count is specified either as 1 or through the CL register.\nSo the two forms are SHL/SAL operand,1 and SHL/SAL operand,CL. An immediate count such as 3 is not listed\nas a valid 8086 form.",
       "explanation": "According to the instruction forms shown in the notes, the count is specified either as 1 or through the CL register.\nSo the two forms are SHL/SAL operand,1 and SHL/SAL operand,CL. An immediate count such as 3 is not listed\nas a valid 8086 form.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16930,10 +16192,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 6,
       "question": "How does the SHL instruction work? What enters the LSB, and where does the shifted MSB go?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "All bits move one position to the left. The old MSB is shifted into CF, and 0 enters the LSB. For multiple shifts\nusing CL, this operation is repeated for the specified count.",
       "explanation": "All bits move one position to the left. The old MSB is shifted into CF, and 0 enters the LSB. For multiple shifts\nusing CL, this operation is repeated for the specified count.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16947,10 +16207,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 7,
       "question": "How does the SHR instruction work? What enters the MSB, and where does the shifted LSB go?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "All bits move one position to the right. The old LSB is shifted into CF, and 0 enters the MSB.",
       "explanation": "All bits move one position to the right. The old LSB is shifted into CF, and 0 enters the MSB.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16964,10 +16222,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 8,
       "question": "How does the SAR instruction work? Why is the MSB sign bit preserved during SAR?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "All bits move one position to the right. The old LSB is shifted into CF, while the old MSB is retained in the MSB\nposition. Because the sign bit is copied rather than replaced by zero, the sign of a signed two’s-complement value\nis preserved.",
       "explanation": "All bits move one position to the right. The old LSB is shifted into CF, while the old MSB is retained in the MSB\nposition. Because the sign bit is copied rather than replaced by zero, the sign of a signed two’s-complement value\nis preserved.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16981,10 +16237,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 9,
       "question": "Why are SHL and SAL functionally identical in execution?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The notes list SHL and SAL as alternative names for the same left-shift operation: the operand shifts left, the old\nMSB goes to CF, and zero enters the LSB.",
       "explanation": "The notes list SHL and SAL as alternative names for the same left-shift operation: the operand shifts left, the old\nMSB goes to CF, and zero enters the LSB.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -16998,10 +16252,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 10,
       "question": "How can SHL be used to perform fast multiplication by powers of 2?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Each left shift moves the binary point-equivalent position by one place and therefore corresponds to multiplying\nthe bit pattern by 2 when overflow is ignored. Repeated left shifts can therefore be used for multiplication by 2, 4,\n8, and other powers of 2.",
       "explanation": "Each left shift moves the binary point-equivalent position by one place and therefore corresponds to multiplying\nthe bit pattern by 2 when overflow is ignored. Repeated left shifts can therefore be used for multiplication by 2, 4,\n8, and other powers of 2.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17015,10 +16267,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 11,
       "question": "How can SAR be used to perform fast division of signed numbers by powers of 2?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SAR shifts a signed value right while preserving the sign bit. Therefore repeated SAR operations can be used as\na fast right-shift division technique for signed binary values, with the discarded low-order bits lost during the shift.\n\n8086 Mid-Sem Answer Pack - grounded in the supplied 128-page notes",
       "explanation": "SAR shifts a signed value right while preserving the sign bit. Therefore repeated SAR operations can be used as\na fast right-shift division technique for signed binary values, with the discarded low-order bits lost during the shift.\n\n8086 Mid-Sem Answer Pack - grounded in the supplied 128-page notes",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17032,10 +16282,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 12,
       "question": "Why is SHR unsuitable for performing division on signed negative numbers?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SHR always inserts 0 into the MSB. A negative two’s-complement number has a 1 in its sign bit, so replacing that\nbit with 0 does not preserve the negative sign. SAR is the arithmetic right shift intended to retain the sign bit.",
       "explanation": "SHR always inserts 0 into the MSB. A negative two’s-complement number has a 1 in its sign bit, so replacing that\nbit with 0 does not preserve the negative sign. SAR is the arithmetic right shift intended to retain the sign bit.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17049,10 +16297,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 13,
       "question": "What happens to precision or data when shifting an odd number right using SHR or SAR?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The LSB is shifted out and placed into CF, so that bit of the original data is no longer part of the operand. Thus\none bit of information is discarded on each right shift.",
       "explanation": "The LSB is shifted out and placed into CF, so that bit of the original data is no longer part of the operand. Thus\none bit of information is discarded on each right shift.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17066,10 +16312,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 14,
       "question": "What is a rotate instruction, and how does it differ from a shift instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A rotate operation circulates the bit pattern instead of inserting a new zero or sign bit. In a shift, a bit is discarded\nand a new bit enters. In a rotate, the shifted-out bit is fed back into the operand or through CF.",
       "explanation": "A rotate operation circulates the bit pattern instead of inserting a new zero or sign bit. In a shift, a bit is discarded\nand a new bit enters. In a rotate, the shifted-out bit is fed back into the operand or through CF.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17083,10 +16327,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 15,
       "question": "What are simple rotate instructions ROL and ROR?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "ROL rotates the operand left and feeds the old MSB into the LSB; the old MSB is also copied to CF. ROR rotates\nthe operand right and feeds the old LSB into the MSB; the old LSB is also copied to CF.",
       "explanation": "ROL rotates the operand left and feeds the old MSB into the LSB; the old MSB is also copied to CF. ROR rotates\nthe operand right and feeds the old LSB into the MSB; the old LSB is also copied to CF.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17100,10 +16342,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 16,
       "question": "What are rotate-through-carry instructions RCL and RCR?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "RCL rotates left through the Carry Flag. The old MSB goes to CF and the old CF enters the LSB. RCR rotates\nright through CF. The old LSB goes to CF and the old CF enters the MSB.",
       "explanation": "RCL rotates left through the Carry Flag. The old MSB goes to CF and the old CF enters the LSB. RCR rotates\nright through CF. The old LSB goes to CF and the old CF enters the MSB.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17117,10 +16357,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 17,
       "question": "In ROL, what happens to the MSB as it is shifted out?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The old MSB is moved into the LSB and is also copied into CF.",
       "explanation": "The old MSB is moved into the LSB and is also copied into CF.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17134,10 +16372,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 18,
       "question": "In ROR, what happens to the LSB as it is shifted out?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The old LSB is moved into the MSB and is also copied into CF.",
       "explanation": "The old LSB is moved into the MSB and is also copied into CF.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17151,10 +16387,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 19,
       "question": "In ROL, where does the MSB go? In RCL, where does the MSB go, and where does the old Carry",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Flag go?\nIn ROL, the old MSB goes to the LSB and to CF. In RCL, the old MSB goes to CF, while the old CF goes into the\nLSB.",
       "explanation": "Flag go?\nIn ROL, the old MSB goes to the LSB and to CF. In RCL, the old MSB goes to CF, while the old CF goes into the\nLSB.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17168,10 +16402,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 20,
       "question": "How does RCL use the Carry Flag CF as a 9-bit or 17-bit register extension?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The notes show that RCL moves the old MSB into CF while the old CF enters the LSB. Thus the operand bits and\nCF participate in one circular path. For an 8-bit operand this forms a 9-bit rotation path; for a 16-bit operand it\nforms a 17-bit path.",
       "explanation": "The notes show that RCL moves the old MSB into CF while the old CF enters the LSB. Thus the operand bits and\nCF participate in one circular path. For an 8-bit operand this forms a 9-bit rotation path; for a 16-bit operand it\nforms a 17-bit path.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17185,10 +16417,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 21,
       "question": "How does RCR use the Carry Flag CF as a 9-bit or 17-bit register extension?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The notes show that RCR moves the old LSB into CF while the old CF enters the MSB. Hence the operand and\nCF form one circular path: 9 bits for an 8-bit operand and 17 bits for a 16-bit operand.",
       "explanation": "The notes show that RCR moves the old LSB into CF while the old CF enters the MSB. Hence the operand and\nCF form one circular path: 9 bits for an 8-bit operand and 17 bits for a 16-bit operand.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17202,10 +16432,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 22,
       "question": "What is the practical purpose of RCL and RCR in multi-byte or multi-word arithmetic operations?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Because CF participates in the rotation, RCL and RCR allow a carry or borrow-related bit to move between\nadjacent word or byte portions. This makes them useful when propagating bit information across multi-byte or\nmulti-word arithmetic operations.",
       "explanation": "Because CF participates in the rotation, RCL and RCR allow a carry or borrow-related bit to move between\nadjacent word or byte portions. This makes them useful when propagating bit information across multi-byte or\nmulti-word arithmetic operations.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17219,10 +16447,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 23,
       "question": "Which status flags are modified by shift and rotate instructions?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The notes distinguish them as follows. For SHL/SAL, SHR, and SAR, CF, OF, SF, ZF, and PF are altered, while\nAF is shown as undefined. For ROL, ROR, RCL, and RCR, CF and OF are altered; SF, ZF, AF, and PF are not\naltered.",
       "explanation": "The notes distinguish them as follows. For SHL/SAL, SHR, and SAR, CF, OF, SF, ZF, and PF are altered, while\nAF is shown as undefined. For ROL, ROR, RCL, and RCR, CF and OF are altered; SF, ZF, AF, and PF are not\naltered.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17236,10 +16462,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 24,
       "question": "What does the Carry Flag CF hold after a shift or rotate operation completes?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CF holds the last bit shifted or rotated out of the operand. For a left shift this is the old MSB; for a right shift this is\nthe old LSB. For RCL/RCR, CF receives the bit specified by the rotate-through-carry rule.",
       "explanation": "CF holds the last bit shifted or rotated out of the operand. For a left shift this is the old MSB; for a right shift this is\nthe old LSB. For RCL/RCR, CF receives the bit specified by the rotate-through-carry rule.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17253,10 +16477,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 25,
       "question": "When the shift or rotate count is exactly 1, what does the Overflow Flag OF indicate?\n\n8086 Mid-Sem Answer Pack - grounded in the supplied 128-page notes",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The 128-page notes supplied here do not state the exact bit-level rule for interpreting OF for a single shift or rotate\ncount. They only record in the flag table that OF is altered by these instructions. Therefore this specific rule is not\nstated in the source notes and is not invented here.",
       "explanation": "The 128-page notes supplied here do not state the exact bit-level rule for interpreting OF for a single shift or rotate\ncount. They only record in the flag table that OF is altered by these instructions. Therefore this specific rule is not\nstated in the source notes and is not invented here.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17270,10 +16492,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 26,
       "question": "Why is the value of OF undefined when the shift or rotate count is greater than 1?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The supplied notes do not explicitly give a rule explaining the undefined meaning of OF for counts greater than 1.\nThey provide the flag-impact table but do not state the count-dependent OF formula. Therefore the exact\nexplanation is not available in the source notes.",
       "explanation": "The supplied notes do not explicitly give a rule explaining the undefined meaning of OF for counts greater than 1.\nThey provide the flag-impact table but do not state the count-dependent OF formula. Therefore the exact\nexplanation is not available in the source notes.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17287,10 +16507,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 27,
       "question": "Which flags are left undefined or not modified after shift and rotate operations?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "From the notes: for shift instructions, AF is marked undefined. For rotate instructions, SF, ZF, AF, and PF are not\naltered; only CF and OF are altered. The notes therefore distinguish undefined from not modified rather than\ntreating them as the same.",
       "explanation": "From the notes: for shift instructions, AF is marked undefined. For rotate instructions, SF, ZF, AF, and PF are not\naltered; only CF and OF are altered. The notes therefore distinguish undefined from not modified rather than\ntreating them as the same.",
       "source": "8086_Shift_Rotate_Answers.pdf"
@@ -17304,10 +16522,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 1,
       "question": "Which segments are used in string instructions?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The notes use the Data Segment for source string data and the Extra Segment for destination string data. LODS\nreads from DS, while STOS writes to ES. MOVS and CMPS use DS for the source and ES for the destination.\nSCAS uses ES for the string being scanned.",
       "explanation": "The notes use the Data Segment for source string data and the Extra Segment for destination string data. LODS\nreads from DS, while STOS writes to ES. MOVS and CMPS use DS for the source and ES for the destination.\nSCAS uses ES for the string being scanned.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17321,10 +16537,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 2,
       "question": "Which segment registers and associated index or pointer registers are used in string\ninstructions?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SI holds the source effective address and is associated with DS. DI holds the destination effective address and is\nassociated with ES. The accumulator is involved for LODS and STOS: LODSB/LODSW load AL/AX, while\nSTOSB/STOSW store AL/AX.",
       "explanation": "SI holds the source effective address and is associated with DS. DI holds the destination effective address and is\nassociated with ES. The accumulator is involved for LODS and STOS: LODSB/LODSW load AL/AX, while\nSTOSB/STOSW store AL/AX.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17338,10 +16552,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 3,
       "question": "What is the Direction Flag DF?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "DF controls the direction in which SI and DI are automatically updated after a string instruction. DF = 0 means\nincrement; DF = 1 means decrement.",
       "explanation": "DF controls the direction in which SI and DI are automatically updated after a string instruction. DF = 0 means\nincrement; DF = 1 means decrement.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17355,10 +16567,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 4,
       "question": "Which instructions are used to set and clear the DF flag?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CLD clears DF to 0. STD sets DF to 1.",
       "explanation": "CLD clears DF to 0. STD sets DF to 1.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17372,10 +16582,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 5,
       "question": "Why is it necessary to set and clear the DF flag?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The DF determines whether string pointers move forward or backward through memory. It must be set or cleared\naccording to the direction in which the string data has to be processed.",
       "explanation": "The DF determines whether string pointers move forward or backward through memory. It must be set or cleared\naccording to the direction in which the string data has to be processed.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17389,10 +16597,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 6,
       "question": "What happens during string instruction execution when DF = 1?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The index registers are decremented after the operation. For byte operations SI and DI change by 1; for word\noperations they change by 2.",
       "explanation": "The index registers are decremented after the operation. For byte operations SI and DI change by 1; for word\noperations they change by 2.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17406,10 +16612,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 7,
       "question": "What happens during string instruction execution when DF = 0?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The index registers are incremented after the operation. For byte operations SI and DI change by 1; for word\noperations they change by 2.",
       "explanation": "The index registers are incremented after the operation. For byte operations SI and DI change by 1; for word\noperations they change by 2.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17423,10 +16627,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 8,
       "question": "What are repeat prefixes REP, REPE/REPZ, REPNE/REPNZ?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "REP is a prefix used to repeat a string instruction. REPE and REPZ are equivalent names for repeat while equal,\nand REPNZ and REPNE are equivalent names for repeat while not equal. The comparison-based forms use CX\ntogether with the Zero Flag.",
       "explanation": "REP is a prefix used to repeat a string instruction. REPE and REPZ are equivalent names for repeat while equal,\nand REPNZ and REPNE are equivalent names for repeat while not equal. The comparison-based forms use CX\ntogether with the Zero Flag.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17440,10 +16642,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 9,
       "question": "Which register is used as the loop counter for repeat prefixes?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CX is the repetition counter. It is decremented by 1 after each execution of the string instruction under the repeat\nprefix.",
       "explanation": "CX is the repetition counter. It is decremented by 1 after each execution of the string instruction under the repeat\nprefix.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17457,10 +16657,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 10,
       "question": "How does REP work with MOVSB and STOSB?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "With a plain REP prefix, the string instruction is repeated while CX is not zero. CX is decremented after each\nexecution. Thus REP MOVSB copies a sequence of bytes from DS:SI to ES:DI, while REP STOSB stores AL\nrepeatedly into ES:DI.",
       "explanation": "With a plain REP prefix, the string instruction is repeated while CX is not zero. CX is decremented after each\nexecution. Thus REP MOVSB copies a sequence of bytes from DS:SI to ES:DI, while REP STOSB stores AL\nrepeatedly into ES:DI.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17474,10 +16672,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 11,
       "question": "What is the difference between REPE and REPNE?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "REPE/REPZ repeats while CX is not zero and ZF = 1. REPNZ/REPNE repeats while CX is not zero and ZF = 0.\nThe repeat terminates when either the CX condition or the required ZF condition becomes false.\n\n8086 Mid-Sem Answer Pack - grounded in the supplied 128-page notes",
       "explanation": "REPE/REPZ repeats while CX is not zero and ZF = 1. REPNZ/REPNE repeats while CX is not zero and ZF = 0.\nThe repeat terminates when either the CX condition or the required ZF condition becomes false.\n\n8086 Mid-Sem Answer Pack - grounded in the supplied 128-page notes",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17491,10 +16687,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 12,
       "question": "Which status flag is checked by REPE and REPNE during termination?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The Zero Flag, ZF, is checked. REPE/REPZ requires ZF = 1; REPNZ/REPNE requires ZF = 0.",
       "explanation": "The Zero Flag, ZF, is checked. REPE/REPZ requires ZF = 1; REPNZ/REPNE requires ZF = 0.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17508,10 +16702,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 13,
       "question": "How do LODSB/LODSW and STOSB/STOSW work? Which segment registers and associated\nregisters are used?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "LODS reads string data from the Data Segment using DS:SI and places one byte into AL or one word into AX. SI\nis then incremented or decremented according to DF. STOS writes AL or AX to the Extra Segment using ES:DI,\nand DI is then incremented or decremented according to DF.",
       "explanation": "LODS reads string data from the Data Segment using DS:SI and places one byte into AL or one word into AX. SI\nis then incremented or decremented according to DF. STOS writes AL or AX to the Extra Segment using ES:DI,\nand DI is then incremented or decremented according to DF.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17525,10 +16717,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 14,
       "question": "How do MOVSB/MOVSW work? Which segment registers and associated registers are used?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "MOVSB copies one byte from DS:SI to ES:DI. MOVSW copies one word from DS:SI to ES:DI. Afterward SI and\nDI are automatically updated according to DF: by 1 for byte operations and by 2 for word operations.",
       "explanation": "MOVSB copies one byte from DS:SI to ES:DI. MOVSW copies one word from DS:SI to ES:DI. Afterward SI and\nDI are automatically updated according to DF: by 1 for byte operations and by 2 for word operations.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17542,10 +16732,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 15,
       "question": "What is the difference between executing combined LODSB and STOSB instructions versus a\nsingle MOVSB instruction?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "LODSB first loads the source byte from DS:SI into AL, and STOSB then stores AL to ES:DI. MOVSB performs the\nmemory-to-memory string move directly from DS:SI to ES:DI. Therefore the LODSB + STOSB sequence uses the\naccumulator as an intermediate step, whereas MOVSB transfers the byte directly between the two string memory\nlocations.",
       "explanation": "LODSB first loads the source byte from DS:SI into AL, and STOSB then stores AL to ES:DI. MOVSB performs the\nmemory-to-memory string move directly from DS:SI to ES:DI. Therefore the LODSB + STOSB sequence uses the\naccumulator as an intermediate step, whereas MOVSB transfers the byte directly between the two string memory\nlocations.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17559,10 +16747,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 16,
       "question": "How do CMPSB/CMPSW instructions work? Which segment registers and associated registers\nare used?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CMPSB compares one byte from DS:SI with one byte from ES:DI by subtraction and uses the result to modify\nflags. CMPSW does the same for one word. SI and DI are then automatically updated according to DF.",
       "explanation": "CMPSB compares one byte from DS:SI with one byte from ES:DI by subtraction and uses the result to modify\nflags. CMPSW does the same for one word. SI and DI are then automatically updated according to DF.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17576,10 +16762,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 17,
       "question": "How do SCASB/SCASW instructions work? Which segment registers and associated registers\nare used?",
-      "options": {
-        "A": "Show Model Answer"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "SCASB compares AL with the byte at ES:DI by subtraction and modifies the flags. SCASW compares AX with the\nword at ES:DI. DI is automatically incremented or decremented according to DF.",
       "explanation": "SCASB compares AL with the byte at ES:DI by subtraction and modifies the flags. SCASW compares AX with the\nword at ES:DI. DI is automatically incremented or decremented according to DF.",
       "source": "8086_String_Instructions_Answers.pdf"
@@ -17593,10 +16777,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A1",
       "question": "[A1 - 2 Marks]\n\nA memory space of 48 KB starts at 12000H. Find the ending address. Show the hexadecimal addition.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A1 carries 2 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17610,10 +16792,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A2",
       "question": "[A2 - 3 Marks]\n\nAn 8086 system must provide 128 KB RAM using 32K x 8 RAM chips. Determine: (i) number of chips required,\n(ii) number of address lines required by each chip, and (iii) the address range occupied if the first address is\n00000H.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A2 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17627,10 +16807,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A3",
       "question": "[A3 - 3 Marks]\n\nCalculate the chip requirement for 64 KB EPROM using 16K x 8 EPROM chips. Also determine the ending\naddress when the EPROM begins at 80000H.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A3 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17644,10 +16822,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A4",
       "question": "[A4 - 2 Marks]\n\nFor 8086, calculate the physical address for each case: (i) DS = 3A00H, SI = 1250H; (ii) ES = 2400H, DI =\n01F0H; (iii) SS = 1800H, SP = 0A20H.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A4 carries 2 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17661,10 +16837,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A5",
       "question": "[A5 - 2 Marks]\n\nFor BHE# / A0 = (0/0), (0/1), (1/0), (1/1), state whether the access is whole word from even address, byte from\neven address, byte from odd address, or no bank selected.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A5 carries 2 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17678,10 +16852,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A6",
       "question": "[A6 - 3 Marks]\n\nGiven BX = 1400H, SI = 0210H, DS = 3000H, find the physical address of the memory operand in MOV AX, [BX\n+ SI + 20H]. State the memory bus operation.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A6 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17695,10 +16867,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A7",
       "question": "[A7 - 3 Marks]\n\nGiven BX = 1A00H, DS = 2500H, find the physical address and bus-cycle type for MOV [BX + 10H], AX. State\nwhether the data-transfer phase is a memory read or write.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A7 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17712,10 +16882,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A8",
       "question": "[A8 - 3 Marks]\n\nTrace the result and flags for:\nMOV AX, 7FFFH\nADD AX, 0001H\nGive final AX, CF, SF, ZF and OF.\n\n8086 Numerical & 8-Mark Practice\nPage 2",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A8 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17729,10 +16897,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A9",
       "question": "[A9 - 3 Marks]\n\nTrace the result and flags for:\nMOV AX, 0003H\nSUB AX, 0005H\nGive final AX, CF and SF.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A9 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17746,10 +16912,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A10",
       "question": "[A10 - 3 Marks]\n\nIdentify the addressing mode used in each: (i) MOV AX, BX; (ii) MOV AX, 1234H; (iii) MOV AX, [2000H]; (iv)\nMOV AX, [BX + 20H]; (v) MOV AX, [BX + SI]; (vi) JMP 3456H.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A10 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17763,10 +16927,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A11",
       "question": "[A11 - 3 Marks]\n\nIn DS, memory location 1000H contains 34H and 1001H contains 12H. Compare final SI (initially 0000H) after: (i)\nMOV SI, [1000H] and (ii) LEA SI, [1000H].",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A11 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17780,10 +16942,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A12",
       "question": "[A12 - 3 Marks]\n\nLet AL = 96H and initial CF = 0. Execute SHL AL, 1 followed by ROR AL, 1. Find AL and CF after each\ninstruction.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A12 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17797,10 +16957,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A13",
       "question": "[A13 - 3 Marks]\n\nGiven CX = 0005H, SI = 0100H, DI = 0200H, and DF = 0, execute REP MOVSB. Determine final SI, final DI, final\nCX, and the number of bytes copied.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A13 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17814,10 +16972,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A14",
       "question": "[A14 - 3 Marks]\n\nSuppose SS = 2000H, SP = 0100H, AX = 1234H. Execute PUSH AX. Find the new SP and the physical\naddresses of the memory bytes holding 34H and 12H.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A14 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17831,10 +16987,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A15",
       "question": "[A15 - 3 Marks]\n\nA near CALL is executed when SP = 0800H. Determine SP immediately after CALL and immediately after the\nmatching near RET. How many bytes are pushed by the CALL?",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A15 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17848,10 +17002,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "A16",
       "question": "[A16 - 3 Marks]\n\nFor software interrupt type 21H, calculate the starting address of its IVT entry and identify where the new IP and\nCS are obtained within that 4-byte entry.\n\n8086 Numerical & 8-Mark Practice\nPage 3",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem A16 carries 3 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17865,10 +17017,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B1",
       "question": "[B1 - 4 Marks]\n\nAn 8086 has DS = 4000H, BX = 1200H, SI = 0030H. For ADD [BX + SI + 10H], 0055H: find the effective offset,\nphysical address, bus data direction, and which operand is read from memory.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B1 carries 4 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17882,10 +17032,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B2",
       "question": "[B2 - 4 Marks]\n\nFor ES = 2200H, DI = 0100H, AL = 7AH, execute STOSB first with DF = 0 and then for DF = 1. Give destination\nphysical address and final DI in both cases.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B2 carries 4 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17899,10 +17047,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B3",
       "question": "[B3 - 4 Marks]\n\nGiven DS = 3000H, SI = 0100H, ES = 3200H, DI = 0200H, CX = 0003H, source bytes A1H, B2H, C3H. Execute\nCLD; REP MOVSB. Write the destination bytes and final SI, DI and CX.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B3 carries 4 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17916,10 +17062,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B4",
       "question": "[B4 - 4 Marks]\n\nGiven SS = 5000H, SP = 0200H, DX = 5678H, execute PUSH DX followed by POP AX. Track SP and state the\ntwo physical memory addresses used by the PUSH.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B4 carries 4 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17933,10 +17077,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B5",
       "question": "[B5 - 4 Marks]\n\nA far CALL is executed with SP = 1000H. Before CALL: CS = 2500H, IP = 1234H. Determine bytes pushed, new\nSP, and which two values are restored by the matching far RET.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B5 carries 4 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17950,10 +17092,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B6",
       "question": "[B6 - 4 Marks]\n\nSuppose the CPU executes INT 40H when SS = 3000H and SP = 0200H. Compute the IVT entry address for\ntype 40H and the SP immediately after the interrupt's three-word save.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B6 carries 4 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17967,10 +17107,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B7",
       "question": "[B7 - 4 Marks]\n\nTrace AX, CF and ZF after each arithmetic/logical instruction.\n MOV AX, 0F0FH\nAND AX, 00FFH\nXOR AX, 0003H\nOR AX, 0100H",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B7 carries 4 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -17984,10 +17122,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B8",
       "question": "[B8 - 4 Marks]\n\nDetermine final AX, CF and ZF for the following sequence.\n MOV AX, 0006H\nMOV BX, 0002H\nADD AX, BX\nSHL AX, 1\nSUB AX, 0004H",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B8 carries 4 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18001,10 +17137,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B9",
       "question": "[B9 - 5 Marks]\n\nFor the following loop, find the number of times the body executes, final CX, and final SI.\n MOV CX, 0005H\nMOV SI, 0100H\nAGAIN: INC SI\nLOOP AGAIN",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B9 carries 5 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18018,10 +17152,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B10",
       "question": "[B10 - 5 Marks]\n\nComplete a bus-level trace for MOV AX, [BX] with DS = 3000H, BX = 0100H. Give the effective offset, physical\naddress, and roles of ALE, RD#, and DT/R#.\n\n8086 Numerical & 8-Mark Practice\nPage 4",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B10 carries 5 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18035,10 +17167,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B11",
       "question": "[B11 - 5 Marks]\n\nA byte is accessed at an even address and a word is accessed at an even address. For each access, write BHE#\n/ A0 and state which bank(s) are active.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B11 carries 5 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18052,10 +17182,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "B12",
       "question": "[B12 - 5 Marks]\n\nA memory device needs extra time because READY is low after T2. Explain where wait state(s) are inserted in\nthe 8086 bus cycle and what condition allows execution to continue.\n\n8086 Numerical & 8-Mark Practice\nPage 5",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem B12 carries 5 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18069,10 +17197,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "C1",
       "question": "[C1 - 8 Marks]\n\nFor the following program, assume AX = 0000H, DS = 2000H, SI = 0010H. Trace the program and answer all\nparts.\n XOR AX, AX\nMOV SI, 0010H\nOR AL, 20H\nADD AL, 07H\nXOR AL, 0FH\nMOV [SI], AL\nAGAIN: INC SI\nADD AL, AL\nJC AHEAD\nMOV [SI], AL\nJMP AGAIN\nAHEAD: MOV [SI], AL\nAnswer: (1) Trace AX, AL, SI and CF after every changing instruction. (2) Show every memory location written\nand its physical address. (3) Identify the iteration in which AHEAD is reached. (4) Give final AL, SI and CF.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem C1 carries 8 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18086,10 +17212,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "C2",
       "question": "[C2 - 8 Marks]\n\nGiven DS = 3000H, ES = 3400H, SI = 0100H, DI = 0200H, CX = 0004H, DF = 0, and source bytes 11H, 22H,\n33H, 44H. Execute the program and answer all parts.\n CLD\nREP MOVSB\nAnswer: (1) List the four physical source addresses. (2) List the four physical destination addresses. (3) Show\ndestination contents. (4) Give final SI, DI and CX. (5) State what changes for DF = 1.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem C2 carries 8 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18103,10 +17227,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "C3",
       "question": "[C3 - 8 Marks]\n\nAssume SS = 4000H, SP = 0100H, AX = 1234H, BX = ABCDH. A near subroutine is executed. Work out the\ncomplete stack trace.\n PUSH AX\nCALL SUB1\nPOP DX\nSUB1: PUSH BX\nPOP CX\nRET\nAnswer: (1) SP after every stack operation. (2) Physical stack addresses used. (3) Values popped into DX and\nCX. (4) Value restored into IP by RET. (5) Total number of word transfers involving the stack.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem C3 carries 8 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18120,10 +17242,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "C4",
       "question": "[C4 - 8 Marks]\n\nA software interrupt of type 30H occurs when SS = 5000H, SP = 0200H, CS = 2400H, IP = 1350H. The IVT entry\ncontains IP(new) = 5678H and CS(new) = 3200H. Work out the full interrupt sequence.\nAnswer: (1) Compute the IVT entry starting address. (2) Compute SP after FLAGS, CS and IP are pushed. (3)\nState save order. (4) Give new CS:IP. (5) Explain IRET and calculate SP after return.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem C4 carries 8 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18137,10 +17257,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "C5",
       "question": "[C5 - 8 Marks]\n\nA word array begins at DS:0100H and contains 0003H, 0005H, 0002H, 0004H. Write and trace an 8086 program\nusing only syllabus instructions to add all four words and store the final sum at DS:0110H. Use LOOP and a valid\narray addressing mode.\n\n8086 Numerical & 8-Mark Practice\nPage 6\nYour trace must show: (1) register values after each iteration, (2) physical memory address used in each\niteration, (3) LOOP-control register, (4) final stored 16-bit sum, and (5) final index register.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem C5 carries 8 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -18154,10 +17272,8 @@ const QUIZ_DATA = {
       "type": "numerical",
       "qnum": "C6",
       "question": "[C6 - 8 Marks]\n\nDesign an 8086 memory-interfacing numerical for 128 KB RAM using 32K x 8 RAM chips, starting at physical\naddress 20000H. Determine chip count, address span, ending address, address lines per chip, even/odd bank\npopulation, whole-word BHE# / A0 combination, and address range handled by each bank.\nShow a neat address-map style answer and clearly separate the even-bank and odd-bank ranges.\n\n8086 Numerical & 8-Mark Practice\nPage 7\nLAST-MINUTE CHECKLIST\n1. Ending address = starting address + size - 1.\n2. Physical address = segment x 16 + offset.\n3. BHE# / A0 decides even bank, odd bank, or both.\n4. Memory-reference instruction: identify the memory read/write operation.\n5. PUSH and POP change SP by 2 bytes for 8086 word stack operations.\n6. Near CALL/RET use IP; far CALL/RET involve CS and IP.\n7. Software INT uses a 4-byte IVT entry at type x 4 and saves FLAGS, CS, IP.\n8. String instructions: DS:SI is source, ES:DI is destination, DF controls increment/decrement.\n9. For tracing questions, write intermediate register and flag states - do not jump directly to the final answer.\n10. For 8-mark questions, show working, memory addresses, loop/jump decisions, and final register state.\nThis is a question-only practice pack. It is intentionally mixed across memory, addressing, bus cycles, flags, shifts/rotates, strings,\nstack, CALL/RET, interrupts, branches, and long program traces so you do not spend the last hour solving the same pattern\nrepeatedly.",
-      "options": {
-        "A": "Study Problem"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
       "explanation": "Problem C6 carries 8 marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
       "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -20532,14 +19648,14 @@ const QUIZ_DATA = {
       "qnum": 2,
       "question": "Expressive power chiefly affects ability to:",
       "options": {
-        "A": "Communicate computational ideas",
-        "B": "Allocate disk sectors",
-        "C": "Avoid syntax",
-        "D": "Run without a CPU"
+        "A": "Avoid syntax",
+        "B": "Run without a CPU",
+        "C": "Communicate computational ideas",
+        "D": "Allocate disk sectors"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Communicate computational ideas",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #2 is Option A: Communicate computational ideas.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #2 is Option C: Communicate computational ideas.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20552,14 +19668,14 @@ const QUIZ_DATA = {
       "qnum": 3,
       "question": "Which criterion measures ease of understanding code?",
       "options": {
-        "A": "Cost",
-        "B": "Portability",
-        "C": "Readability",
-        "D": "Reliability"
+        "A": "Portability",
+        "B": "Readability",
+        "C": "Reliability",
+        "D": "Cost"
       },
-      "answer": "C",
+      "answer": "B",
       "answerText": "Readability",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #3 is Option C: Readability.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #3 is Option B: Readability.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20572,14 +19688,14 @@ const QUIZ_DATA = {
       "qnum": 4,
       "question": "Too many language features may hurt readability because:",
       "options": {
-        "A": "All features slow execution",
-        "B": "Programmers must learn and distinguish many features",
-        "C": "Algorithms cannot be expressed",
+        "A": "Programmers must learn and distinguish many features",
+        "B": "Algorithms cannot be expressed",
+        "C": "All features slow execution",
         "D": "Compilation is impossible"
       },
-      "answer": "B",
+      "answer": "A",
       "answerText": "Programmers must learn and distinguish many features",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #4 is Option B: Programmers must learn and distinguish many features.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #4 is Option A: Programmers must learn and distinguish many features.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20592,14 +19708,14 @@ const QUIZ_DATA = {
       "qnum": 5,
       "question": "Orthogonality means:",
       "options": {
-        "A": "Features combine consistently with few exceptions",
-        "B": "Only one data type exists",
+        "A": "Only one data type exists",
+        "B": "Use of diagrams",
         "C": "Code runs on one platform",
-        "D": "Use of diagrams"
+        "D": "Features combine consistently with few exceptions"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Features combine consistently with few exceptions",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #5 is Option A: Features combine consistently with few exceptions.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #5 is Option D: Features combine consistently with few exceptions.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20612,14 +19728,14 @@ const QUIZ_DATA = {
       "qnum": 6,
       "question": "C array assignment restrictions illustrate:",
       "options": {
-        "A": "Portability",
-        "B": "Dynamic typing",
-        "C": "Lack of orthogonality",
-        "D": "Exception handling"
+        "A": "Lack of orthogonality",
+        "B": "Exception handling",
+        "C": "Dynamic typing",
+        "D": "Portability"
       },
-      "answer": "C",
+      "answer": "A",
       "answerText": "Lack of orthogonality",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #6 is Option C: Lack of orthogonality.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #6 is Option A: Lack of orthogonality.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20633,9 +19749,9 @@ const QUIZ_DATA = {
       "question": "Writability measures:",
       "options": {
         "A": "Ease of creating programs for a domain",
-        "B": "Ease of reading a disk",
-        "C": "Code secrecy",
-        "D": "Number of operating systems"
+        "B": "Number of operating systems",
+        "C": "Ease of reading a disk",
+        "D": "Code secrecy"
       },
       "answer": "A",
       "answerText": "Ease of creating programs for a domain",
@@ -20652,14 +19768,14 @@ const QUIZ_DATA = {
       "qnum": 8,
       "question": "Type checking supports reliability by:",
       "options": {
-        "A": "Checking compatible types in operations",
-        "B": "Making variables global",
-        "C": "Removing testing",
+        "A": "Removing testing",
+        "B": "Checking compatible types in operations",
+        "C": "Making variables global",
         "D": "Turning errors into warnings"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Checking compatible types in operations",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #8 is Option A: Checking compatible types in operations.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #8 is Option B: Checking compatible types in operations.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20672,14 +19788,14 @@ const QUIZ_DATA = {
       "qnum": 9,
       "question": "An int plus str TypeError in Python is detected by:",
       "options": {
-        "A": "Static checks only",
-        "B": "Dynamic type checking",
-        "C": "Preprocessing",
-        "D": "Linking"
+        "A": "Dynamic type checking",
+        "B": "Static checks only",
+        "C": "Linking",
+        "D": "Preprocessing"
       },
-      "answer": "B",
+      "answer": "A",
       "answerText": "Dynamic type checking",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #9 is Option B: Dynamic type checking.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #9 is Option A: Dynamic type checking.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20692,14 +19808,14 @@ const QUIZ_DATA = {
       "qnum": 10,
       "question": "Aliasing occurs when:",
       "options": {
-        "A": "Two names refer to one location/object",
-        "B": "A function has two results",
-        "C": "A variable lacks a type",
-        "D": "A program runs twice"
+        "A": "A variable lacks a type",
+        "B": "Two names refer to one location/object",
+        "C": "A program runs twice",
+        "D": "A function has two results"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Two names refer to one location/object",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #10 is Option A: Two names refer to one location/object.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #10 is Option B: Two names refer to one location/object.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20712,14 +19828,14 @@ const QUIZ_DATA = {
       "qnum": 11,
       "question": "Language cost includes:",
       "options": {
-        "A": "Learning, development, execution, maintenance",
-        "B": "Only source-file count",
-        "C": "Only CPU purchase",
-        "D": "Only keywords"
+        "A": "Only keywords",
+        "B": "Only CPU purchase",
+        "C": "Only source-file count",
+        "D": "Learning, development, execution, maintenance"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Learning, development, execution, maintenance",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #11 is Option A: Learning, development, execution, maintenance.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #11 is Option D: Learning, development, execution, maintenance.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20732,14 +19848,14 @@ const QUIZ_DATA = {
       "qnum": 12,
       "question": "Which domain-language pairing is suitable?",
       "options": {
-        "A": "FORTRAN - scientific computing",
+        "A": "HTML - kernels",
         "B": "COBOL - device drivers",
         "C": "C - symbolic AI only",
-        "D": "HTML - kernels"
+        "D": "FORTRAN - scientific computing"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "FORTRAN - scientific computing",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #12 is Option A: FORTRAN - scientific computing.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #12 is Option D: FORTRAN - scientific computing.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20752,14 +19868,14 @@ const QUIZ_DATA = {
       "qnum": 1,
       "question": "A compiler generally:",
       "options": {
-        "A": "Translates the whole source before execution",
+        "A": "Converts machine code to source",
         "B": "Executes one line at a time only",
-        "C": "Expands macros only",
-        "D": "Converts machine code to source"
+        "C": "Translates the whole source before execution",
+        "D": "Expands macros only"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Translates the whole source before execution",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #1 is Option A: Translates the whole source before execution.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #1 is Option C: Translates the whole source before execution.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20772,14 +19888,14 @@ const QUIZ_DATA = {
       "qnum": 2,
       "question": "An interpreter generally:",
       "options": {
-        "A": "Translates and executes statements as encountered",
-        "B": "Always creates bytecode first",
+        "A": "Always creates bytecode first",
+        "B": "Runs only assembly",
         "C": "Optimizes all code first",
-        "D": "Runs only assembly"
+        "D": "Translates and executes statements as encountered"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Translates and executes statements as encountered",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #2 is Option A: Translates and executes statements as encountered.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #2 is Option D: Translates and executes statements as encountered.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20792,14 +19908,14 @@ const QUIZ_DATA = {
       "qnum": 3,
       "question": "A hybrid implementation commonly compiles source into:",
       "options": {
-        "A": "Syntax errors",
-        "B": "Bytecode or other intermediate code",
-        "C": "Preprocessor directives",
-        "D": "CPU registers"
+        "A": "Bytecode or other intermediate code",
+        "B": "Syntax errors",
+        "C": "CPU registers",
+        "D": "Preprocessor directives"
       },
-      "answer": "B",
+      "answer": "A",
       "answerText": "Bytecode or other intermediate code",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #3 is Option B: Bytecode or other intermediate code.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #3 is Option A: Bytecode or other intermediate code.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20812,14 +19928,14 @@ const QUIZ_DATA = {
       "qnum": 4,
       "question": "The JVM or CLR:",
       "options": {
-        "A": "Edits source",
-        "B": "Provides a runtime for intermediate code",
-        "C": "Writes macros",
-        "D": "Replaces the OS"
+        "A": "Replaces the OS",
+        "B": "Writes macros",
+        "C": "Provides a runtime for intermediate code",
+        "D": "Edits source"
       },
-      "answer": "B",
+      "answer": "C",
       "answerText": "Provides a runtime for intermediate code",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #4 is Option B: Provides a runtime for intermediate code.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #4 is Option C: Provides a runtime for intermediate code.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20853,13 +19969,13 @@ const QUIZ_DATA = {
       "question": "A limitation of hybrid implementation is:",
       "options": {
         "A": "No portability",
-        "B": "Needs a compatible VM and may use more memory",
-        "C": "Cannot optimize hot code",
-        "D": "Cannot execute"
+        "B": "Cannot optimize hot code",
+        "C": "Cannot execute",
+        "D": "Needs a compatible VM and may use more memory"
       },
-      "answer": "B",
+      "answer": "D",
       "answerText": "Needs a compatible VM and may use more memory",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #6 is Option B: Needs a compatible VM and may use more memory.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #6 is Option D: Needs a compatible VM and may use more memory.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20872,14 +19988,14 @@ const QUIZ_DATA = {
       "qnum": 7,
       "question": "A preprocessor operates:",
       "options": {
-        "A": "After execution",
-        "B": "Before compilation",
-        "C": "After linking only",
-        "D": "Inside the CPU"
+        "A": "After linking only",
+        "B": "Inside the CPU",
+        "C": "Before compilation",
+        "D": "After execution"
       },
-      "answer": "B",
+      "answer": "C",
       "answerText": "Before compilation",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #7 is Option B: Before compilation.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #7 is Option C: Before compilation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20892,14 +20008,14 @@ const QUIZ_DATA = {
       "qnum": 8,
       "question": "#include typically:",
       "options": {
-        "A": "Includes header-file contents",
-        "B": "Declares a loop",
-        "C": "Runs the program",
-        "D": "Declares a constant"
+        "A": "Declares a constant",
+        "B": "Runs the program",
+        "C": "Includes header-file contents",
+        "D": "Declares a loop"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Includes header-file contents",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #8 is Option A: Includes header-file contents.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #8 is Option C: Includes header-file contents.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20912,14 +20028,14 @@ const QUIZ_DATA = {
       "qnum": 9,
       "question": "#define is used to:",
       "options": {
-        "A": "Test macro absence",
-        "B": "Define macros/constants",
-        "C": "Remove a macro",
-        "D": "Include files"
+        "A": "Define macros/constants",
+        "B": "Remove a macro",
+        "C": "Include files",
+        "D": "Test macro absence"
       },
-      "answer": "B",
+      "answer": "A",
       "answerText": "Define macros/constants",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #9 is Option B: Define macros/constants.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #9 is Option A: Define macros/constants.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20932,14 +20048,14 @@ const QUIZ_DATA = {
       "qnum": 10,
       "question": "Assembly language uses:",
       "options": {
-        "A": "Mnemonic instructions translated by an assembler",
-        "B": "Natural language commands",
-        "C": "JVM bytecode",
-        "D": "Regular expressions as instructions"
+        "A": "Regular expressions as instructions",
+        "B": "Mnemonic instructions translated by an assembler",
+        "C": "Natural language commands",
+        "D": "JVM bytecode"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Mnemonic instructions translated by an assembler",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #10 is Option A: Mnemonic instructions translated by an assembler.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #10 is Option B: Mnemonic instructions translated by an assembler.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20952,14 +20068,14 @@ const QUIZ_DATA = {
       "qnum": 11,
       "question": "FORTRAN was developed chiefly for:",
       "options": {
-        "A": "Scientific and engineering computation",
-        "B": "Web styling",
-        "C": "GUI event handling",
-        "D": "Database-only work"
+        "A": "Web styling",
+        "B": "Database-only work",
+        "C": "Scientific and engineering computation",
+        "D": "GUI event handling"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Scientific and engineering computation",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #11 is Option A: Scientific and engineering computation.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #11 is Option C: Scientific and engineering computation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -20974,8 +20090,8 @@ const QUIZ_DATA = {
       "options": {
         "A": "Bjarne Stroustrup",
         "B": "John McCarthy",
-        "C": "John Backus",
-        "D": "James Gosling"
+        "C": "James Gosling",
+        "D": "John Backus"
       },
       "answer": "A",
       "answerText": "Bjarne Stroustrup",
@@ -20992,14 +20108,14 @@ const QUIZ_DATA = {
       "qnum": 1,
       "question": "Lexical analysis is also called:",
       "options": {
-        "A": "Scanning",
-        "B": "Optimization",
+        "A": "Optimization",
+        "B": "Binding",
         "C": "Code generation",
-        "D": "Binding"
+        "D": "Scanning"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Scanning",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #1 is Option A: Scanning.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #1 is Option D: Scanning.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21013,9 +20129,9 @@ const QUIZ_DATA = {
       "question": "A token is:",
       "options": {
         "A": "A category of lexical units",
-        "B": "A source line",
-        "C": "An entire parse tree",
-        "D": "A memory address"
+        "B": "An entire parse tree",
+        "C": "A memory address",
+        "D": "A source line"
       },
       "answer": "A",
       "answerText": "A category of lexical units",
@@ -21032,14 +20148,14 @@ const QUIZ_DATA = {
       "qnum": 3,
       "question": "The actual character sequence matching a token pattern is a:",
       "options": {
-        "A": "Lexeme",
-        "B": "Grammar",
-        "C": "Scope",
-        "D": "Binding time"
+        "A": "Binding time",
+        "B": "Scope",
+        "C": "Grammar",
+        "D": "Lexeme"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Lexeme",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #3 is Option A: Lexeme.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #3 is Option D: Lexeme.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21053,9 +20169,9 @@ const QUIZ_DATA = {
       "question": "Scanners commonly use:",
       "options": {
         "A": "Regular expressions and finite automata",
-        "B": "Only CFGs",
-        "C": "Garbage collection",
-        "D": "Virtual methods"
+        "B": "Virtual methods",
+        "C": "Only CFGs",
+        "D": "Garbage collection"
       },
       "answer": "A",
       "answerText": "Regular expressions and finite automata",
@@ -21072,14 +20188,14 @@ const QUIZ_DATA = {
       "qnum": 5,
       "question": "A parser checks whether:",
       "options": {
-        "A": "Tokens follow the language grammar",
-        "B": "Identifiers are portable",
-        "C": "Code is optimized",
+        "A": "Identifiers are portable",
+        "B": "Code is optimized",
+        "C": "Tokens follow the language grammar",
         "D": "Variables are dynamic"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Tokens follow the language grammar",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #5 is Option A: Tokens follow the language grammar.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #5 is Option C: Tokens follow the language grammar.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21092,14 +20208,14 @@ const QUIZ_DATA = {
       "qnum": 6,
       "question": "Top-down parsing builds from:",
       "options": {
-        "A": "Input toward start symbol",
-        "B": "Start symbol toward input, often leftmost derivation",
-        "C": "Machine code toward source",
-        "D": "Heap toward roots"
+        "A": "Start symbol toward input, often leftmost derivation",
+        "B": "Machine code toward source",
+        "C": "Heap toward roots",
+        "D": "Input toward start symbol"
       },
-      "answer": "B",
+      "answer": "A",
       "answerText": "Start symbol toward input, often leftmost derivation",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #6 is Option B: Start symbol toward input, often leftmost derivation.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #6 is Option A: Start symbol toward input, often leftmost derivation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21112,14 +20228,14 @@ const QUIZ_DATA = {
       "qnum": 7,
       "question": "Bottom-up parsing is also called:",
       "options": {
-        "A": "Shift-reduce parsing",
-        "B": "Scanning",
-        "C": "Name binding",
-        "D": "Mark-and-sweep"
+        "A": "Name binding",
+        "B": "Shift-reduce parsing",
+        "C": "Mark-and-sweep",
+        "D": "Scanning"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Shift-reduce parsing",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #7 is Option A: Shift-reduce parsing.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #7 is Option B: Shift-reduce parsing.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21132,14 +20248,14 @@ const QUIZ_DATA = {
       "qnum": 8,
       "question": "Semantic analysis checks:",
       "options": {
-        "A": "Logical meaning under language rules",
-        "B": "Whitespace only",
-        "C": "Alphabetical token order",
-        "D": "Runtime speed"
+        "A": "Runtime speed",
+        "B": "Alphabetical token order",
+        "C": "Logical meaning under language rules",
+        "D": "Whitespace only"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Logical meaning under language rules",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #8 is Option A: Logical meaning under language rules.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #8 is Option C: Logical meaning under language rules.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21152,14 +20268,14 @@ const QUIZ_DATA = {
       "qnum": 9,
       "question": "Which structure records identifier attributes?",
       "options": {
-        "A": "Symbol table",
-        "B": "Call stack only",
-        "C": "Heap bitmap",
-        "D": "Parse token"
+        "A": "Parse token",
+        "B": "Heap bitmap",
+        "C": "Symbol table",
+        "D": "Call stack only"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Symbol table",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #9 is Option A: Symbol table.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #9 is Option C: Symbol table.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21172,14 +20288,14 @@ const QUIZ_DATA = {
       "qnum": 10,
       "question": "Static binding resolves a call:",
       "options": {
-        "A": "At compile time",
-        "B": "After termination",
+        "A": "After termination",
+        "B": "During collection",
         "C": "During scanning only",
-        "D": "During collection"
+        "D": "At compile time"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "At compile time",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #10 is Option A: At compile time.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #10 is Option D: At compile time.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21193,13 +20309,13 @@ const QUIZ_DATA = {
       "question": "Dynamic scoping depends on:",
       "options": {
         "A": "Textual structure only",
-        "B": "Active call chain at runtime",
+        "B": "Target CPU",
         "C": "Identifier length",
-        "D": "Target CPU"
+        "D": "Active call chain at runtime"
       },
-      "answer": "B",
+      "answer": "D",
       "answerText": "Active call chain at runtime",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #11 is Option B: Active call chain at runtime.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #11 is Option D: Active call chain at runtime.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21213,9 +20329,9 @@ const QUIZ_DATA = {
       "question": "A && B skips B when:",
       "options": {
         "A": "A is false",
-        "B": "A is true",
-        "C": "B is an identifier",
-        "D": "A is numeric"
+        "B": "A is numeric",
+        "C": "A is true",
+        "D": "B is an identifier"
       },
       "answer": "A",
       "answerText": "A is false",
@@ -21233,9 +20349,9 @@ const QUIZ_DATA = {
       "question": "Sequential control executes statements:",
       "options": {
         "A": "In written order unless control changes",
-        "B": "Only on events",
-        "C": "Randomly",
-        "D": "Only after recursion"
+        "B": "Only after recursion",
+        "C": "Only on events",
+        "D": "Randomly"
       },
       "answer": "A",
       "answerText": "In written order unless control changes",
@@ -21253,8 +20369,8 @@ const QUIZ_DATA = {
       "question": "Selection logic chooses a path using:",
       "options": {
         "A": "Conditions",
-        "B": "Heap size",
-        "C": "Token count",
+        "B": "Token count",
+        "C": "Heap size",
         "D": "Parameter names"
       },
       "answer": "A",
@@ -21274,8 +20390,8 @@ const QUIZ_DATA = {
       "options": {
         "A": "A repeated loop body",
         "B": "Only overloading",
-        "C": "A symbol table",
-        "D": "A catch block"
+        "C": "A catch block",
+        "D": "A symbol table"
       },
       "answer": "A",
       "answerText": "A repeated loop body",
@@ -21292,14 +20408,14 @@ const QUIZ_DATA = {
       "qnum": 4,
       "question": "A formal parameter is:",
       "options": {
-        "A": "Declared in a subprogram definition",
+        "A": "A global constant",
         "B": "Supplied by the caller",
         "C": "An executable",
-        "D": "A global constant"
+        "D": "Declared in a subprogram definition"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Declared in a subprogram definition",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #4 is Option A: Declared in a subprogram definition.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #4 is Option D: Declared in a subprogram definition.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21312,14 +20428,14 @@ const QUIZ_DATA = {
       "qnum": 5,
       "question": "An actual argument is:",
       "options": {
-        "A": "A value/expression supplied in a call",
-        "B": "A return type",
-        "C": "A scope",
-        "D": "A handler"
+        "A": "A scope",
+        "B": "A handler",
+        "C": "A return type",
+        "D": "A value/expression supplied in a call"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "A value/expression supplied in a call",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #5 is Option A: A value/expression supplied in a call.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #5 is Option D: A value/expression supplied in a call.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21333,8 +20449,8 @@ const QUIZ_DATA = {
       "question": "A stack-dynamic local typically:",
       "options": {
         "A": "Gets storage per invocation",
-        "B": "Retains one fixed program-wide location",
-        "C": "Is always global",
+        "B": "Is always global",
+        "C": "Retains one fixed program-wide location",
         "D": "Cannot be initialized"
       },
       "answer": "A",
@@ -21353,8 +20469,8 @@ const QUIZ_DATA = {
       "question": "A generic subprogram permits:",
       "options": {
         "A": "One algorithm to work with multiple types",
-        "B": "Only one argument type",
-        "C": "No parameters",
+        "B": "No parameters",
+        "C": "Only one argument type",
         "D": "Multiple scopes for one variable"
       },
       "answer": "A",
@@ -21372,14 +20488,14 @@ const QUIZ_DATA = {
       "qnum": 8,
       "question": "Overloading permits:",
       "options": {
-        "A": "Same name with different parameter lists",
+        "A": "All parameters to alias",
         "B": "Only one subprogram",
-        "C": "All parameters to alias",
+        "C": "Same name with different parameter lists",
         "D": "Calls without definitions"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Same name with different parameter lists",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #8 is Option A: Same name with different parameter lists.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #8 is Option C: Same name with different parameter lists.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21392,14 +20508,14 @@ const QUIZ_DATA = {
       "qnum": 9,
       "question": "Static scope depends mainly on:",
       "options": {
-        "A": "Textual declarations",
-        "B": "Active call chain only",
-        "C": "Current instruction",
+        "A": "Current instruction",
+        "B": "Textual declarations",
+        "C": "Active call chain only",
         "D": "User events"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Textual declarations",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #9 is Option A: Textual declarations.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #9 is Option B: Textual declarations.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21412,14 +20528,14 @@ const QUIZ_DATA = {
       "qnum": 10,
       "question": "In pass-by-reference, the formal is:",
       "options": {
-        "A": "An alias for caller's variable",
-        "B": "An independent copy",
-        "C": "An expression re-evaluated each time",
+        "A": "An expression re-evaluated each time",
+        "B": "An alias for caller's variable",
+        "C": "An independent copy",
         "D": "Uninitialized output"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "An alias for caller's variable",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #10 is Option A: An alias for caller's variable.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #10 is Option B: An alias for caller's variable.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21433,9 +20549,9 @@ const QUIZ_DATA = {
       "question": "Pass-by-value-result is also called:",
       "options": {
         "A": "Copy-in/copy-out",
-        "B": "Name substitution",
+        "B": "Early binding",
         "C": "Dynamic scope",
-        "D": "Early binding"
+        "D": "Name substitution"
       },
       "answer": "A",
       "answerText": "Copy-in/copy-out",
@@ -21452,14 +20568,14 @@ const QUIZ_DATA = {
       "qnum": 12,
       "question": "In pass-by-name, the argument is conceptually:",
       "options": {
-        "A": "Substituted and evaluated when used",
+        "A": "Only copied back",
         "B": "Copied once at call",
-        "C": "Only copied back",
-        "D": "Always passed as address"
+        "C": "Always passed as address",
+        "D": "Substituted and evaluated when used"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Substituted and evaluated when used",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #12 is Option A: Substituted and evaluated when used.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #12 is Option D: Substituted and evaluated when used.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21472,14 +20588,14 @@ const QUIZ_DATA = {
       "qnum": 1,
       "question": "An exception is:",
       "options": {
-        "A": "An abnormal runtime condition interrupting normal flow",
-        "B": "A normal click",
-        "C": "A token",
-        "D": "A parameter"
+        "A": "A token",
+        "B": "A parameter",
+        "C": "An abnormal runtime condition interrupting normal flow",
+        "D": "A normal click"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "An abnormal runtime condition interrupting normal flow",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #1 is Option A: An abnormal runtime condition interrupting normal flow.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #1 is Option C: An abnormal runtime condition interrupting normal flow.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21492,14 +20608,14 @@ const QUIZ_DATA = {
       "qnum": 2,
       "question": "Java checked exceptions generally must be:",
       "options": {
-        "A": "Caught or declared",
+        "A": "Converted to events",
         "B": "Ignored",
-        "C": "Converted to events",
-        "D": "Handled only in finally"
+        "C": "Handled only in finally",
+        "D": "Caught or declared"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Caught or declared",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #2 is Option A: Caught or declared.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #2 is Option D: Caught or declared.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21512,14 +20628,14 @@ const QUIZ_DATA = {
       "qnum": 3,
       "question": "Which keyword starts code that may throw?",
       "options": {
-        "A": "try",
-        "B": "throwable",
-        "C": "event",
-        "D": "catcher"
+        "A": "event",
+        "B": "catcher",
+        "C": "throwable",
+        "D": "try"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "try",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #3 is Option A: try.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #3 is Option D: try.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21532,14 +20648,14 @@ const QUIZ_DATA = {
       "qnum": 4,
       "question": "finally is mainly for code that:",
       "options": {
-        "A": "Runs for cleanup after try/catch flow",
-        "B": "Runs only without exceptions",
-        "C": "Declares exception types",
-        "D": "Registers mouse events"
+        "A": "Runs only without exceptions",
+        "B": "Runs for cleanup after try/catch flow",
+        "C": "Registers mouse events",
+        "D": "Declares exception types"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Runs for cleanup after try/catch flow",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #4 is Option A: Runs for cleanup after try/catch flow.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #4 is Option B: Runs for cleanup after try/catch flow.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21553,9 +20669,9 @@ const QUIZ_DATA = {
       "question": "A user-defined Java exception is commonly made by:",
       "options": {
         "A": "Extending an exception class",
-        "B": "Using #define",
+        "B": "Declaring a token",
         "C": "Making a JFrame",
-        "D": "Declaring a token"
+        "D": "Using #define"
       },
       "answer": "A",
       "answerText": "Extending an exception class",
@@ -21572,14 +20688,14 @@ const QUIZ_DATA = {
       "qnum": 6,
       "question": "Exception-handler binding associates:",
       "options": {
-        "A": "A raised exception with a handler",
-        "B": "Button with label",
-        "C": "Bytecode with native code",
+        "A": "Button with label",
+        "B": "Bytecode with native code",
+        "C": "A raised exception with a handler",
         "D": "Token with lexeme"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "A raised exception with a handler",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #6 is Option A: A raised exception with a handler.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #6 is Option C: A raised exception with a handler.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21592,14 +20708,14 @@ const QUIZ_DATA = {
       "qnum": 7,
       "question": "If no local handler matches, Java typically:",
       "options": {
-        "A": "Searches outward through callers",
+        "A": "Treats it as an event",
         "B": "Restarts automatically",
-        "C": "Treats it as an event",
+        "C": "Searches outward through callers",
         "D": "Issues only a warning"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Searches outward through callers",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #7 is Option A: Searches outward through callers.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #7 is Option C: Searches outward through callers.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21612,14 +20728,14 @@ const QUIZ_DATA = {
       "qnum": 8,
       "question": "An event may come from:",
       "options": {
-        "A": "User, OS, device, timer, or software",
-        "B": "Only exceptions",
-        "C": "Only compiler",
-        "D": "Only keyboard"
+        "A": "Only exceptions",
+        "B": "Only keyboard",
+        "C": "User, OS, device, timer, or software",
+        "D": "Only compiler"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "User, OS, device, timer, or software",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #8 is Option A: User, OS, device, timer, or software.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #8 is Option C: User, OS, device, timer, or software.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21632,14 +20748,14 @@ const QUIZ_DATA = {
       "qnum": 9,
       "question": "Event-driven programs generally:",
       "options": {
-        "A": "Wait for events and invoke handlers",
+        "A": "Compile each click",
         "B": "Run a fixed sequence without input",
-        "C": "Compile each click",
-        "D": "Use no control flow"
+        "C": "Use no control flow",
+        "D": "Wait for events and invoke handlers"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Wait for events and invoke handlers",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #9 is Option A: Wait for events and invoke handlers.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #9 is Option D: Wait for events and invoke handlers.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21653,9 +20769,9 @@ const QUIZ_DATA = {
       "question": "Java button clicks commonly use:",
       "options": {
         "A": "ActionListener",
-        "B": "Lexer",
-        "C": "Garbage collector",
-        "D": "Macro"
+        "B": "Garbage collector",
+        "C": "Macro",
+        "D": "Lexer"
       },
       "answer": "A",
       "answerText": "ActionListener",
@@ -21672,14 +20788,14 @@ const QUIZ_DATA = {
       "qnum": 11,
       "question": "Swing is:",
       "options": {
-        "A": "A GUI toolkit built on AWT infrastructure",
+        "A": "Assembly language",
         "B": "An exception category",
-        "C": "Assembly language",
+        "C": "A GUI toolkit built on AWT infrastructure",
         "D": "A Prolog engine"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "A GUI toolkit built on AWT infrastructure",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #11 is Option A: A GUI toolkit built on AWT infrastructure.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #11 is Option C: A GUI toolkit built on AWT infrastructure.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21692,14 +20808,14 @@ const QUIZ_DATA = {
       "qnum": 12,
       "question": "Which Swing component is a top-level window?",
       "options": {
-        "A": "JFrame",
-        "B": "JTextField",
-        "C": "JLabel",
-        "D": "JButton"
+        "A": "JTextField",
+        "B": "JButton",
+        "C": "JFrame",
+        "D": "JLabel"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "JFrame",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #12 is Option A: JFrame.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #12 is Option C: JFrame.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21712,14 +20828,14 @@ const QUIZ_DATA = {
       "qnum": 1,
       "question": "A programming paradigm is:",
       "options": {
-        "A": "A general style for expressing computation",
-        "B": "A compiler error",
-        "C": "A memory address",
-        "D": "A widget"
+        "A": "A compiler error",
+        "B": "A widget",
+        "C": "A general style for expressing computation",
+        "D": "A memory address"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "A general style for expressing computation",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #1 is Option A: A general style for expressing computation.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #1 is Option C: A general style for expressing computation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21732,14 +20848,14 @@ const QUIZ_DATA = {
       "qnum": 2,
       "question": "Logic programming represents knowledge with:",
       "options": {
-        "A": "Facts, rules, queries",
-        "B": "Mutable loops only",
-        "C": "Classes only",
-        "D": "Registers"
+        "A": "Mutable loops only",
+        "B": "Registers",
+        "C": "Facts, rules, queries",
+        "D": "Classes only"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Facts, rules, queries",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #2 is Option A: Facts, rules, queries.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #2 is Option C: Facts, rules, queries.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21752,14 +20868,14 @@ const QUIZ_DATA = {
       "qnum": 3,
       "question": "In Prolog, :- is read as:",
       "options": {
-        "A": "If",
-        "B": "And",
-        "C": "Not",
-        "D": "Then only"
+        "A": "Not",
+        "B": "Then only",
+        "C": "If",
+        "D": "And"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "If",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #3 is Option A: If.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #3 is Option C: If.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21772,14 +20888,14 @@ const QUIZ_DATA = {
       "qnum": 4,
       "question": "Unification attempts to:",
       "options": {
-        "A": "Find substitutions that make terms match",
+        "A": "Handle GUI events",
         "B": "Allocate heap",
         "C": "Translate bytecode",
-        "D": "Handle GUI events"
+        "D": "Find substitutions that make terms match"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Find substitutions that make terms match",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #4 is Option A: Find substitutions that make terms match.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #4 is Option D: Find substitutions that make terms match.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21793,9 +20909,9 @@ const QUIZ_DATA = {
       "question": "Backtracking enables Prolog to:",
       "options": {
         "A": "Explore alternatives and find more solutions",
-        "B": "Avoid recursion",
-        "C": "Compile before execution",
-        "D": "Remove variables"
+        "B": "Remove variables",
+        "C": "Avoid recursion",
+        "D": "Compile before execution"
       },
       "answer": "A",
       "answerText": "Explore alternatives and find more solutions",
@@ -21812,14 +20928,14 @@ const QUIZ_DATA = {
       "qnum": 6,
       "question": "Referential transparency means replacing expression by value:",
       "options": {
-        "A": "Does not change behavior",
-        "B": "Only at compile time",
-        "C": "Mutates state",
+        "A": "Only at compile time",
+        "B": "Mutates state",
+        "C": "Does not change behavior",
         "D": "Throws an exception"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Does not change behavior",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #6 is Option A: Does not change behavior.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #6 is Option C: Does not change behavior.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21832,14 +20948,14 @@ const QUIZ_DATA = {
       "qnum": 7,
       "question": "A higher-order function:",
       "options": {
-        "A": "Accepts/returns a function",
-        "B": "Must be assembly",
-        "C": "Cannot return values",
-        "D": "Must recurse"
+        "A": "Cannot return values",
+        "B": "Must recurse",
+        "C": "Must be assembly",
+        "D": "Accepts/returns a function"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Accepts/returns a function",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #7 is Option A: Accepts/returns a function.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #7 is Option D: Accepts/returns a function.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21852,14 +20968,14 @@ const QUIZ_DATA = {
       "qnum": 8,
       "question": "Which function retains values meeting a predicate?",
       "options": {
-        "A": "filter",
-        "B": "map",
+        "A": "car",
+        "B": "filter",
         "C": "cons",
-        "D": "car"
+        "D": "map"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "filter",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #8 is Option A: filter.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #8 is Option B: filter.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21873,8 +20989,8 @@ const QUIZ_DATA = {
       "question": "In Lisp, car returns:",
       "options": {
         "A": "First element of a nonempty list",
-        "B": "Tail of list",
-        "C": "List length",
+        "B": "List length",
+        "C": "Tail of list",
         "D": "Quoted symbol"
       },
       "answer": "A",
@@ -21892,14 +21008,14 @@ const QUIZ_DATA = {
       "qnum": 10,
       "question": "Reference counting can miss unreachable objects that:",
       "options": {
-        "A": "Form reference cycles",
-        "B": "Have zero references",
-        "C": "Are lists",
-        "D": "Are immutable"
+        "A": "Have zero references",
+        "B": "Are lists",
+        "C": "Are immutable",
+        "D": "Form reference cycles"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Form reference cycles",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #10 is Option A: Form reference cycles.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #10 is Option D: Form reference cycles.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21914,8 +21030,8 @@ const QUIZ_DATA = {
       "options": {
         "A": "Unmarked after tracing from roots",
         "B": "Young objects only",
-        "C": "Referenced locally",
-        "D": "Defined by classes"
+        "C": "Defined by classes",
+        "D": "Referenced locally"
       },
       "answer": "A",
       "answerText": "Unmarked after tracing from roots",
@@ -21932,14 +21048,14 @@ const QUIZ_DATA = {
       "qnum": 12,
       "question": "OOP encapsulation aims to:",
       "options": {
-        "A": "Group state/behavior and control state access",
-        "B": "Represent Prolog facts",
+        "A": "Avoid all state",
+        "B": "Group state/behavior and control state access",
         "C": "Replace methods with globals",
-        "D": "Avoid all state"
+        "D": "Represent Prolog facts"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Group state/behavior and control state access",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #12 is Option A: Group state/behavior and control state access.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #12 is Option B: Group state/behavior and control state access.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21952,14 +21068,14 @@ const QUIZ_DATA = {
       "qnum": 13,
       "question": "Which reason for language study helps programmers avoid using a familiar but unsuitable language?",
       "options": {
-        "A": "Improved background for choosing languages",
-        "B": "Aliasing",
-        "C": "Portability",
-        "D": "Interpretation"
+        "A": "Portability",
+        "B": "Interpretation",
+        "C": "Improved background for choosing languages",
+        "D": "Aliasing"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Improved background for choosing languages",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #1 is Option A: Improved background for choosing languages.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #1 is Option C: Improved background for choosing languages.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21972,14 +21088,14 @@ const QUIZ_DATA = {
       "qnum": 14,
       "question": "In Python, assigning b = a for a list means:",
       "options": {
-        "A": "A deep copy is always made",
-        "B": "Both names can refer to the same list object",
-        "C": "The list becomes immutable",
-        "D": "a is deleted"
+        "A": "Both names can refer to the same list object",
+        "B": "A deep copy is always made",
+        "C": "a is deleted",
+        "D": "The list becomes immutable"
       },
-      "answer": "B",
+      "answer": "A",
       "answerText": "Both names can refer to the same list object",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #2 is Option B: Both names can refer to the same list object.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #2 is Option A: Both names can refer to the same list object.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -21993,8 +21109,8 @@ const QUIZ_DATA = {
       "question": "In C, how can a function change a caller's integer?",
       "options": {
         "A": "Pass its address and modify through a pointer",
-        "B": "Use pass-by-name",
-        "C": "Use a macro only",
+        "B": "Use a macro only",
+        "C": "Use pass-by-name",
         "D": "Return no value"
       },
       "answer": "A",
@@ -22013,9 +21129,9 @@ const QUIZ_DATA = {
       "question": "Python argument behavior is commonly described as:",
       "options": {
         "A": "Pass by object reference/sharing",
-        "B": "Strict pass-by-reference",
-        "C": "Copy-in/copy-out",
-        "D": "Pass-by-name"
+        "B": "Copy-in/copy-out",
+        "C": "Pass-by-name",
+        "D": "Strict pass-by-reference"
       },
       "answer": "A",
       "answerText": "Pass by object reference/sharing",
@@ -22052,14 +21168,14 @@ const QUIZ_DATA = {
       "qnum": 18,
       "question": "A business application commonly emphasizes:",
       "options": {
-        "A": "File/database handling and reports",
-        "B": "Machine registers only",
-        "C": "Grammar parsing only",
-        "D": "Image rendering only"
+        "A": "Grammar parsing only",
+        "B": "Image rendering only",
+        "C": "File/database handling and reports",
+        "D": "Machine registers only"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "File/database handling and reports",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #6 is Option A: File/database handling and reports.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #6 is Option C: File/database handling and reports.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22072,14 +21188,14 @@ const QUIZ_DATA = {
       "qnum": 19,
       "question": "Systems programming commonly emphasizes:",
       "options": {
-        "A": "Execution speed and memory control",
-        "B": "Report generation",
+        "A": "Browser styling",
+        "B": "Execution speed and memory control",
         "C": "Natural-language grammar only",
-        "D": "Browser styling"
+        "D": "Report generation"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Execution speed and memory control",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #7 is Option A: Execution speed and memory control.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #7 is Option B: Execution speed and memory control.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22092,14 +21208,14 @@ const QUIZ_DATA = {
       "qnum": 20,
       "question": "A scripting language is often used to:",
       "options": {
-        "A": "Automate tasks or add functionality to applications",
-        "B": "Define CPU opcodes only",
-        "C": "Replace all operating systems",
-        "D": "Represent parse trees only"
+        "A": "Define CPU opcodes only",
+        "B": "Represent parse trees only",
+        "C": "Automate tasks or add functionality to applications",
+        "D": "Replace all operating systems"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Automate tasks or add functionality to applications",
-      "explanation": "Official syllabus answer for Unit 1 MCQ #8 is Option A: Automate tasks or add functionality to applications.",
+      "explanation": "Official syllabus answer for Unit 1 MCQ #8 is Option C: Automate tasks or add functionality to applications.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22113,8 +21229,8 @@ const QUIZ_DATA = {
       "question": "Which early programming approach used symbolic or pseudo instructions before modern HLLs?",
       "options": {
         "A": "Pseudocode languages",
-        "B": "Swing",
-        "C": "Prolog",
+        "B": "Prolog",
+        "C": "Swing",
         "D": "JIT"
       },
       "answer": "A",
@@ -22132,14 +21248,14 @@ const QUIZ_DATA = {
       "qnum": 14,
       "question": "Assembly language is machine dependent mainly because:",
       "options": {
-        "A": "Its instructions reflect a particular architecture's instruction set",
-        "B": "It uses a JVM",
-        "C": "It has no mnemonics",
-        "D": "It is written in Java"
+        "A": "It uses a JVM",
+        "B": "It is written in Java",
+        "C": "Its instructions reflect a particular architecture's instruction set",
+        "D": "It has no mnemonics"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Its instructions reflect a particular architecture's instruction set",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #2 is Option A: Its instructions reflect a particular architecture's instruction set.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #2 is Option C: Its instructions reflect a particular architecture's instruction set.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22152,14 +21268,14 @@ const QUIZ_DATA = {
       "qnum": 15,
       "question": "Which was an early contribution of FORTRAN?",
       "options": {
-        "A": "Demonstrating compilers could produce efficient machine code",
-        "B": "Creating object-oriented inheritance",
-        "C": "Introducing GUI listeners",
-        "D": "Inventing garbage collection"
+        "A": "Introducing GUI listeners",
+        "B": "Inventing garbage collection",
+        "C": "Creating object-oriented inheritance",
+        "D": "Demonstrating compilers could produce efficient machine code"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Demonstrating compilers could produce efficient machine code",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #3 is Option A: Demonstrating compilers could produce efficient machine code.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #3 is Option D: Demonstrating compilers could produce efficient machine code.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22173,9 +21289,9 @@ const QUIZ_DATA = {
       "question": "C was developed chiefly to support:",
       "options": {
         "A": "UNIX and efficient portable systems software",
-        "B": "Web page layouts",
+        "B": "Java virtual machines",
         "C": "AI list processing",
-        "D": "Java virtual machines"
+        "D": "Web page layouts"
       },
       "answer": "A",
       "answerText": "UNIX and efficient portable systems software",
@@ -22192,14 +21308,14 @@ const QUIZ_DATA = {
       "qnum": 17,
       "question": "Java's WORA goal means:",
       "options": {
-        "A": "Write Once, Run Anywhere with a compatible runtime",
-        "B": "Write Once, Run Assembly",
-        "C": "Work Only on Runtime Analysis",
-        "D": "Without Object Reference Assignment"
+        "A": "Work Only on Runtime Analysis",
+        "B": "Write Once, Run Anywhere with a compatible runtime",
+        "C": "Without Object Reference Assignment",
+        "D": "Write Once, Run Assembly"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Write Once, Run Anywhere with a compatible runtime",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #5 is Option A: Write Once, Run Anywhere with a compatible runtime.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #5 is Option B: Write Once, Run Anywhere with a compatible runtime.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22212,14 +21328,14 @@ const QUIZ_DATA = {
       "qnum": 18,
       "question": "Which assembly operation changes control flow?",
       "options": {
-        "A": "JMP",
-        "B": "MOV",
-        "C": "ADD",
-        "D": "SUB"
+        "A": "SUB",
+        "B": "JMP",
+        "C": "MOV",
+        "D": "ADD"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "JMP",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #6 is Option A: JMP.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #6 is Option B: JMP.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22232,14 +21348,14 @@ const QUIZ_DATA = {
       "qnum": 19,
       "question": "A linker/loader or execution stage follows compilation to:",
       "options": {
-        "A": "Prepare translated code for execution",
+        "A": "Handle mouse clicks",
         "B": "Convert facts to rules",
-        "C": "Handle mouse clicks",
-        "D": "Tokenize identifiers"
+        "C": "Tokenize identifiers",
+        "D": "Prepare translated code for execution"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Prepare translated code for execution",
-      "explanation": "Official syllabus answer for Unit 2 MCQ #7 is Option A: Prepare translated code for execution.",
+      "explanation": "Official syllabus answer for Unit 2 MCQ #7 is Option D: Prepare translated code for execution.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22253,9 +21369,9 @@ const QUIZ_DATA = {
       "question": "Conditional compilation uses directives such as:",
       "options": {
         "A": "#ifdef and #ifndef",
-        "B": "try and catch",
-        "C": "car and cdr",
-        "D": "JFrame and JLabel"
+        "B": "car and cdr",
+        "C": "JFrame and JLabel",
+        "D": "try and catch"
       },
       "answer": "A",
       "answerText": "#ifdef and #ifndef",
@@ -22272,14 +21388,14 @@ const QUIZ_DATA = {
       "qnum": 13,
       "question": "Which compiler phase groups characters into tokens?",
       "options": {
-        "A": "Lexical analysis",
-        "B": "Syntax analysis",
-        "C": "Semantic analysis",
-        "D": "Code optimization"
+        "A": "Semantic analysis",
+        "B": "Lexical analysis",
+        "C": "Code optimization",
+        "D": "Syntax analysis"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Lexical analysis",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #1 is Option A: Lexical analysis.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #1 is Option B: Lexical analysis.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22292,14 +21408,14 @@ const QUIZ_DATA = {
       "qnum": 14,
       "question": "Missing semicolon detection is chiefly a:",
       "options": {
-        "A": "Syntax error",
-        "B": "Lexical error",
-        "C": "Memory leak",
-        "D": "Binding-time error"
+        "A": "Binding-time error",
+        "B": "Syntax error",
+        "C": "Lexical error",
+        "D": "Memory leak"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Syntax error",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #2 is Option A: Syntax error.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #2 is Option B: Syntax error.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22312,14 +21428,14 @@ const QUIZ_DATA = {
       "qnum": 15,
       "question": "An invalid source character is chiefly a:",
       "options": {
-        "A": "Lexical error",
+        "A": "Type coercion",
         "B": "Syntax tree",
         "C": "Dynamic binding",
-        "D": "Type coercion"
+        "D": "Lexical error"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Lexical error",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #3 is Option A: Lexical error.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #3 is Option D: Lexical error.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22333,8 +21449,8 @@ const QUIZ_DATA = {
       "question": "Common subexpression elimination belongs to:",
       "options": {
         "A": "Code optimization",
-        "B": "Lexical analysis",
-        "C": "Scope resolution",
+        "B": "Scope resolution",
+        "C": "Lexical analysis",
         "D": "Event handling"
       },
       "answer": "A",
@@ -22352,14 +21468,14 @@ const QUIZ_DATA = {
       "qnum": 17,
       "question": "Target code generation produces:",
       "options": {
-        "A": "Machine/assembly code for a target architecture",
-        "B": "Only comments",
-        "C": "Prolog queries",
-        "D": "A source grammar"
+        "A": "A source grammar",
+        "B": "Prolog queries",
+        "C": "Only comments",
+        "D": "Machine/assembly code for a target architecture"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Machine/assembly code for a target architecture",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #5 is Option A: Machine/assembly code for a target architecture.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #5 is Option D: Machine/assembly code for a target architecture.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22373,9 +21489,9 @@ const QUIZ_DATA = {
       "question": "Implicit type conversion is also called:",
       "options": {
         "A": "Coercion",
-        "B": "Backtracking",
+        "B": "Marking",
         "C": "Aliasing",
-        "D": "Marking"
+        "D": "Backtracking"
       },
       "answer": "A",
       "answerText": "Coercion",
@@ -22392,14 +21508,14 @@ const QUIZ_DATA = {
       "qnum": 19,
       "question": "Casting a float to int manually is an example of:",
       "options": {
-        "A": "Explicit conversion",
-        "B": "Dynamic binding",
-        "C": "Lexical scanning",
-        "D": "Copy-out"
+        "A": "Dynamic binding",
+        "B": "Explicit conversion",
+        "C": "Copy-out",
+        "D": "Lexical scanning"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Explicit conversion",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #7 is Option A: Explicit conversion.",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #7 is Option B: Explicit conversion.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22412,14 +21528,14 @@ const QUIZ_DATA = {
       "qnum": 20,
       "question": "Which expression short-circuits before its second term when x is nonzero?",
       "options": {
-        "A": "x != 0 && f()",
+        "A": "f() == x",
         "B": "x == 0 || f()",
         "C": "x + f()",
-        "D": "f() == x"
+        "D": "x != 0 && f()"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "x != 0 && f()",
-      "explanation": "Official syllabus answer for Unit 3 MCQ #8 is Option A: x != 0 && f().",
+      "explanation": "Official syllabus answer for Unit 3 MCQ #8 is Option D: x != 0 && f().",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22432,14 +21548,14 @@ const QUIZ_DATA = {
       "qnum": 13,
       "question": "A repeat-for loop is a form of:",
       "options": {
-        "A": "Iteration",
-        "B": "Selection",
-        "C": "Sequential-only flow",
-        "D": "Exception propagation"
+        "A": "Exception propagation",
+        "B": "Sequential-only flow",
+        "C": "Selection",
+        "D": "Iteration"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Iteration",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #1 is Option A: Iteration.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #1 is Option D: Iteration.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22452,14 +21568,14 @@ const QUIZ_DATA = {
       "qnum": 14,
       "question": "Pass-by-result requires the actual argument to be:",
       "options": {
-        "A": "A variable location that can receive the output",
+        "A": "A function name",
         "B": "A constant expression only",
-        "C": "A function name",
+        "C": "A variable location that can receive the output",
         "D": "A type name"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "A variable location that can receive the output",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #2 is Option A: A variable location that can receive the output.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #2 is Option C: A variable location that can receive the output.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22472,14 +21588,14 @@ const QUIZ_DATA = {
       "qnum": 15,
       "question": "Which method copies an argument in and the final parameter value out?",
       "options": {
-        "A": "Pass-by-value-result",
-        "B": "Pass-by-name",
-        "C": "Pass-by-reference",
-        "D": "Pass-by-result"
+        "A": "Pass-by-name",
+        "B": "Pass-by-result",
+        "C": "Pass-by-value-result",
+        "D": "Pass-by-reference"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Pass-by-value-result",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #3 is Option A: Pass-by-value-result.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #3 is Option C: Pass-by-value-result.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22492,14 +21608,14 @@ const QUIZ_DATA = {
       "qnum": 16,
       "question": "Which method provides no initial input value but copies its output back?",
       "options": {
-        "A": "Pass-by-result",
-        "B": "Pass-by-value",
-        "C": "Pass-by-name",
-        "D": "Pass-by-reference"
+        "A": "Pass-by-reference",
+        "B": "Pass-by-result",
+        "C": "Pass-by-value",
+        "D": "Pass-by-name"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Pass-by-result",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #4 is Option A: Pass-by-result.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #4 is Option B: Pass-by-result.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22512,14 +21628,14 @@ const QUIZ_DATA = {
       "qnum": 17,
       "question": "Which method avoids an immediate value copy but creates an alias?",
       "options": {
-        "A": "Pass-by-reference",
-        "B": "Pass-by-value",
-        "C": "Pass-by-result",
+        "A": "Pass-by-result",
+        "B": "Pass-by-reference",
+        "C": "Pass-by-value",
         "D": "Pass-by-name"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Pass-by-reference",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #5 is Option A: Pass-by-reference.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #5 is Option B: Pass-by-reference.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22533,9 +21649,9 @@ const QUIZ_DATA = {
       "question": "Under pass-by-value, changing the formal parameter:",
       "options": {
         "A": "Does not directly change the caller's separate variable",
-        "B": "Always changes the caller's variable",
-        "C": "Re-evaluates the expression",
-        "D": "Copies it back on return"
+        "B": "Re-evaluates the expression",
+        "C": "Copies it back on return",
+        "D": "Always changes the caller's variable"
       },
       "answer": "A",
       "answerText": "Does not directly change the caller's separate variable",
@@ -22572,14 +21688,14 @@ const QUIZ_DATA = {
       "qnum": 20,
       "question": "Overloaded methods are typically distinguished by:",
       "options": {
-        "A": "Their parameter lists/signatures",
+        "A": "Their runtime addresses",
         "B": "Their source-file names",
-        "C": "Their comments",
-        "D": "Their runtime addresses"
+        "C": "Their parameter lists/signatures",
+        "D": "Their comments"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Their parameter lists/signatures",
-      "explanation": "Official syllabus answer for Unit 4 MCQ #8 is Option A: Their parameter lists/signatures.",
+      "explanation": "Official syllabus answer for Unit 4 MCQ #8 is Option C: Their parameter lists/signatures.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22592,14 +21708,14 @@ const QUIZ_DATA = {
       "qnum": 13,
       "question": "Which Java category represents serious system-level problems?",
       "options": {
-        "A": "Error",
-        "B": "Checked exception",
-        "C": "ActionEvent",
-        "D": "Runtime parameter"
+        "A": "Checked exception",
+        "B": "ActionEvent",
+        "C": "Runtime parameter",
+        "D": "Error"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Error",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #1 is Option A: Error.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #1 is Option D: Error.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22613,9 +21729,9 @@ const QUIZ_DATA = {
       "question": "Which keyword explicitly raises an exception?",
       "options": {
         "A": "throw",
-        "B": "throws",
+        "B": "finally",
         "C": "try",
-        "D": "finally"
+        "D": "throws"
       },
       "answer": "A",
       "answerText": "throw",
@@ -22632,14 +21748,14 @@ const QUIZ_DATA = {
       "qnum": 15,
       "question": "Which keyword declares that a method may propagate exceptions?",
       "options": {
-        "A": "throws",
-        "B": "throw",
-        "C": "catch",
-        "D": "finally"
+        "A": "finally",
+        "B": "throws",
+        "C": "throw",
+        "D": "catch"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "throws",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #3 is Option A: throws.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #3 is Option B: throws.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22652,14 +21768,14 @@ const QUIZ_DATA = {
       "qnum": 16,
       "question": "Catching a superclass exception can handle:",
       "options": {
-        "A": "Several related subclass exception types",
-        "B": "Only one GUI event",
-        "C": "Lexical tokens",
-        "D": "All syntax errors"
+        "A": "Only one GUI event",
+        "B": "Several related subclass exception types",
+        "C": "All syntax errors",
+        "D": "Lexical tokens"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Several related subclass exception types",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #4 is Option A: Several related subclass exception types.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #4 is Option B: Several related subclass exception types.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22673,8 +21789,8 @@ const QUIZ_DATA = {
       "question": "Which event listener is commonly used for mouse actions?",
       "options": {
         "A": "MouseListener",
-        "B": "ActionListener only",
-        "C": "ErrorListener",
+        "B": "ErrorListener",
+        "C": "ActionListener only",
         "D": "Scanner"
       },
       "answer": "A",
@@ -22692,14 +21808,14 @@ const QUIZ_DATA = {
       "qnum": 18,
       "question": "A lambda can provide an implementation for:",
       "options": {
-        "A": "A functional interface listener",
-        "B": "A grammar production",
-        "C": "A class constructor only",
-        "D": "An exception object"
+        "A": "A class constructor only",
+        "B": "A functional interface listener",
+        "C": "An exception object",
+        "D": "A grammar production"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "A functional interface listener",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #6 is Option A: A functional interface listener.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #6 is Option B: A functional interface listener.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22712,14 +21828,14 @@ const QUIZ_DATA = {
       "qnum": 19,
       "question": "NumberFormatException handling in a registration form validates:",
       "options": {
-        "A": "That numeric input can be parsed",
+        "A": "That a token is reserved",
         "B": "That a JFrame opened",
         "C": "That bytecode is portable",
-        "D": "That a token is reserved"
+        "D": "That numeric input can be parsed"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "That numeric input can be parsed",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #7 is Option A: That numeric input can be parsed.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #7 is Option D: That numeric input can be parsed.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22732,14 +21848,14 @@ const QUIZ_DATA = {
       "qnum": 20,
       "question": "AWT components are generally described as:",
       "options": {
-        "A": "Native-peer based/heavierweight compared with Swing components",
+        "A": "An exception type",
         "B": "A Prolog database",
         "C": "A compiler phase",
-        "D": "An exception type"
+        "D": "Native-peer based/heavierweight compared with Swing components"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Native-peer based/heavierweight compared with Swing components",
-      "explanation": "Official syllabus answer for Unit 5 MCQ #8 is Option A: Native-peer based/heavierweight compared with Swing components.",
+      "explanation": "Official syllabus answer for Unit 5 MCQ #8 is Option D: Native-peer based/heavierweight compared with Swing components.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22752,14 +21868,14 @@ const QUIZ_DATA = {
       "qnum": 13,
       "question": "In Prolog, commas between goals in a rule body mean:",
       "options": {
-        "A": "Logical AND",
-        "B": "Logical OR",
-        "C": "Negation",
-        "D": "Assignment"
+        "A": "Assignment",
+        "B": "Logical AND",
+        "C": "Logical OR",
+        "D": "Negation"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Logical AND",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #1 is Option A: Logical AND.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #1 is Option B: Logical AND.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22772,14 +21888,14 @@ const QUIZ_DATA = {
       "qnum": 14,
       "question": "A variable query asks Prolog to:",
       "options": {
-        "A": "Find substitutions/values satisfying the goal",
+        "A": "Display a GUI",
         "B": "Compile a class",
         "C": "Collect garbage",
-        "D": "Display a GUI"
+        "D": "Find substitutions/values satisfying the goal"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Find substitutions/values satisfying the goal",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #2 is Option A: Find substitutions/values satisfying the goal.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #2 is Option D: Find substitutions/values satisfying the goal.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22792,14 +21908,14 @@ const QUIZ_DATA = {
       "qnum": 15,
       "question": "map separates:",
       "options": {
-        "A": "Transformation logic from list traversal",
+        "A": "Classes from objects",
         "B": "Exception handlers from events",
         "C": "Heap from stack",
-        "D": "Classes from objects"
+        "D": "Transformation logic from list traversal"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Transformation logic from list traversal",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #3 is Option A: Transformation logic from list traversal.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #3 is Option D: Transformation logic from list traversal.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22812,14 +21928,14 @@ const QUIZ_DATA = {
       "qnum": 16,
       "question": "In Lisp, cdr returns:",
       "options": {
-        "A": "The remainder of a list after its first element",
+        "A": "The list's sum",
         "B": "The first element",
-        "C": "A new class",
-        "D": "The list's sum"
+        "C": "The remainder of a list after its first element",
+        "D": "A new class"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "The remainder of a list after its first element",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #4 is Option A: The remainder of a list after its first element.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #4 is Option C: The remainder of a list after its first element.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22833,8 +21949,8 @@ const QUIZ_DATA = {
       "question": "Semispace collection copies live objects from:",
       "options": {
         "A": "From-space to to-space",
-        "B": "Stack to source code",
-        "C": "Old objects to the parser",
+        "B": "Old objects to the parser",
+        "C": "Stack to source code",
         "D": "A rule to a query"
       },
       "answer": "A",
@@ -22852,14 +21968,14 @@ const QUIZ_DATA = {
       "qnum": 18,
       "question": "Generational collection relies on the hypothesis that:",
       "options": {
-        "A": "Many objects become unreachable young",
-        "B": "Objects never die",
-        "C": "Every object is global",
-        "D": "All objects form cycles"
+        "A": "Every object is global",
+        "B": "Many objects become unreachable young",
+        "C": "All objects form cycles",
+        "D": "Objects never die"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Many objects become unreachable young",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #6 is Option A: Many objects become unreachable young.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #6 is Option B: Many objects become unreachable young.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22874,8 +21990,8 @@ const QUIZ_DATA = {
       "options": {
         "A": "Inheritance",
         "B": "Filtering",
-        "C": "Unification",
-        "D": "Reference counting"
+        "C": "Reference counting",
+        "D": "Unification"
       },
       "answer": "A",
       "answerText": "Inheritance",
@@ -22892,14 +22008,14 @@ const QUIZ_DATA = {
       "qnum": 20,
       "question": "Dynamic dispatch selects an overridden method based on:",
       "options": {
-        "A": "The runtime object's type",
-        "B": "Only source line number",
-        "C": "The list length",
-        "D": "The query's punctuation"
+        "A": "The query's punctuation",
+        "B": "The list length",
+        "C": "Only source line number",
+        "D": "The runtime object's type"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "The runtime object's type",
-      "explanation": "Official syllabus answer for Unit 6 MCQ #8 is Option A: The runtime object's type.",
+      "explanation": "Official syllabus answer for Unit 6 MCQ #8 is Option D: The runtime object's type.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
     },
     {
@@ -22911,10 +22027,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 1,
       "question": "State four reasons for studying language concepts.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Improve expression, language choice, understanding of implementation, and ability to design languages/advance computing.",
       "explanation": "Improve expression, language choice, understanding of implementation, and ability to design languages/advance computing.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -22928,10 +22042,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 2,
       "question": "Define readability.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "How easily a reader understands a program.",
       "explanation": "How easily a reader understands a program.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -22945,10 +22057,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 3,
       "question": "Define writability.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "How easily a language supports creating programs for a chosen domain.",
       "explanation": "How easily a language supports creating programs for a chosen domain.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -22962,10 +22072,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 4,
       "question": "What is overall simplicity?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A manageable feature set with few redundant ways to do the same task.",
       "explanation": "A manageable feature set with few redundant ways to do the same task.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -22979,10 +22087,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 5,
       "question": "Define orthogonality.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Features combine consistently with few context-dependent exceptions.",
       "explanation": "Features combine consistently with few context-dependent exceptions.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -22996,10 +22102,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 6,
       "question": "Give a C example of non-orthogonality.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Structures can be assigned directly, but arrays cannot be assigned directly.",
       "explanation": "Structures can be assigned directly, but arrays cannot be assigned directly.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23013,10 +22117,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 7,
       "question": "How can indiscriminate goto use affect code?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It makes control flow harder to follow and reduces readability.",
       "explanation": "It makes control flow harder to follow and reduces readability.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23030,10 +22132,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 8,
       "question": "Define reliability.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A program's ability to perform to specifications under all conditions.",
       "explanation": "A program's ability to perform to specifications under all conditions.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23047,10 +22147,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 9,
       "question": "Distinguish static and dynamic type checking.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Static checks occur at compile time; dynamic checks occur at runtime.",
       "explanation": "Static checks occur at compile time; dynamic checks occur at runtime.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23064,10 +22162,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 10,
       "question": "Why can aliasing harm reliability?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A change through one name unexpectedly affects another name for the same object.",
       "explanation": "A change through one name unexpectedly affects another name for the same object.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23081,10 +22177,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 11,
       "question": "Name four language-related cost factors.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Learning, writing, compiling/executing, and maintenance (also hardware/software needs).",
       "explanation": "Learning, writing, compiling/executing, and maintenance (also hardware/software needs).",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23098,10 +22192,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 12,
       "question": "Define portability.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Ease of running a program across systems; compatible JVMs support Java portability.",
       "explanation": "Ease of running a program across systems; compatible JVMs support Java portability.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23115,10 +22207,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 13,
       "question": "Define language implementation.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Translating or executing a high-level program in a form a computer can run.",
       "explanation": "Translating or executing a high-level program in a form a computer can run.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23132,10 +22222,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 14,
       "question": "Name the three implementation approaches.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Compilation, interpretation, and hybrid implementation.",
       "explanation": "Compilation, interpretation, and hybrid implementation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23149,10 +22237,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 15,
       "question": "State two interpreter characteristics.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Translates and executes one statement at a time; typically creates no standalone executable.",
       "explanation": "Translates and executes one statement at a time; typically creates no standalone executable.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23166,10 +22252,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 16,
       "question": "What is object code?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Low-level machine or relocatable code produced by a compiler.",
       "explanation": "Low-level machine or relocatable code produced by a compiler.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23183,10 +22267,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 17,
       "question": "What is intermediate code?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A lower-level representation executed or further translated by a runtime.",
       "explanation": "A lower-level representation executed or further translated by a runtime.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23200,10 +22282,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 18,
       "question": "What does bytecode portability depend on?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A compatible virtual machine/runtime on the target platform.",
       "explanation": "A compatible virtual machine/runtime on the target platform.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23217,10 +22297,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 19,
       "question": "Define just-in-time compilation.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Compiling selected intermediate code into native code while the program runs.",
       "explanation": "Compiling selected intermediate code into native code while the program runs.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23234,10 +22312,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 20,
       "question": "Name four preprocessor actions.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "File inclusion, macro expansion, conditional compilation, code substitution.",
       "explanation": "File inclusion, macro expansion, conditional compilation, code substitution.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23251,10 +22327,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 21,
       "question": "What do #ifdef and #ifndef test?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Whether a macro is defined and not defined, respectively.",
       "explanation": "Whether a macro is defined and not defined, respectively.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23268,10 +22342,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 22,
       "question": "Define a programming environment.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Integrated tools for developing, testing, debugging, executing, and maintaining software.",
       "explanation": "Integrated tools for developing, testing, debugging, executing, and maintaining software.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23285,10 +22357,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 23,
       "question": "What is assembly language?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A mnemonic low-level representation of machine instructions translated by an assembler.",
       "explanation": "A mnemonic low-level representation of machine instructions translated by an assembler.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23302,10 +22372,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 24,
       "question": "Name the assembly instruction categories covered.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Data transfer, arithmetic/logic, and control-flow operations (including comparison/branching).",
       "explanation": "Data transfer, arithmetic/logic, and control-flow operations (including comparison/branching).",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23319,10 +22387,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 25,
       "question": "Name the compiler front-end phases in this unit.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Lexical analysis, syntax analysis, and semantic analysis.",
       "explanation": "Lexical analysis, syntax analysis, and semantic analysis.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23336,10 +22402,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 26,
       "question": "Give examples of token categories.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Keywords, identifiers, constants, operators, and special symbols.",
       "explanation": "Keywords, identifiers, constants, operators, and special symbols.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23353,10 +22417,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 27,
       "question": "Distinguish token and lexeme.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Token is a category; lexeme is the actual matching character sequence.",
       "explanation": "Token is a category; lexeme is the actual matching character sequence.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23370,10 +22432,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 28,
       "question": "What is a DFA's role in scanning?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Efficiently recognizes token patterns represented by regular languages.",
       "explanation": "Efficiently recognizes token patterns represented by regular languages.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23387,10 +22447,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 29,
       "question": "What does a context-free grammar specify?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Syntactic structures, including nested constructs, through production rules.",
       "explanation": "Syntactic structures, including nested constructs, through production rules.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23404,10 +22462,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 30,
       "question": "Distinguish CST and AST.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "CST retains grammatical detail; AST keeps essential structure and omits redundant syntax.",
       "explanation": "CST retains grammatical detail; AST keeps essential structure and omits redundant syntax.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23421,10 +22477,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 31,
       "question": "What derivation does top-down parsing use?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Typically a leftmost derivation from the start symbol toward terminals.",
       "explanation": "Typically a leftmost derivation from the start symbol toward terminals.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23438,10 +22492,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 32,
       "question": "What derivation does bottom-up parsing use?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Rightmost derivation in reverse, reducing input toward the start symbol.",
       "explanation": "Rightmost derivation in reverse, reducing input toward the start symbol.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23455,10 +22507,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 33,
       "question": "Name three semantic errors.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Type mismatch, undeclared variable, duplicate declaration.",
       "explanation": "Type mismatch, undeclared variable, duplicate declaration.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23472,10 +22522,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 34,
       "question": "Why use intermediate representation?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It bridges compiler front and back ends and supports portable optimization/code generation.",
       "explanation": "It bridges compiler front and back ends and supports portable optimization/code generation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23489,10 +22537,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 35,
       "question": "Distinguish early and late binding.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Early/static binding resolves at compile time; late/dynamic binding resolves at runtime.",
       "explanation": "Early/static binding resolves at compile time; late/dynamic binding resolves at runtime.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23506,10 +22552,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 36,
       "question": "Define lifetime and scope.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Lifetime is duration of allocated storage; scope is the region where a name is visible.",
       "explanation": "Lifetime is duration of allocated storage; scope is the region where a name is visible.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23523,10 +22567,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 37,
       "question": "Name the three fundamental statement control forms.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Sequence, selection, and iteration.",
       "explanation": "Sequence, selection, and iteration.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23540,10 +22582,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 38,
       "question": "What is a subprogram call?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It transfers control to a procedure/function and associates actual arguments with formal parameters.",
       "explanation": "It transfers control to a procedure/function and associates actual arguments with formal parameters.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23557,10 +22597,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 39,
       "question": "Distinguish function and procedure.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A function returns a value; a procedure may perform an action without a return value.",
       "explanation": "A function returns a value; a procedure may perform an action without a return value.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23574,10 +22612,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 40,
       "question": "Name four subprogram design issues.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Local storage duration, parameter passing, genericity, and overloading.",
       "explanation": "Local storage duration, parameter passing, genericity, and overloading.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23591,10 +22627,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 41,
       "question": "Define a referencing environment.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Names and entities accessible at a particular program point.",
       "explanation": "Names and entities accessible at a particular program point.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23608,10 +22642,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 42,
       "question": "How does dynamic scoping resolve a name?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "By searching the active call chain at runtime.",
       "explanation": "By searching the active call chain at runtime.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23625,10 +22657,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 43,
       "question": "How does pass-by-value work?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Copies the argument value into an independent formal; local changes do not directly alter the caller variable.",
       "explanation": "Copies the argument value into an independent formal; local changes do not directly alter the caller variable.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23642,10 +22672,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 44,
       "question": "How does pass-by-result work?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Copies the final formal value to the caller's actual variable when the call returns.",
       "explanation": "Copies the final formal value to the caller's actual variable when the call returns.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23659,10 +22687,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 45,
       "question": "How does pass-by-value-result work?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Copies in at call time and copies the final value back on return.",
       "explanation": "Copies in at call time and copies the final value back on return.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23676,10 +22702,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 46,
       "question": "What is a side-effect concern of pass-by-reference?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Writing through the formal changes the caller's variable because they share storage.",
       "explanation": "Writing through the formal changes the caller's variable because they share storage.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23693,10 +22717,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 47,
       "question": "What distinguishes pass-by-name?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The actual expression is evaluated on each use of the formal parameter.",
       "explanation": "The actual expression is evaluated on each use of the formal parameter.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23710,10 +22732,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 48,
       "question": "How can aliasing complicate copy-in/copy-out?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Passing one actual variable to multiple parameters can make copy-back order affect the result.",
       "explanation": "Passing one actual variable to multiple parameters can make copy-back order affect the result.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23727,10 +22747,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 49,
       "question": "What happens to remaining try statements after an exception?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "They are skipped and control transfers to a matching handler.",
       "explanation": "They are skipped and control transfers to a matching handler.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23744,10 +22762,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 50,
       "question": "Name Java's five exception-handling keywords.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "try, catch, finally, throw, throws.",
       "explanation": "try, catch, finally, throw, throws.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23761,10 +22777,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 51,
       "question": "Distinguish checked exceptions, unchecked exceptions, and Error.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Checked must be caught/declared; unchecked are runtime exceptions; Error represents serious problems usually not recovered from.",
       "explanation": "Checked must be caught/declared; unchecked are runtime exceptions; Error represents serious problems usually not recovered from.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23778,10 +22792,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 52,
       "question": "Define exception handler.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A block that responds to a particular exception type.",
       "explanation": "A block that responds to a particular exception type.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23795,10 +22807,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 53,
       "question": "What is exception propagation?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Searching enclosing callers for a matching handler when none handles it locally.",
       "explanation": "Searching enclosing callers for a matching handler when none handles it locally.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23812,10 +22822,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 54,
       "question": "Why use multiple catch handlers?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Different exception types can require different recovery actions.",
       "explanation": "Different exception types can require different recovery actions.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23829,10 +22837,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 55,
       "question": "Define event handling.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Detecting an event and invoking registered response code.",
       "explanation": "Detecting an event and invoking registered response code.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23846,10 +22852,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 56,
       "question": "Name the basic event-handling parts.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Event source, event notification/object, listener/handler, and response.",
       "explanation": "Event source, event notification/object, listener/handler, and response.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23863,10 +22867,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 57,
       "question": "Distinguish exception and event handling.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Exceptions report abnormal conditions; events represent occurrences the program responds to.",
       "explanation": "Exceptions report abnormal conditions; events represent occurrences the program responds to.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23880,10 +22882,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 58,
       "question": "Name the Java GUI libraries in the unit.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "AWT and Swing.",
       "explanation": "AWT and Swing.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23897,10 +22897,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 59,
       "question": "Name four Swing components in the registration example.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "JFrame, JLabel, JTextField, and JButton.",
       "explanation": "JFrame, JLabel, JTextField, and JButton.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23914,10 +22912,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 60,
       "question": "What does GridLayout do?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Arranges components in a grid of rows and columns.",
       "explanation": "Arranges components in a grid of rows and columns.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23931,10 +22927,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 61,
       "question": "Distinguish declarative and imperative styles.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Declarative describes relationships/results; imperative describes commands and state changes.",
       "explanation": "Declarative describes relationships/results; imperative describes commands and state changes.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23948,10 +22942,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 62,
       "question": "What is a Prolog fact?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A relationship assumed true in the knowledge base, usually a predicate ending in a period.",
       "explanation": "A relationship assumed true in the knowledge base, usually a predicate ending in a period.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23965,10 +22957,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 63,
       "question": "What does a ground query contain?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "No variables.",
       "explanation": "No variables.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23982,10 +22972,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 64,
       "question": "Define unification.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Matching terms by substitutions that make them identical.",
       "explanation": "Matching terms by substitutions that make them identical.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -23999,10 +22987,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 65,
       "question": "What does backtracking do?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Revisits choice points to explore alternatives when more answers are requested or a goal fails.",
       "explanation": "Revisits choice points to explore alternatives when more answers are requested or a goal fails.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24016,10 +23002,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 66,
       "question": "Define a pure function.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Its result depends only on input and it has no observable side effects.",
       "explanation": "Its result depends only on input and it has no observable side effects.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24033,10 +23017,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 67,
       "question": "What do map, filter, and reduce do?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Map transforms each item; filter retains matches; reduce combines items into one result.",
       "explanation": "Map transforms each item; filter retains matches; reduce combines items into one result.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24050,10 +23032,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 68,
       "question": "What does a recursive definition require?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A base case and a progress step toward that base case.",
       "explanation": "A base case and a progress step toward that base case.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24067,10 +23047,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 69,
       "question": "What are LISP atoms and lists?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Atoms are symbols/numbers; lists are ordered collections of zero or more elements.",
       "explanation": "Atoms are symbols/numbers; lists are ordered collections of zero or more elements.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24084,10 +23062,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 70,
       "question": "What do quote, car, cdr, and cons do?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Quote treats a list as data; car returns its head; cdr its tail; cons constructs a pair/list.",
       "explanation": "Quote treats a list as data; car returns its head; cdr its tail; cons constructs a pair/list.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24101,10 +23077,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 71,
       "question": "Define garbage collection and reachability.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Collection reclaims dynamic objects no longer reachable from program roots.",
       "explanation": "Collection reclaims dynamic objects no longer reachable from program roots.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24118,10 +23092,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 72,
       "question": "Compare procedural and OOP organization.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Procedural groups operations into procedures; OOP groups state and methods in objects/classes.",
       "explanation": "Procedural groups operations into procedures; OOP groups state and methods in objects/classes.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24135,10 +23107,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 73,
       "question": "Contrast the C pass-by-value example with pointer passing.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "C copies argument values; passing an address lets a function modify the caller's object through a pointer.",
       "explanation": "C copies argument values; passing an address lets a function modify the caller's object through a pointer.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24152,10 +23122,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 74,
       "question": "What happens when two Python names reference the same mutable list?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "An in-place change through either name is visible through both.",
       "explanation": "An in-place change through either name is visible through both.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24169,10 +23137,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 75,
       "question": "How does Python integer reassignment differ from list mutation in a function?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Rebinding an integer parameter does not change the caller's name; mutating the shared list changes the same object.",
       "explanation": "Rebinding an integer parameter does not change the caller's name; mutating the shared list changes the same object.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24186,10 +23152,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 76,
       "question": "Name typical scientific programming languages in the notes.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "FORTRAN, MATLAB, and Python.",
       "explanation": "FORTRAN, MATLAB, and Python.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24203,10 +23167,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 77,
       "question": "What characterizes business applications?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Commercial data processing such as files/databases, reports, and financial calculations.",
       "explanation": "Commercial data processing such as files/databases, reports, and financial calculations.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24220,10 +23182,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 78,
       "question": "What characterizes AI applications?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Symbolic computation, learning, pattern recognition, reasoning, and natural-language processing.",
       "explanation": "Symbolic computation, learning, pattern recognition, reasoning, and natural-language processing.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24237,10 +23197,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 79,
       "question": "What characterizes systems programming?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Direct interaction with hardware, efficient memory management, and high execution speed.",
       "explanation": "Direct interaction with hardware, efficient memory management, and high execution speed.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24254,10 +23212,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 80,
       "question": "What is a scripting language used for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A script of commands automates tasks, controls software, or extends an existing application.",
       "explanation": "A script of commands automates tasks, controls software, or extends an existing application.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24271,10 +23227,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 81,
       "question": "Name the two early interpreted pseudocode languages noted.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Short Code and Speedcoding.",
       "explanation": "Short Code and Speedcoding.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24288,10 +23242,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 82,
       "question": "Give two assembly language advantages and two disadvantages.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Advantages: speed and efficient memory; disadvantages: difficult to learn, machine dependent, and poorly portable.",
       "explanation": "Advantages: speed and efficient memory; disadvantages: difficult to learn, machine dependent, and poorly portable.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24305,10 +23257,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 83,
       "question": "What did FORTRAN I include?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Formatted input/output, DO loops, IF statements, and six-character variable names.",
       "explanation": "Formatted input/output, DO loops, IF statements, and six-character variable names.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24322,10 +23272,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 84,
       "question": "What was introduced in FORTRAN II?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Independent compilation of subroutines.",
       "explanation": "Independent compilation of subroutines.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24339,10 +23287,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 85,
       "question": "Why was C created?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "To develop UNIX with a language combining efficiency and portability.",
       "explanation": "To develop UNIX with a language combining efficiency and portability.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24356,10 +23302,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 86,
       "question": "Name two common C application areas.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Operating systems, embedded systems, device drivers, compilers, or databases.",
       "explanation": "Operating systems, embedded systems, device drivers, compilers, or databases.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24373,10 +23317,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 87,
       "question": "What did C++ add for large software systems?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Abstraction, code reuse, and object-oriented organization while retaining performance and C compatibility.",
       "explanation": "Abstraction, code reuse, and object-oriented organization while retaining performance and C compatibility.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24390,10 +23332,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 88,
       "question": "What is Java's JVM role in WORA?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It executes platform-independent bytecode on systems with a compatible JVM.",
       "explanation": "It executes platform-independent bytecode on systems with a compatible JVM.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24407,10 +23347,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 89,
       "question": "Name the compiler's six sequential phases emphasized in the notes.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Lexical analysis, syntax analysis, semantic analysis, intermediate-code generation, optimization, and target-code generation.",
       "explanation": "Lexical analysis, syntax analysis, semantic analysis, intermediate-code generation, optimization, and target-code generation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24424,10 +23362,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 90,
       "question": "What is the symbol table used for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Stores identifier information such as name, type, scope, and related attributes for compiler phases.",
       "explanation": "Stores identifier information such as name, type, scope, and related attributes for compiler phases.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24441,10 +23377,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 91,
       "question": "Give examples of lexical, syntax, and semantic errors.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Invalid character; missing semicolon; type mismatch, respectively.",
       "explanation": "Invalid character; missing semicolon; type mismatch, respectively.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24458,10 +23392,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 92,
       "question": "What are binding time examples?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Language design, implementation, compile, link, load, and runtime.",
       "explanation": "Language design, implementation, compile, link, load, and runtime.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24475,10 +23407,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 93,
       "question": "What is a variable's address or l-value?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The memory location associated with that variable.",
       "explanation": "The memory location associated with that variable.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24492,10 +23422,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 94,
       "question": "Distinguish static and dynamic type checking.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Static checking checks types before execution; dynamic checking checks values/types during execution.",
       "explanation": "Static checking checks types before execution; dynamic checking checks values/types during execution.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24509,10 +23437,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 95,
       "question": "What is strong typing?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Strict enforcement of type compatibility, limiting unsafe operations/conversions.",
       "explanation": "Strict enforcement of type compatibility, limiting unsafe operations/conversions.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24526,10 +23452,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 96,
       "question": "State one benefit and one risk of short-circuit evaluation.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It can avoid unsafe or expensive evaluation; skipped side effects may surprise programmers.",
       "explanation": "It can avoid unsafe or expensive evaluation; skipped side effects may surprise programmers.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24543,10 +23467,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 97,
       "question": "What is sequence control?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Statements execute serially in their written order unless another control structure changes the flow.",
       "explanation": "Statements execute serially in their written order unless another control structure changes the flow.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24560,10 +23482,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 98,
       "question": "What are the two basic iteration structures discussed?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Repeat-for and repeat-while forms.",
       "explanation": "Repeat-for and repeat-while forms.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24577,10 +23497,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 99,
       "question": "What is a stack frame?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A runtime activation record holding invocation-specific data such as parameters and locals.",
       "explanation": "A runtime activation record holding invocation-specific data such as parameters and locals.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24594,10 +23512,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 100,
       "question": "What is a static local variable?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A local whose storage persists between calls rather than being recreated for each invocation.",
       "explanation": "A local whose storage persists between calls rather than being recreated for each invocation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24611,10 +23527,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 101,
       "question": "How do formal and actual parameters relate?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The caller's actual arguments are associated with the callee's formal parameters at invocation.",
       "explanation": "The caller's actual arguments are associated with the callee's formal parameters at invocation.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24628,10 +23542,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 102,
       "question": "What is genericity useful for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Reusing one subprogram algorithm with different data types.",
       "explanation": "Reusing one subprogram algorithm with different data types.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24645,10 +23557,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 103,
       "question": "How are overloaded subprograms selected?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The call's argument types and parameter signature determine the matching version.",
       "explanation": "The call's argument types and parameter signature determine the matching version.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24662,10 +23572,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 104,
       "question": "Why can pass-by-name produce changing values across uses?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The argument expression is reevaluated each time the formal is referenced.",
       "explanation": "The argument expression is reevaluated each time the formal is referenced.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24679,10 +23587,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 105,
       "question": "What does catch do?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Receives and handles a matching exception thrown from the associated try block.",
       "explanation": "Receives and handles a matching exception thrown from the associated try block.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24696,10 +23602,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 106,
       "question": "When does finally usually execute?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "After try/catch completion whether or not an exception was handled, barring abrupt termination.",
       "explanation": "After try/catch completion whether or not an exception was handled, barring abrupt termination.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24713,10 +23617,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 107,
       "question": "What does throw do compared with throws?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "throw raises an exception; throws declares possible propagation in a method signature.",
       "explanation": "throw raises an exception; throws declares possible propagation in a method signature.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24730,10 +23632,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 108,
       "question": "How can a user-defined checked exception be declared?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Create a class extending Exception and throw instances where the rule is violated.",
       "explanation": "Create a class extending Exception and throw instances where the rule is violated.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24747,10 +23647,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 109,
       "question": "What does exception binding search through?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Handlers in the current context and then enclosing callers in the call stack.",
       "explanation": "Handlers in the current context and then enclosing callers in the call stack.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24764,10 +23662,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 110,
       "question": "What is an event source?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "The component or system that generates an event notification.",
       "explanation": "The component or system that generates an event notification.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24781,10 +23677,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 111,
       "question": "What is an ActionListener?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A listener interface whose actionPerformed method responds to action events such as button clicks.",
       "explanation": "A listener interface whose actionPerformed method responds to action events such as button clicks.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24798,10 +23692,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 112,
       "question": "What is the GUI development flow?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Create components, arrange them with a layout, register listeners, process events, validate input, and display feedback.",
       "explanation": "Create components, arrange them with a layout, register listeners, process events, validate input, and display feedback.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24815,10 +23707,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 113,
       "question": "What do facts and rules form in logic programming?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "A knowledge base from which queries can be inferred.",
       "explanation": "A knowledge base from which queries can be inferred.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24832,10 +23722,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 114,
       "question": "What does a comma in a Prolog rule body mean?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "All listed goals must succeed (logical AND).",
       "explanation": "All listed goals must succeed (logical AND).",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24849,10 +23737,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 115,
       "question": "What is referential transparency useful for?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "It supports local reasoning and safe replacement of expressions with their values.",
       "explanation": "It supports local reasoning and safe replacement of expressions with their values.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24866,10 +23752,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 116,
       "question": "What is prefix notation?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Writing the operator/function before its arguments, as in (+ 2 3).",
       "explanation": "Writing the operator/function before its arguments, as in (+ 2 3).",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24883,10 +23767,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 117,
       "question": "What does cons do?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Constructs a pair, often by adding an element to the front of a list.",
       "explanation": "Constructs a pair, often by adding an element to the front of a list.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24900,10 +23782,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 118,
       "question": "What is the mark phase in mark-and-sweep?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Trace from roots and mark every reachable object.",
       "explanation": "Trace from roots and mark every reachable object.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24917,10 +23797,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 119,
       "question": "What happens in copying collection?",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Live objects are copied to another heap space and references updated; unreachable objects are left behind.",
       "explanation": "Live objects are copied to another heap space and references updated; unreachable objects are left behind.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24934,10 +23812,8 @@ const QUIZ_DATA = {
       "type": "qa",
       "qnum": 120,
       "question": "Define polymorphism in OOP.",
-      "options": {
-        "A": "Revealed in Explanation"
-      },
-      "answer": "A",
+      "options": {},
+      "answer": "",
       "answerText": "Code uses a common interface while the actual object's type determines the behavior.",
       "explanation": "Code uses a common interface while the actual object's type determines the behavior.",
       "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -24972,14 +23848,14 @@ const QUIZ_DATA = {
       "qnum": 2,
       "question": "Which language was developed by Dennis Ritchie at Bell Labs?",
       "options": {
-        "A": "FORTRAN",
-        "B": "Java",
-        "C": "C",
+        "A": "C",
+        "B": "FORTRAN",
+        "C": "Java",
         "D": "Python"
       },
-      "answer": "C",
+      "answer": "A",
       "answerText": "C",
-      "explanation": "Mid-Sem exam solution: Option C (C).",
+      "explanation": "Mid-Sem exam solution: Option A (C).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -24992,14 +23868,14 @@ const QUIZ_DATA = {
       "qnum": 3,
       "question": "Java is commonly described as using which approach?",
       "options": {
-        "A": "Only interpretation",
-        "B": "Only direct machine-code compilation",
-        "C": "Compilation to bytecode followed by JVM execution/JIT compilation",
-        "D": "No translation"
+        "A": "Compilation to bytecode followed by JVM execution/JIT compilation",
+        "B": "No translation",
+        "C": "Only direct machine-code compilation",
+        "D": "Only interpretation"
       },
-      "answer": "C",
+      "answer": "A",
       "answerText": "Compilation to bytecode followed by JVM execution/JIT compilation",
-      "explanation": "Mid-Sem exam solution: Option C (Compilation to bytecode followed by JVM execution/JIT compilation).",
+      "explanation": "Mid-Sem exam solution: Option A (Compilation to bytecode followed by JVM execution/JIT compilation).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25014,12 +23890,12 @@ const QUIZ_DATA = {
       "options": {
         "A": "FORTRAN",
         "B": "Python",
-        "C": "Pseudocode",
-        "D": "Java"
+        "C": "Java",
+        "D": "Pseudocode"
       },
-      "answer": "C",
+      "answer": "D",
       "answerText": "Pseudocode",
-      "explanation": "Mid-Sem exam solution: Option C (Pseudocode).",
+      "explanation": "Mid-Sem exam solution: Option D (Pseudocode).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25032,14 +23908,14 @@ const QUIZ_DATA = {
       "qnum": 5,
       "question": "Assembly language is:",
       "options": {
-        "A": "A high-level language",
-        "B": "A machine-independent language",
-        "C": "A low-level language using symbolic instructions",
-        "D": "Pseudocode"
+        "A": "A low-level language using symbolic instructions",
+        "B": "A high-level language",
+        "C": "Pseudocode",
+        "D": "A machine-independent language"
       },
-      "answer": "C",
+      "answer": "A",
       "answerText": "A low-level language using symbolic instructions",
-      "explanation": "Mid-Sem exam solution: Option C (A low-level language using symbolic instructions).",
+      "explanation": "Mid-Sem exam solution: Option A (A low-level language using symbolic instructions).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25052,14 +23928,14 @@ const QUIZ_DATA = {
       "qnum": 6,
       "question": "Which programming language strongly influenced the development of C?",
       "options": {
-        "A": "B",
-        "B": "Java",
+        "A": "Java",
+        "B": "FORTRAN",
         "C": "Python",
-        "D": "FORTRAN"
+        "D": "B"
       },
-      "answer": "D",
+      "answer": "B",
       "answerText": "FORTRAN",
-      "explanation": "Mid-Sem exam solution: Option D (FORTRAN).",
+      "explanation": "Mid-Sem exam solution: Option B (FORTRAN).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25072,14 +23948,14 @@ const QUIZ_DATA = {
       "qnum": 7,
       "question": "Which of the following is the best description of pseudocode?",
       "options": {
-        "A": "Executable machine code",
-        "B": "A formal programming language with strict syntax",
-        "C": "An informal representation of an algorithm using programming-like statements",
-        "D": "Assembly code"
+        "A": "A formal programming language with strict syntax",
+        "B": "Assembly code",
+        "C": "Executable machine code",
+        "D": "An informal representation of an algorithm using programming-like statements"
       },
-      "answer": "C",
+      "answer": "D",
       "answerText": "An informal representation of an algorithm using programming-like statements",
-      "explanation": "Mid-Sem exam solution: Option C (An informal representation of an algorithm using programming-like statements).",
+      "explanation": "Mid-Sem exam solution: Option D (An informal representation of an algorithm using programming-like statements).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25092,10 +23968,10 @@ const QUIZ_DATA = {
       "qnum": 8,
       "question": "What happens when this program is interpreted?",
       "options": {
-        "A": "Nothing is printed because the program contains an error",
+        "A": "Compilation error occurs before execution",
         "B": "15 is printed, then a runtime error occurs",
-        "C": "15, Hello are printed",
-        "D": "Compilation error occurs before execution"
+        "C": "Nothing is printed because the program contains an error",
+        "D": "15, Hello are printed"
       },
       "answer": "B",
       "answerText": "15 is printed, then a runtime error occurs",
@@ -25112,10 +23988,10 @@ const QUIZ_DATA = {
       "qnum": 9,
       "question": "Which statement is correct?",
       "options": {
-        "A": "No statement executes because of the error",
+        "A": "30 and End are printed",
         "B": "30 is printed, then execution stops at 10 / 0",
-        "C": "30 and End are printed",
-        "D": "End is printed before the error"
+        "C": "End is printed before the error",
+        "D": "No statement executes because of the error"
       },
       "answer": "B",
       "answerText": "30 is printed, then execution stops at 10 / 0",
@@ -25132,14 +24008,14 @@ const QUIZ_DATA = {
       "qnum": 10,
       "question": "What is the most appropriate result with a typical C compiler?",
       "options": {
-        "A": "10 is printed and then execution stops",
-        "B": "Compiler reports an error before successful execution",
-        "C": "10 and garbage value are printed",
-        "D": "Interpreter executes the first printf"
+        "A": "Interpreter executes the first printf",
+        "B": "10 and garbage value are printed",
+        "C": "10 is printed and then execution stops",
+        "D": "Compiler reports an error before successful execution"
       },
-      "answer": "B",
+      "answer": "D",
       "answerText": "Compiler reports an error before successful execution",
-      "explanation": "Mid-Sem exam solution: Option B (Compiler reports an error before successful execution).",
+      "explanation": "Mid-Sem exam solution: Option D (Compiler reports an error before successful execution).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25152,14 +24028,14 @@ const QUIZ_DATA = {
       "qnum": 11,
       "question": "Which sequence best represents the execution process?",
       "options": {
-        "A": "Java source → Machine code directly → CPU",
-        "B": "Java source → Bytecode → JVM → Execution",
-        "C": "Java source → Assembly → CPU",
-        "D": "Java source → Pseudocode → JVM"
+        "A": "Java source → Pseudocode → JVM",
+        "B": "Java source → Assembly → CPU",
+        "C": "Java source → Machine code directly → CPU",
+        "D": "Java source → Bytecode → JVM → Execution"
       },
-      "answer": "B",
+      "answer": "D",
       "answerText": "Java source → Bytecode → JVM → Execution",
-      "explanation": "Mid-Sem exam solution: Option B (Java source → Bytecode → JVM → Execution).",
+      "explanation": "Mid-Sem exam solution: Option D (Java source → Bytecode → JVM → Execution).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25172,14 +24048,14 @@ const QUIZ_DATA = {
       "qnum": 12,
       "question": "Why is this useful?",
       "options": {
-        "A": "It eliminates bytecode",
-        "B": "Frequently executed code can be converted into optimized native machine code",
-        "C": "It converts Java into pseudocode",
-        "D": "It prevents runtime execution"
+        "A": "Frequently executed code can be converted into optimized native machine code",
+        "B": "It prevents runtime execution",
+        "C": "It eliminates bytecode",
+        "D": "It converts Java into pseudocode"
       },
-      "answer": "B",
+      "answer": "A",
       "answerText": "Frequently executed code can be converted into optimized native machine code",
-      "explanation": "Mid-Sem exam solution: Option B (Frequently executed code can be converted into optimized native machine code).",
+      "explanation": "Mid-Sem exam solution: Option A (Frequently executed code can be converted into optimized native machine code).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25192,14 +24068,14 @@ const QUIZ_DATA = {
       "qnum": 13,
       "question": "If the language implementation is interpreted, what is the most likely behavior?",
       "options": {
-        "A": "A is printed, then execution stops because of the type error",
-        "B": "Nothing is printed",
-        "C": "A and B are printed",
+        "A": "Nothing is printed",
+        "B": "A and B are printed",
+        "C": "A is printed, then execution stops because of the type error",
         "D": "The program is converted completely into machine code first"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "A is printed, then execution stops because of the type error",
-      "explanation": "Mid-Sem exam solution: Option A (A is printed, then execution stops because of the type error).",
+      "explanation": "Mid-Sem exam solution: Option C (A is printed, then execution stops because of the type error).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25212,9 +24088,9 @@ const QUIZ_DATA = {
       "qnum": 14,
       "question": "Is this statement completely correct?",
       "options": {
-        "A": "Yes",
+        "A": "Yes, because Python executes directly as machine code",
         "B": "No, implementations such as CPython first compile source into bytecode, which is then executed by a virtual machine",
-        "C": "Yes, because Python executes directly as machine code",
+        "C": "Yes",
         "D": "No, because Python is always converted directly to assembly"
       },
       "answer": "B",
@@ -25232,14 +24108,14 @@ const QUIZ_DATA = {
       "qnum": 15,
       "question": "Which implementation characteristic is most helpful here?",
       "options": {
-        "A": "Interpretation",
-        "B": "Linking",
-        "C": "Assembly",
-        "D": "Static binding"
+        "A": "Assembly",
+        "B": "Interpretation",
+        "C": "Static binding",
+        "D": "Linking"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Interpretation",
-      "explanation": "Mid-Sem exam solution: Option A (Interpretation).",
+      "explanation": "Mid-Sem exam solution: Option B (Interpretation).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25253,13 +24129,13 @@ const QUIZ_DATA = {
       "question": "Which feature of C gives it a major advantage for low-level systems programming?",
       "options": {
         "A": "Built-in matrix operations",
-        "B": "Pointer manipulation and direct memory access",
+        "B": "Scientific notation syntax",
         "C": "Automatic garbage collection",
-        "D": "Scientific notation syntax"
+        "D": "Pointer manipulation and direct memory access"
       },
-      "answer": "B",
+      "answer": "D",
       "answerText": "Pointer manipulation and direct memory access",
-      "explanation": "Mid-Sem exam solution: Option B (Pointer manipulation and direct memory access).",
+      "explanation": "Mid-Sem exam solution: Option D (Pointer manipulation and direct memory access).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25362,14 +24238,14 @@ const QUIZ_DATA = {
       "qnum": 22,
       "question": "Which historical language would be the more natural choice?",
       "options": {
-        "A": "FORTRAN",
+        "A": "Assembly only",
         "B": "C",
-        "C": "Assembly only",
-        "D": "HTML"
+        "C": "HTML",
+        "D": "FORTRAN"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "FORTRAN",
-      "explanation": "Mid-Sem exam solution: Option A (FORTRAN).",
+      "explanation": "Mid-Sem exam solution: Option D (FORTRAN).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25383,13 +24259,13 @@ const QUIZ_DATA = {
       "question": "Which statement is correct?",
       "options": {
         "A": "All three require explicit declaration of the variable type",
-        "B": "C and Java require explicit type declaration, while Python generally uses dynamic typing",
+        "B": "None of them use variables",
         "C": "Only Python requires type declaration",
-        "D": "None of them use variables"
+        "D": "C and Java require explicit type declaration, while Python generally uses dynamic typing"
       },
-      "answer": "B",
+      "answer": "D",
       "answerText": "C and Java require explicit type declaration, while Python generally uses dynamic typing",
-      "explanation": "Mid-Sem exam solution: Option B (C and Java require explicit type declaration, while Python generally uses dynamic typing).",
+      "explanation": "Mid-Sem exam solution: Option D (C and Java require explicit type declaration, while Python generally uses dynamic typing).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25402,14 +24278,14 @@ const QUIZ_DATA = {
       "qnum": 24,
       "question": "A programming language designer wants to increase reliability by enforcing strict type checking. What is a likely trade-off?",
       "options": {
-        "A": "Increased flexibility",
-        "B": "Reduced programmer freedom/flexibility",
-        "C": "Elimination of compilation",
+        "A": "Elimination of compilation",
+        "B": "Increased flexibility",
+        "C": "Reduced programmer freedom/flexibility",
         "D": "Faster hardware execution"
       },
-      "answer": "B",
+      "answer": "C",
       "answerText": "Reduced programmer freedom/flexibility",
-      "explanation": "Mid-Sem exam solution: Option B (Reduced programmer freedom/flexibility).",
+      "explanation": "Mid-Sem exam solution: Option C (Reduced programmer freedom/flexibility).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25422,14 +24298,14 @@ const QUIZ_DATA = {
       "qnum": 25,
       "question": "Consider a language that allows programmers to directly manipulate memory using pointers. What is the most likely trade-off?",
       "options": {
-        "A": "Greater control but potentially lower reliability",
-        "B": "Greater reliability and no additional complexity",
-        "C": "Less flexibility and less control",
-        "D": "No effect on program safety"
+        "A": "Greater reliability and no additional complexity",
+        "B": "Greater control but potentially lower reliability",
+        "C": "No effect on program safety",
+        "D": "Less flexibility and less control"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Greater control but potentially lower reliability",
-      "explanation": "Mid-Sem exam solution: Option A (Greater control but potentially lower reliability).",
+      "explanation": "Mid-Sem exam solution: Option B (Greater control but potentially lower reliability).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25443,9 +24319,9 @@ const QUIZ_DATA = {
       "question": "A language designer adds many implicit type conversions to make programs easier to write. What is a possible disadvantage?",
       "options": {
         "A": "Reduced readability and increased possibility of unexpected behavior",
-        "B": "No flexibility",
-        "C": "No runtime support",
-        "D": "Elimination of type checking"
+        "B": "No runtime support",
+        "C": "Elimination of type checking",
+        "D": "No flexibility"
       },
       "answer": "A",
       "answerText": "Reduced readability and increased possibility of unexpected behavior",
@@ -25463,8 +24339,8 @@ const QUIZ_DATA = {
       "question": "Which language feature can improve writability but potentially reduce reliability?",
       "options": {
         "A": "Extensive implicit conversions",
-        "B": "Strict type checking",
-        "C": "Array-bounds checking",
+        "B": "Array-bounds checking",
+        "C": "Strict type checking",
         "D": "Restricted pointer operations"
       },
       "answer": "A",
@@ -25482,14 +24358,14 @@ const QUIZ_DATA = {
       "qnum": 28,
       "question": "Which trade-off is most clearly illustrated?",
       "options": {
-        "A": "Efficiency vs reliability",
-        "B": "Readability vs syntax",
+        "A": "Readability vs syntax",
+        "B": "Efficiency vs reliability",
         "C": "Portability vs compilation",
         "D": "Writability vs keywords"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "Efficiency vs reliability",
-      "explanation": "Mid-Sem exam solution: Option A (Efficiency vs reliability).",
+      "explanation": "Mid-Sem exam solution: Option B (Efficiency vs reliability).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25502,14 +24378,14 @@ const QUIZ_DATA = {
       "qnum": 29,
       "question": "Which programming paradigm focuses on describing what should be computed rather than explicitly specifying how?",
       "options": {
-        "A": "Imperative",
-        "B": "Declarative",
-        "C": "Procedural",
+        "A": "Declarative",
+        "B": "Procedural",
+        "C": "Imperative",
         "D": "Assembly"
       },
-      "answer": "B",
+      "answer": "A",
       "answerText": "Declarative",
-      "explanation": "Mid-Sem exam solution: Option B (Declarative).",
+      "explanation": "Mid-Sem exam solution: Option A (Declarative).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25522,14 +24398,14 @@ const QUIZ_DATA = {
       "qnum": 30,
       "question": "2. C is primarily classified as a:",
       "options": {
-        "A": "Functional language",
-        "B": "Logic programming language",
-        "C": "Procedural/imperative language",
-        "D": "Markup language"
+        "A": "Markup language",
+        "B": "Procedural/imperative language",
+        "C": "Functional language",
+        "D": "Logic programming language"
       },
-      "answer": "C",
+      "answer": "B",
       "answerText": "Procedural/imperative language",
-      "explanation": "Mid-Sem exam solution: Option C (Procedural/imperative language).",
+      "explanation": "Mid-Sem exam solution: Option B (Procedural/imperative language).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25542,14 +24418,14 @@ const QUIZ_DATA = {
       "qnum": 31,
       "question": "3. Which language is strongly associated with functional programming?",
       "options": {
-        "A": "Haskell",
-        "B": "Assembly",
-        "C": "COBOL",
-        "D": "C"
+        "A": "C",
+        "B": "COBOL",
+        "C": "Assembly",
+        "D": "Haskell"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Haskell",
-      "explanation": "Mid-Sem exam solution: Option A (Haskell).",
+      "explanation": "Mid-Sem exam solution: Option D (Haskell).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25562,14 +24438,14 @@ const QUIZ_DATA = {
       "qnum": 32,
       "question": "4. Which programming language is particularly associated with logic programming?",
       "options": {
-        "A": "Java",
-        "B": "Prolog",
-        "C": "C",
-        "D": "FORTRAN"
+        "A": "FORTRAN",
+        "B": "C",
+        "C": "Prolog",
+        "D": "Java"
       },
-      "answer": "B",
+      "answer": "C",
       "answerText": "Prolog",
-      "explanation": "Mid-Sem exam solution: Option B (Prolog).",
+      "explanation": "Mid-Sem exam solution: Option C (Prolog).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25582,14 +24458,14 @@ const QUIZ_DATA = {
       "qnum": 33,
       "question": "5. Which type of language is most closely associated with direct hardware manipulation?",
       "options": {
-        "A": "Assembly language",
+        "A": "Haskell",
         "B": "SQL",
         "C": "Python",
-        "D": "Haskell"
+        "D": "Assembly language"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Assembly language",
-      "explanation": "Mid-Sem exam solution: Option A (Assembly language).",
+      "explanation": "Mid-Sem exam solution: Option D (Assembly language).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25602,14 +24478,14 @@ const QUIZ_DATA = {
       "qnum": 34,
       "question": "6. Which language is commonly used for scientific and numerical computing?",
       "options": {
-        "A": "FORTRAN",
-        "B": "HTML",
-        "C": "Prolog",
-        "D": "SQL"
+        "A": "Prolog",
+        "B": "SQL",
+        "C": "HTML",
+        "D": "FORTRAN"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "FORTRAN",
-      "explanation": "Mid-Sem exam solution: Option A (FORTRAN).",
+      "explanation": "Mid-Sem exam solution: Option D (FORTRAN).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25622,14 +24498,14 @@ const QUIZ_DATA = {
       "qnum": 35,
       "question": "7. Which language is widely used for database querying?",
       "options": {
-        "A": "SQL",
-        "B": "Assembly",
-        "C": "C",
+        "A": "C",
+        "B": "SQL",
+        "C": "Assembly",
         "D": "Haskell"
       },
-      "answer": "A",
+      "answer": "B",
       "answerText": "SQL",
-      "explanation": "Mid-Sem exam solution: Option A (SQL).",
+      "explanation": "Mid-Sem exam solution: Option B (SQL).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25642,14 +24518,14 @@ const QUIZ_DATA = {
       "qnum": 36,
       "question": "8. Which programming approach is most closely associated with objects, classes, inheritance and polymorphism?",
       "options": {
-        "A": "Functional",
-        "B": "Object-oriented",
-        "C": "Logic",
-        "D": "Assembly"
+        "A": "Assembly",
+        "B": "Functional",
+        "C": "Object-oriented",
+        "D": "Logic"
       },
-      "answer": "B",
+      "answer": "C",
       "answerText": "Object-oriented",
-      "explanation": "Mid-Sem exam solution: Option B (Object-oriented).",
+      "explanation": "Mid-Sem exam solution: Option C (Object-oriented).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25662,14 +24538,14 @@ const QUIZ_DATA = {
       "qnum": 37,
       "question": "9. Which of the following is a common application of C?",
       "options": {
-        "A": "Operating systems",
-        "B": "Database queries only",
-        "C": "Web-page markup",
-        "D": "Spreadsheet formatting"
+        "A": "Web-page markup",
+        "B": "Spreadsheet formatting",
+        "C": "Operating systems",
+        "D": "Database queries only"
       },
-      "answer": "A",
+      "answer": "C",
       "answerText": "Operating systems",
-      "explanation": "Mid-Sem exam solution: Option A (Operating systems).",
+      "explanation": "Mid-Sem exam solution: Option C (Operating systems).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     },
     {
@@ -25682,14 +24558,14 @@ const QUIZ_DATA = {
       "qnum": 38,
       "question": "10. Python is widely used in:",
       "options": {
-        "A": "Data science and AI",
+        "A": "Only hardware programming",
         "B": "Only operating-system kernels",
-        "C": "Only hardware programming",
-        "D": "Only database management"
+        "C": "Only database management",
+        "D": "Data science and AI"
       },
-      "answer": "A",
+      "answer": "D",
       "answerText": "Data science and AI",
-      "explanation": "Mid-Sem exam solution: Option A (Data science and AI).",
+      "explanation": "Mid-Sem exam solution: Option D (Data science and AI).",
       "source": "IMP QUESTIONS MID SEM PPL.docx"
     }
   ]

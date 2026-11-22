@@ -2,6 +2,8 @@ import os
 import re
 import sys
 import json
+import random
+import hashlib
 import pypdf
 import docx
 
@@ -9,6 +11,34 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 WEBSITE_DIR = r"d:\Tanmay\Tanmay Backup\Tanmay\COEP\Study\Sem 3\End Sem Prep\Planner\Study materials and syllabus\Website"
 CLAUDE_DIR = os.path.join(WEBSITE_DIR, "claude")
+
+def shuffle_options_deterministically(q_id, options, correct_key):
+    """
+    Shuffles options deterministically using MD5 hash of q_id as seed.
+    Guarantees that the correct answer is uniformly distributed across A, B, C, D
+    while keeping the correct answer text 100% accurate.
+    """
+    if not options or not correct_key or correct_key not in options:
+        return options, correct_key
+    
+    correct_val = options[correct_key]
+    keys = sorted(list(options.keys()))
+    
+    # 32-bit integer seed from MD5 hash
+    seed = int(hashlib.md5(q_id.encode('utf-8')).hexdigest(), 16) % (2**32)
+    rng = random.Random(seed)
+    
+    vals = [options[k] for k in keys]
+    rng.shuffle(vals)
+    
+    new_options = {keys[i]: vals[i] for i in range(len(keys))}
+    new_correct_key = correct_key
+    for k, v in new_options.items():
+        if v == correct_val:
+            new_correct_key = k
+            break
+            
+    return new_options, new_correct_key
 
 dataset = {
     "subjects": [
@@ -348,8 +378,8 @@ if os.path.exists(path_mp_fib):
             "type": "fill_blank",
             "qnum": qnum,
             "question": f"Complete the statement:\n\n\"{stmt}\"",
-            "options": {"A": "Revealed in Explanation"},
-            "answer": "A",
+            "options": {},
+            "answer": "",
             "answerText": stmt,
             "explanation": f"Complete reference statement: {stmt}",
             "source": "8086_Microprocessor_Fill_in_the_Blanks.pdf"
@@ -402,8 +432,8 @@ if os.path.exists(path_mp_om):
                     "type": "qa",
                     "qnum": om_count,
                     "question": q_prompt,
-                    "options": {"A": "Revealed in Explanation"},
-                    "answer": "A",
+                    "options": {},
+                    "answer": "",
                     "answerText": a_text,
                     "explanation": a_text,
                     "source": "8086 Microprocessor – One-Mark Q&A.pdf"
@@ -444,8 +474,8 @@ for filename, ch_id, bank_id, category_name in topic_files:
                         "type": "qa",
                         "qnum": qnum,
                         "question": q_text,
-                        "options": {"A": "Show Model Answer"},
-                        "answer": "A",
+                        "options": {},
+                        "answer": "",
                         "answerText": ans_text,
                         "explanation": ans_text,
                         "source": filename
@@ -472,8 +502,8 @@ if os.path.exists(path_num_pack):
             "type": "numerical",
             "qnum": q_code,
             "question": f"[{q_code} - {marks} Marks]\n\n" + clean_text(q_body),
-            "options": {"A": "Study Problem"},
-            "answer": "A",
+            "options": {},
+            "answer": "",
             "answerText": "Practice problem from COEP End-Sem Preparation Pack.",
             "explanation": f"Problem {q_code} carries {marks} marks. Solve with full hexadecimal traces, bank signal activations, and flag state calculations.",
             "source": "8086_Numerical_and_8_Mark_Practice_Pack.pdf"
@@ -666,8 +696,14 @@ if os.path.exists(path_ppl_docx):
             
         for item in questions:
             q_id_num = item["num"] + (12 if is_supp else 0)
+            q_id = f"ppl_u{unit_num}_q{q_id_num}"
+            
+            # Deterministically shuffle options to prevent every answer being Option A
+            new_opts, new_ans = shuffle_options_deterministically(q_id, item["options"], item["answer"])
+            corr_text = new_opts.get(new_ans, "")
+            
             dataset["questions"].append({
-                "id": f"ppl_u{unit_num}_q{q_id_num}",
+                "id": q_id,
                 "subjectId": "ppl",
                 "chapterId": f"ppl_u{unit_num}",
                 "bankId": "ppl_bank_syllabus",
@@ -675,10 +711,10 @@ if os.path.exists(path_ppl_docx):
                 "type": "mcq",
                 "qnum": q_id_num,
                 "question": item["prompt"],
-                "options": item["options"],
-                "answer": item["answer"],
-                "answerText": item["options"].get(item["answer"], ""),
-                "explanation": f"Official syllabus answer for Unit {unit_num} MCQ #{item['num']} is Option {item['answer']}: {item['options'].get(item['answer'], '')}.",
+                "options": new_opts,
+                "answer": new_ans,
+                "answerText": corr_text,
+                "explanation": f"Official syllabus answer for Unit {unit_num} MCQ #{item['num']} is Option {new_ans}: {corr_text}.",
                 "source": "PPL_Complete_Syllabus_Question_Bank.docx"
             })
         return questions
@@ -698,7 +734,7 @@ if os.path.exists(path_ppl_docx):
 
     print(f"   -> Extracted {total_ppl_mcq} MCQs across 6 PPL Units.")
 
-    # Also parse 120 One-Line Concept Q&As
+    # Parse 120 One-Line Concept Q&As without dummy "Option A"
     curr_unit = 1
     ppl_qa_count = 0
     for i, p in enumerate(paragraphs):
@@ -722,8 +758,8 @@ if os.path.exists(path_ppl_docx):
                     "type": "qa",
                     "qnum": ppl_qa_count,
                     "question": q_clean,
-                    "options": {"A": "Revealed in Explanation"},
-                    "answer": "A",
+                    "options": {},
+                    "answer": "",
                     "answerText": ans_clean,
                     "explanation": ans_clean,
                     "source": "PPL_Complete_Syllabus_Question_Bank.docx"
@@ -790,8 +826,14 @@ if os.path.exists(path_ppl_mid):
             if opts and ans:
                 mid_count += 1
                 ch_id = "ppl_u1" if mid_count <= 8 else ("ppl_u2" if mid_count <= 16 else "ppl_u3")
+                q_id = f"ppl_mid_mcq_{mid_count}"
+                
+                # Deterministically shuffle options for mid-sem MCQs as well
+                new_opts, new_ans = shuffle_options_deterministically(q_id, opts, ans)
+                corr_text = new_opts.get(new_ans, "")
+                
                 dataset["questions"].append({
-                    "id": f"ppl_mid_mcq_{mid_count}",
+                    "id": q_id,
                     "subjectId": "ppl",
                     "chapterId": ch_id,
                     "bankId": "ppl_bank_midsem",
@@ -799,10 +841,10 @@ if os.path.exists(path_ppl_mid):
                     "type": "mcq",
                     "qnum": mid_count,
                     "question": q_prompt,
-                    "options": opts,
-                    "answer": ans,
-                    "answerText": opts.get(ans, ""),
-                    "explanation": f"Mid-Sem exam solution: Option {ans} ({opts.get(ans, '')}).",
+                    "options": new_opts,
+                    "answer": new_ans,
+                    "answerText": corr_text,
+                    "explanation": f"Mid-Sem exam solution: Option {new_ans} ({corr_text}).",
                     "source": "IMP QUESTIONS MID SEM PPL.docx"
                 })
                 i += 2

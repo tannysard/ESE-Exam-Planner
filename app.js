@@ -1492,7 +1492,11 @@ function handleSearch(query) {
         ` : ''}
         <div style="font-size: 0.85rem; color: var(--text-secondary); background: var(--bg-subtle); padding: 0.75rem; border-radius: var(--radius-md); border-left: 3px solid var(--primary); display: flex; justify-content: space-between; align-items: center;">
           <div>
-            <strong>Correct Answer: Option ${q.answer}</strong> — ${highlightKeyword(formatMathAndText(q.explanation || q.answerText || ''), qStr)}
+            ${q.type === 'mcq' || q.type === 'true_false' ? `
+              <strong>Correct Answer: Option ${q.answer}</strong> — ${highlightKeyword(formatMathAndText(q.explanation || q.answerText || ''), qStr)}
+            ` : `
+              <strong>Verified Solution:</strong> ${highlightKeyword(formatMathAndText(q.answerText || q.explanation || ''), qStr)}
+            `}
           </div>
           <button class="btn btn-outline" style="padding: 0.35rem 0.65rem; font-size: 0.75rem; margin-left: 1rem; white-space: nowrap;" onclick="jumpToPracticeQuestion('${q.id}')">
             Practice in Quiz
